@@ -10,11 +10,13 @@ Konvertiert Kollokations-/Kookkurrenzprofile aus DeReKo/COSMAS II in JSON-Dateie
 
 Anwendung:
 
-- Dieses Repo in Binder öffnen (siehe Schaltfläche oben)
-- dereko_cooc2json öffnen und ganz unten im Script die Argumente anpassen
-- eigene csv-Datei der Kookurrenzen (kopiert aus COSMAS II) hochladen
-- Script ausführen
-- Ergebnis liegt als Datei zum Download im Verzeichnis
+- Dieses Repo in Binder öffnen (siehe Schaltfläche oben) – dauert etwas, bitte warten
+- Eigene csv-Datei der Kookurrenzen (kopiert aus COSMAS II) hochladen.
+- dereko_cooc2json öffnen; falls eine Fehlermeldung wegen eines falschen Kernels erscheint, vorausgewählten Kernel Python 3 wählen ("set kernel")
+- Es hat sich nun ein neues Fenster geöffnet, in dem das Script ausgeführt werden kann.
+- Ganz unten im Script die Argumente anpassen.
+- In der Befehlszeile oben auf "Run" klicken: Das Script wird ausgeführt. Falls es ein Problem gibt, wird eine Fehlermeldung angezeigt.
+- Im vorherigen Fenster steht nun die erzeugte Datei zum Download zur Verfügung.
 
 ## Links
 [Introduction to Binder](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md)
