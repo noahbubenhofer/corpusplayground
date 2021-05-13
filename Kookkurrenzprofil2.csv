@@ -1,0 +1,5239 @@
+﻿#;LLR;kumul.;Häufig;links;rechts;Kookkurrenzen;syntagmatische Muster;
+
+;1;73890;5207;5207;-1;-1;Henry; 99% Henry [...] Maske
+
+;2;38081;18835;13628;-1;-1;eine; 85% eine [...] Maske
+
+;3;23346;22458;3623;-3;-2;hinter; 92% hinter [der|einer] Maske
+
+;4;20073;24776;2318;-5;5;Gesicht; 74% die Maske [vom] Gesicht
+
+;5;12076;25578;802;-1;-1;eisernen; 99% in|mit der eisernen [...] Maske
+
+;6;11702;29711;4133;-2;-1;einer; 82% mit einer [...] Maske
+
+;7;10491;29712;1;2;2;Blau Operette Raymonds Fred Potpourri ;100% Potpourri ... Fred Raymonds Operette Maske ... Blau
+
+;;;29714;2;2;2;Blau Operette Raymonds Fred Melodien ;100% Melodien aus Fred Raymonds Operette Maske in Blau
+
+;;;29724;10;2;2;Blau Operette Raymonds Fred ;100% aus Fred Raymonds [...] Operette Maske in Blau
+
+;;;29727;3;2;2;Blau Operette Raymond Fred Potpourri ;100% Potpourri aus der Operette Maske in Blau von FredRaymond
+
+;;;29734;7;2;2;Blau Operette Raymond Fred Melodien ;100% Melodien aus der Operette Maske in Blau von FredRaymond
+
+;;;29763;29;2;2;Blau Operette Raymond Fred ; 82% der|die|zur Operette [...] Maske in Blau von Fred Raymond
+
+;;;29766;3;2;2;Blau Operette Raymond ;100% Maske in Blau Operette v Raymond
+
+;;;29768;2;2;2;Blau Operette Fred ; 50% Maske ... Blau Operette ... Fred
+
+;;;29787;19;2;2;Blau Operette Potpourri ;100% einem Potpourri aus der Operette Maske in Blau
+
+;;;29800;13;2;2;Blau Operette Melodien ;100% Melodien aus der Operette [...] Maske in Blau
+
+;;;29942;142;2;2;Blau Operette ; 90% aus der Operette [...] Maske in Blau
+
+;;;29968;26;2;2;Blau Raymonds Fred ;100% Ausschnitte aus Fred Raymonds [...] Maske in Blau
+
+;;;29970;2;2;2;Blau Raymonds Potpourri ; 50% Potpourri ... Raymonds ... Maske ... Blau
+
+;;;29978;8;2;2;Blau Raymonds ;100% oder Raymonds [...] Maske in Blau
+
+;;;29980;2;2;2;Blau Raymond Fred Potpourri ;100% Potpourri aus der ... Maske in Blau von Fred Raymond
+
+;;;30026;46;2;2;Blau Raymond Fred ; 86% Maske in Blau [von] Fred Raymond
+
+;;;30027;1;2;2;Blau Raymond Potpourri ;100% Potpourri ... Maske ... Blau ... Raymond
+
+;;;30031;4;2;2;Blau Raymond ; 75% Raymond [... aus ...] Maske in Blau
+
+;;;30033;2;2;2;Blau Fred ;100% Maske in Blau ... Fred
+
+;;;30036;3;2;2;Blau Potpourri Melodien ; 66% Potpourri Maske in Blau Melodien
+
+;;;30052;16;2;2;Blau Potpourri ; 87% mit ein|einem Potpourri [aus der] Maske in Blau die|aus
+
+;;;30074;22;2;2;Blau Melodien ;100% anderem sind Melodien aus der Maske in Blau und viele
+
+;;;30554;480;2;2;Blau ; 99% Maske in Blau
+
+;8;10349;30776;222;-2;-2;Tragen; 91% das Tragen der Maske
+
+;9;9042;30811;35;2;2;Zorro Banderas Antonio ; 80% Schauspieler Antonio Banderas Die Maske des Zorro und
+
+;;;30825;14;2;2;Zorro Banderas ; 78% Der|La Vega Banderas erstmals die|Die mit ... Maske desZorro angelegt und
+
+;;;30875;50;2;2;Zorro sw ;100% Die Maske des Zorro [ab 10] sw
+
+;;;30878;3;2;2;Zorro Antonio ;100% Die Maske des Zorro ... Antonio
+
+;;;31328;450;2;2;Zorro ; 94% Die Maske [des] Zorro
+
+;10;8692;35966;4638;-1;-1;Die; 96% Die [...] Maske
+
+;11;7236;36871;905;-4;-3;Mann; 92% der|Der Mann mit der Maske
+
+;12;5084;37202;331;1;1;getragen; 99% die|keine Maske [...] getragen werden
+
+;13;5031;37798;596;-3;-2;Hinter;100% Hinter [der] Maske des ...
+
+;14;3931;38347;549;-5;4;Kostüme; 65% Kostüme [und] Maske und
+
+;15;3864;38512;165;-1;-1;schwarze; 86% die schwarze [...] Maske
+
+;16;3389;40018;1506;-2;-2;unter; 81% unter [der] Maske
+
+;17;3008;40050;32;-5;5;verbirgt; 84% Unter der|die Maske [...] verbirgt sich
+
+;18;2641;40263;213;-3;-3;Frosch;100% Der Frosch mit der Maske
+
+;19;2533;40439;176;-4;5;Requisite; 51% Maske [und] Requisite und
+
+;20;2329;40500;61;-2;-1;Boxer; 67% Boxer [...] Maske
+
+;21;2253;40590;90;1;3;aufzusetzen; 96% die Maske [...] aufzusetzen
+
+;22;2242;40591;1;-1;-1;Operette;100% Operette Maske
+
+;23;2197;40795;204;-5;5;Bühnenbild; 63% Bühnenbild [und] Maske und
+
+;24;2143;40810;15;-5;5;Rocchigiani Graciano ; 80% zwischen Maske [und] Graciano Rocchigiani
+
+;;;40885;75;-5;5;Rocchigiani ; 70% Maske [-|und|gegen] Rocchigiani
+
+;25;2125;40957;72;3;5;Nase Mund ; 83% die Maske [über] Mund und Nase
+
+;;;41093;136;3;5;Nase ; 69% die Maske ... über|der|die Nase
+
+;26;2053;41096;3;2;3;Todes roten Poes Allan Edgar ;100% Edgar Allan Poes Maske des roten Todes
+
+;;;41100;4;2;3;Todes roten Poes ;100% Poes Maske des roten Todes
+
+;;;41118;18;2;3;Todes roten ;100% die Maske des roten Todes
+
+;;;41120;2;2;3;Todes Roten Poes Allan Edgar ;100% Edgar Allan Poes Maske des Roten Todes
+
+;;;41121;1;2;3;Todes Roten Poes Edgar ;100% Edgar ... Poes Maske ... Roten Todes
+
+;;;41122;1;2;3;Todes Roten Poes ;100% Poes Maske ... Roten Todes
+
+;;;41123;1;2;3;Todes Roten Allan Poe ;100% Allan Poe ... Maske ... Roten Todes
+
+;;;41125;2;2;3;Todes Roten Edgar ;100% Maske des Roten Todes erzählt Edgar
+
+;;;41134;9;2;3;Todes Roten ;100% die|der Maske des Roten Todes
+
+;;;41135;1;2;3;Todes Poes Edgar ;100% Edgar ... Poes Maske ... Todes
+
+;;;41179;44;2;3;Todes ; 84% und|in der|die Maske des Todes
+
+;27;2023;41359;180;-5;4;trage; 56% Ich trage [... keine|die] Maske
+
+;28;1941;41365;6;-1;-1;Badener Tournée Theatergruppe ;100% geht die Theatergruppe Badener Maske wieder auf Tournée
+
+;;;41368;3;-1;-1;Badener Tournée ;100% Badener Maske ist auf Tournée
+
+;;;41372;4;-1;-1;Badener Theatergruppe ;100% die Theatergruppe [...] Badener Maske
+
+;;;41503;131;-1;-1;Badener ;100% die|der Badener Maske
+
+;29;1925;41540;37;3;4;reißen; 72% die Maske [von|vom Kopf zu] reißen
+
+;30;1912;41708;168;-5;5;Handschuhe; 61% Maske [und] Handschuhe
+
+;31;1891;41832;124;-1;-1;schwarzen; 75% mit der schwarzen [...] Maske
+
+;32;1741;41942;110;1;5;aufgesetzt; 96% die Maske [...] aufgesetzt
+
+;33;1724;42129;187;-3;5;Frisuren; 71% für Maske [und] Frisuren
+
+;34;1680;42145;16;-3;3;Flossen ABC-Ausrüstung ; 81% Tauchen mit ABC-Ausrüstung [- bestehend aus] Maske[Schnorchel und] Flossen -|Schnorchel wird
+
+;;;42268;123;-3;3;Flossen ; 60% mit|Schnorchel Maske [Schnorchel|und] Flossen und
+
+;35;1671;42291;23;-5;5;Hill Virgil ; 52% Karriere gegen Virgil Hill wird ... Maske im Januar
+
+;;;42439;148;-5;5;Hill ; 61% Maske [und|gegen] Hill
+
+;36;1654;42591;152;-1;-1;schwarzer; 90% mit schwarzer [...] Maske und
+
+;37;1623;42686;95;2;5;Mund; 73% die Maske ... dem|den|über ... Mund
+
+;38;1612;42693;7;-5;5;Michalczewski Dariusz ; 57% mit Maske [...] Dariusz Michalczewski und
+
+;;;42737;44;-5;5;Michalczewski ; 79% Maske [und] Michalczewski
+
+;39;1570;43277;540;-5;-4;Der; 93% Der [... mit|der|die] Maske
+
+;40;1543;43282;5;-5;5;Virgil;100% Maske ... den gegen Virgil
+
+;41;1538;43283;1;-1;-1;Rita Hauptamtsleiterin Bürgermeisterin stellvertretende ;100% Hauptamtsleiterin Rita Maske ... stellvertretendeBürgermeisterin
+
+;;;43332;49;-1;-1;Rita Hauptamtsleiterin ; 87% Hauptamtsleiterin Rita Maske
+
+;;;43348;16;-1;-1;Rita Amtsleiterin ; 87% Amtsleiterin Rita Maske
+
+;;;43358;10;-1;-1;Rita Wahlleiterin ; 90% teilte Wahlleiterin Rita Maske mit
+
+;;;43369;11;-1;-1;Rita Bürgermeisterin stellvertretende ; 90% die|Friedlands stellvertretende Bürgermeisterin Rita Maske
+
+;;;43371;2;-1;-1;Rita Bürgermeisterin ;100% Bürgermeisterin Rita Maske
+
+;;;43487;116;-1;-1;Rita ; 86% Rita [...] Maske
+
+;42;1414;43597;110;-5;5;Souffleuse; 70% Souffleuse [und ...] Maske und ...
+
+;43;1360;43904;307;-1;-1;Ohne; 98% Ohne [...] Maske
+
+;44;1341;44082;178;1;4;abnehmen;100% die Maske [...] abnehmen
+
+;45;1319;44147;65;-1;-1;weiße; 95% die weiße [...] Maske ... die
+
+;46;1305;44197;50;2;3;Biedermanns;100% in der|die Maske des Biedermanns
+
+;47;1302;44853;656;-1;-1;Eine; 99% Eine [...] Maske
+
+;48;1285;44886;33;3;3;gerissen; 93% ihm|Bankräuber die Maske vom Kopf gerissen die Beute
+
+;49;1274;44888;2;1;5;Mask The ;100% Maske [...] The Mask
+
+;;;44889;1;1;5;Mask of ;100% Mask of ... Maske
+
+;;;44894;5;1;5;Mask ; 80% Mask ... Maske
+
+;50;1261;44965;71;1;5;aufsetzt; 94% die Maske [...] aufsetzt
+
+;51;1253;45204;239;2;3;Kopf; 83% die Maske vom ... Kopf und
+
+;52;1251;45217;13;-5;5;versteckt; 76% der Maske [...] versteckt sich
+
+;53;1222;45227;10;2;5;Sehschlitzen; 80% Leinentasche mit Sehschlitzen als ... der ... Maske undverstaute
+
+;54;1210;45229;2;-5;5;Graciano;100% Maske ... Graciano
+
+;55;1189;45230;1;-4;4;Box-Weltmeister;100% Box-Weltmeister Maske
+
+;56;1187;45345;115;-3;4;Schulz; 71% Maske [und] Schulz
+
+;57;1181;45353;8;-1;-1;Annas Oper Heftis Philip ;100% David Philip Heftis [...] Oper Annas Maske
+
+;;;45354;1;-1;-1;Annas Oper Novelle Sulzer ;100% Oper ... Novelle Annas Maske ... Sulzer
+
+;;;45356;2;-1;-1;Annas Oper Hefti Philip ;100% Oper Annas Maske von David Philip Hefti
+
+;;;45370;14;-1;-1;Annas Oper ; 92% Gallen der Oper Annas Maske nach|am dem
+
+;;;45377;7;-1;-1;Annas Auftragsoper Lohengrin ;100% Wagners Lohengrin die Auftragsoper Annas Maske dasMusical
+
+;;;45378;1;-1;-1;Annas Heftis ;100% Heftis ... Annas Maske
+
+;;;45385;7;-1;-1;Annas Novelle Sulzer ;100% Sulzer in seiner Novelle Annas Maske
+
+;;;45391;6;-1;-1;Annas Novelle ;100% Novelle Annas Maske
+
+;;;45396;5;-1;-1;Annas Hefti Philip ; 80% Annas Maske von David Philip Hefti
+
+;;;45397;1;-1;-1;Annas Sulzer ;100% Sulzer ... Annas Maske
+
+;;;45431;34;-1;-1;Annas ;100% Annas Maske
+
+;58;1162;45443;12;-5;5;verbarg; 91% Unter der Maske [des ...] verbarg sich ...
+
+;59;1144;45526;83;-5;3;Schutzanzug; 63% mit Schutzanzug [und] Maske und
+
+;60;1085;46317;791;-1;-1;ihre; 77% ihre [...] Maske
+
+;61;1076;46329;12;-1;-1;Goldene Theaterpreis ; 91% bedeutenden den Theaterpreis [Solotaja Maska] GoldeneMaske erhalten
+
+;;;46433;104;-1;-1;Goldene ; 97% die Goldene [...] Maske für
+
+;62;1066;46443;10;-5;5;Requisiten Völkerball-Musiker nachgebildeten Outfits mühevoll ;100% mühevoll nachgebildeten Requisiten Outfits und Maskeverstehen es die sechs Völkerball-Musiker
+
+;;;46444;1;-5;5;Requisiten Völkerball-Musiker Outfits mühevoll ;100% mühevoll ... Requisiten Outfits ... Maske ... Völkerball-Musiker
+
+;;;46446;2;-5;5;Requisiten Völkerball-Musiker Outfits ;100% Requisiten Outfits und Maske ... Völkerball-Musiker
+
+;;;46448;2;-5;5;Requisiten nachgebildeten Outfits mühevoll ;100% mühevoll nachgebildeten Requisiten Outfits und Maske
+
+;;;46450;2;-5;5;Requisiten Outfits ;100% Requisiten Outfits und Maske
+
+;;;46458;8;-5;5;Requisiten Vorsprechen ;100% Friedrichsen mit Maske Kostüm und Requisiten zumVorsprechen
+
+;;;46532;74;-5;5;Requisiten ; 71% Maske [und ...] Requisiten
+
+;63;1028;47235;703;-2;-1;Mit; 99% Mit [...] Maske und ...
+
+;64;1015;47240;5;-4;2;Boxweltmeister; 60% Boxweltmeister Maske
+
+;65;1004;47245;5;-4;-4;Pierrot Melancholie Ausstellung Barnes ;100% Ausstellung Pierrot - Melancholie und Maske 18 UhrAusstellung Barnes Collection
+
+;;;47292;47;-4;-4;Pierrot Melancholie Ausstellung ; 87% Ausstellung Pierrot - Melancholie und Maske 18 Uhr
+
+;;;47295;3;-4;-4;Pierrot Melancholie Barnes ;100% Pierrot - Melancholie und Maske 11 und 14|Uhr Barnes
+
+;;;47316;21;-4;-4;Pierrot Melancholie ;100% Uhr|Führung Pierrot [-] Melancholie und Maske 18 Uhr
+
+;;;47319;3;-4;-4;Pierrot ; 66% Maske [...] Pierrot
+
+;66;999;47368;49;-3;5;Gentleman; 63% Gentleman [...] Maske
+
+;67;995;47378;10;2;2;Kothurn Böhlau ; 80% Maske und Kothurn 13 Böhlau Wien
+
+;;;47419;41;2;2;Kothurn ; 90% Maske und Kothurn
+
+;68;974;47724;305;-1;-1;meine; 87% Ich und meine [...] Maske
+
+;69;963;47797;73;-5;5;Sido; 63% Sido [... mit ...] Maske
+
+;70;962;47843;46;1;1;erstarrt; 82% zur Maske [...] erstarrt
+
+;71;960;47847;4;2;2;Dimitrios;100% Maske des Dimitrios
+
+;72;949;47932;85;-5;4;Handschuhen; 76% mit Maske [und] Handschuhen und
+
+;73;912;47973;41;-1;-1;goldene; 95% die goldene [...] Maske des ...
+
+;74;910;47980;7;-5;5;Umhang schwarzem ; 57% mit schwarzem Umhang und schnabelförmiger Maske
+
+;;;48012;32;-5;5;Umhang ; 59% mit Umhang [und] Maske und
+
+;75;879;49989;1977;-4;-2;er; 61% er [... die] Maske
+
+;76;879;50109;120;-4;5;Garderobe; 58% in ... Maske [und] Garderobe und
+
+;77;858;50113;4;-5;5;Schmeling Max ;100% Maske [...] Max Schmeling
+
+;;;50136;23;-5;5;Schmeling ; 56% Maske [spielt|als] Schmeling in
+
+;78;827;50159;23;2;3;Biedermannes;100% in der|die Maske des|eines Biedermannes
+
+;79;825;50169;10;-1;-1;eiserne;100% die eiserne Maske
+
+;80;802;50264;95;-5;1;trugen; 50% trugen [die keine] Maske
+
+;81;799;50489;225;-2;-2;Unter; 99% Unter [der] Maske
+
+;82;784;50505;16;-5;-1;ABC-Ausrüstung Schwimmbadflossen Schwimmsachen mitzubringen ;100% neben Schwimmsachen auch die ABC-Ausrüstung MaskeSchnorchel und Schwimmbadflossen mitzubringen
+
+;;;50506;1;-5;-1;ABC-Ausrüstung Schwimmbadflossen ;100% ABC-Ausrüstung Maske ... Schwimmbadflossen
+
+;83;783;50512;6;1;5;verstecken; 66% Maske ... sich ... verstecken
+
+;84;772;50517;5;-5;5;Gentleman-Boxer; 60% der einstige Gentleman-Boxer Maske und das
+
+;85;771;50546;29;1;1;steckt; 68% in der Maske [...] steckt
+
+;86;761;50607;61;-4;5;Schminke; 50% Schminke [und] Maske und
+
+;87;757;50610;3;-2;-2;Ex-Boxer;100% Ex-Boxer [Henri] Maske
+
+;88;744;50635;25;1;5;verbergen; 92% kann die Maske [noch so viel|zu] verbergen
+
+;89;738;51333;698;-1;-1;zur; 65% zur [...] Maske
+
+;90;730;51340;7;-4;5;verborgen; 85% die Maske [einen grimmigen Ausdruck] verborgen
+
+;91;729;51352;12;-2;-2;Melancholie; 66% Melancholie und Maske
+
+;92;722;51355;3;-5;5;Ottke Sven ; 66% Sven Ottke ... Maske
+
+;;;51372;17;-5;5;Ottke ; 70% von Maske [oder] Ottke und den
+
+;93;718;52509;1137;-2;-2;nur; 65% nur [mit|die] Maske
+
+;94;714;52650;141;-3;4;Unterricht; 51% im Unterricht [... mit] Maske tragen
+
+;95;706;52659;9;-5;5;Halbschwergewicht; 88% 1990 kämpfte Maske als|war Profi im Halbschwergewichtund
+
+;96;700;52727;68;1;4;ablegen; 95% die Maske [...] ablegen
+
+;97;690;53107;380;-1;-1;seiner; 72% mit seiner [...] Maske
+
+;98;686;53109;2;-2;-2;Hauptamtsleiterin;100% Hauptamtsleiterin Maske
+
+;99;685;53470;361;2;2;lassen; 82% die Maske [fallen] lassen
+
+;100;679;53506;36;-1;-1;weißen; 77% mit der weißen [...] Maske
+
+;101;676;53543;37;-5;5;Perücke; 62% mit ... Perücke [und ...] Maske und
+
+;102;672;53544;1;4;5;Raymond Fred ;100% Maske ... Fred Raymond
+
+;103;672;53575;31;-5;5;Antlitz; 54% das Antlitz [und] Maske
+
+;104;668;53601;26;-5;4;reißt herunter ; 96% reißt ihnen der die Maske [...] herunter und zeigt
+
+;;;53615;14;-5;4;reißt ; 64% reißt euch|sich die Maske runter und
+
+;105;667;53628;13;2;5;Kinn unters ;100% kurz die Maske [...] unters Kinn zu ziehen
+
+;;;53640;12;2;5;Kinn unterm ;100% haben die|mit Maske [...] unterm Kinn oder|baumeln
+
+;;;53663;23;2;5;Kinn ; 56% die Maske [am ...] Kinn
+
+;106;665;53668;5;-1;-1;Theobald Sternheims ; 60% Theobald Maske ... in Sternheims
+
+;;;53713;45;-1;-1;Theobald ; 97% Beamten Theobald [...] Maske
+
+;107;657;53801;88;1;1;runter; 84% die Maske [...] runter
+
+;108;655;53813;12;-1;-1;venezianische;100% und|die venezianische Maske
+
+;109;648;53814;1;-2;-2;Ex-Boxweltmeister;100% Ex-Boxweltmeister Maske
+
+;110;642;53967;153;-5;5;Technik; 58% Technik [und] Maske und ...
+
+;111;642;54070;103;-1;-1;Beste; 87% Beste Maske
+
+;112;635;54153;83;-4;5;Pflicht; 86% ist die Maske [...] Pflicht
+
+;113;634;54186;33;-5;5;Lächeln; 60% Lächeln [... die] Maske
+
+;114;627;54273;87;-5;3;Helm; 66% mit Helm [und] Maske
+
+;115;626;54275;2;-3;-3;Stunden täglich zweieinhalb ;100% täglich zweieinhalb Stunden in der Maske
+
+;;;54297;22;-3;-3;Stunden täglich ; 72% täglich drei Stunden in der Maske sitzen
+
+;;;54307;10;-3;-3;Stunden zweieinhalb ; 80% Drehtag zweieinhalb Stunden in die|der Maske setzen
+
+;;;54532;225;-3;-3;Stunden ; 83% Stunden [in der] Maske
+
+;116;621;54547;15;-5;5;Fratze;100% die Maske von der ... Fratze
+
+;117;618;54584;37;-5;5;desinfizieren Hände ; 64% Abstand halten Maske [auf|tragen ...] Hände [...]desinfizieren
+
+;;;54595;11;-5;5;desinfizieren ; 63% Maske tragen ... desinfizieren und ...
+
+;118;613;54607;12;-5;5;Wolke Manfred ; 75% Maske und sein|dessen Erfolgstrainer|Trainer ManfredWolke
+
+;;;54640;33;-5;5;Wolke ; 51% Wolke ... Maske in
+
+;119;608;54646;6;-1;-1;Toralf Matuszewski ;100% Fridjof Matuszewski FDP und Toralf Maske Bündnis ...
+
+;;;54690;44;-1;-1;Toralf ;100% Toralf Maske ... Neustrelitz
+
+;120;602;55273;583;-2;-2;durch; 63% durch [die ...] Maske
+
+;121;596;55308;35;-5;5;Mindestabstand; 68% ohne|mit Maske und der Mindestabstand
+
+;122;594;55329;21;-1;-1;afrikanische; 95% afrikanische [...] Maske
+
+;123;591;55386;57;1;1;abzunehmen; 92% seine|die Maske [...] abzunehmen
+
+;124;577;55625;239;-5;-2;Wer; 99% Wer [... keine|die] Maske trägt ...
+
+;125;569;55626;1;4;4;Fred;100% Maske ... Fred
+
+;126;565;55666;40;1;5;heruntergerissen;100% die Maske [...] heruntergerissen
+
+;127;562;55682;16;-5;5;Bühnenbau; 62% den ... Bühnenbau [und] Maske
+
+;128;559;55733;51;-5;5;geschminkt; 74% in|In die|der Maske [...] geschminkt und
+
+;129;554;55794;61;-5;4;Kostümen; 62% Kostümen [und] Maske
+
+;130;547;55798;4;-5;-1;Boxkampf; 75% Boxkampf [...] Maske
+
+;131;546;55833;35;1;1;herunter; 94% die Maske [...] herunter und
+
+;132;544;55845;12;2;2;roten Todesgriff ;100% Im Todesgriff der roten Maske The Oblong
+
+;;;55872;27;2;2;roten ; 70% mit der roten [... und die] Maske
+
+;133;537;55873;1;2;2;Fu-Manchu;100% Maske ... Fu-Manchu
+
+;134;534;55888;15;-4;5;verdeckt; 60% die|der Maske [die|einen Großteil des Gesichts] verdeckt
+
+;135;530;55921;33;-5;5;Abstandsregeln; 69% frei mit|ohne Maske [tragen|und Einhalten von]Abstandsregeln bewegen
+
+;136;528;55968;47;1;1;abnimmt; 95% die|seine Maske [...] abnimmt und
+
+;137;519;56057;89;-1;-1;Jede;100% Jede [...] Maske wird ...
+
+;138;515;56072;15;-5;5;Sauerstoff; 80% mit ... Maske mit und Sauerstoff
+
+;139;511;56144;72;-5;-2;Fahrgäste; 98% Fahrgäste ohne die ... Maske
+
+;140;504;56177;33;-5;-2;Nasenbeinbruch; 93% nach seinem Nasenbeinbruch ... mit ... Maske
+
+;141;503;56189;12;-5;5;Einkaufen Begrüßung momentan ;100% Begrüßung oder das Einkaufen ohne Maske momentankeine guten
+
+;;;56239;50;-5;5;Einkaufen ; 52% Einkaufen mit|ohne Maske und
+
+;142;493;56273;34;-5;4;Peeling; 79% Peeling [und ...] Maske und
+
+;143;490;56310;37;-2;-2;Imkerbundes Peter ; 78% des Deutschen Imkerbundes Peter Maske
+
+;;;56312;2;-2;-2;Imkerbundes ;100% Imkerbundes laut Maske
+
+;144;482;56337;25;-2;-2;Weltmeister; 56% Maske [bleibt ...] Weltmeister
+
+;145;479;56341;4;-5;5;Banderas Antonio ; 50% Maske ... Antonio Banderas
+
+;;;56345;4;-5;5;Banderas ; 50% Maske ... Banderas
+
+;146;478;56395;50;-1;-1;schönste; 94% die schönste [...] Maske
+
+;147;476;56399;4;-2;-2;Ex-Weltmeister; 50% Maske dann wirkt der Ex-Weltmeister
+
+;148;476;56420;21;2;5;Fawkes Guy ; 95% die Maske [des von] Guy Fawkes
+
+;;;56422;2;2;5;Fawkes ; 50% Maske ... Fawkes
+
+;149;471;56494;72;-5;-2;zieht; 70% zieht [... die] Maske
+
+;150;470;56496;2;-1;-1;Jakob Kinderarzt Berufsverbands ;100% Kinderarzt Jakob Maske Sprecher des BerlinerBerufsverbands
+
+;;;56510;14;-1;-1;Jakob Kinderarzt ; 57% der ... Kinderarzt Jakob Maske
+
+;;;56511;1;-1;-1;Jakob Jugendärzte Berufsverband ;100% Jakob Maske ... Berufsverband ... Jugendärzte
+
+;;;56524;13;-1;-1;Jakob Jugendärzte ;100% Kinder und Jugendärzte [BVKJ für Berlin] Jakob Maskesagt|den Ausbruch
+
+;;;56529;5;-1;-1;Jakob Berufsverbands ;100% Jakob Maske Berliner Sprecher des Berufsverbands der
+
+;;;56538;9;-1;-1;Jakob Berufsverband ;100% sagte Jakob Maske vom Berufsverband der Kinder
+
+;;;56569;31;-1;-1;Jakob ; 96% sagt Jakob [...] Maske
+
+;151;465;56718;149;-1;-1;jede; 83% jede [...] Maske
+
+;152;465;56771;53;-4;5;Brille; 56% mit|die Brille [und ...] Maske
+
+;153;461;56775;4;1;2;eingeatmet;100% der Maske ... und wieder eingeatmet
+
+;154;459;56806;31;-1;-1;goldenen; 96% der goldenen [...] Maske von
+
+;155;454;56826;20;1;4;verantwortlich zeichnete ; 55% für|Für die Maske zeichnete ... verantwortlich und
+
+;;;56845;19;1;4;verantwortlich zeichnet ; 57% Für|für die Maske zeichnet ... verantwortlich
+
+;;;56988;143;1;4;verantwortlich ; 72% Für|für die Maske [war ...] verantwortlich
+
+;156;454;57019;31;1;1;anziehen; 90% keine|die Maske [...] anziehen
+
+;157;451;57237;218;-3;-2;ihm; 63% ihm [... die] Maske
+
+;158;443;59041;1804;-4;-2;sich; 55% sich [... die] Maske
+
+;159;443;59047;6;-5;3;Cro wurd ;100% wurd als Teenager bekannt keine Maske so wie Cro undkam
+
+;;;59074;27;-5;3;Cro ; 92% Cro ohne mit|die Maske
+
+;160;438;59183;109;-5;5;Schauspieler; 64% Schauspieler [... in|die|der] Maske
+
+;161;436;59194;11;-5;5;Darth Vader ; 81% die|zerstörte Maske von Darth Vader ... weitere
+
+;;;59201;7;-5;5;Darth Vaders ;100% Darth Vaders [...] Maske
+
+;;;59202;1;-5;5;Darth ;100% Maske ... Darth
+
+;162;435;59210;8;1;2;gefallen fassungslos ;100% fassungslos darüber dass jetzt die Maske gefallen ist bei
+
+;;;59277;67;1;2;gefallen ; 98% ist die Maske [ist] gefallen
+
+;163;435;59286;9;-5;5;Mimik Gestik ; 44% über Gestik und Mimik ohne Maske 30 bis
+
+;;;59311;25;-5;5;Mimik ; 76% die Maske [und die] Mimik
+
+;164;434;59330;19;1;5;steckte; 89% In|in|Boom der|um Maske [noch in den Kinderschuhen]steckte
+
+;165;432;59353;23;2;3;Clowns; 78% in der|die Maske des|eines ... Clowns und
+
+;166;431;59359;6;-1;-1;genähte;100% die selbst genähte Maske
+
+;167;429;59360;1;2;2;Roten;100% Maske ... Roten
+
+;168;427;59362;2;-5;5;Schal Tuch ; 50% Maske Schal ... Tuch
+
+;;;59388;26;-5;5;Schal ; 69% den|mit ... Schal [hoch|oder wenn die|als] Maske nach dem
+
+;169;424;59420;32;2;2;Fetisch Afrikanische Afrikanischen Kunst Dorf ;100% Afrikanischen Dorf Afrikanische Kunst zwischen Maske undFetisch
+
+;;;59424;4;2;2;Fetisch Afrikanische Kunst ;100% Afrikanische Kunst zwischen Maske und Fetisch
+
+;;;59429;5;2;2;Fetisch ; 60% Maske [...] Fetisch
+
+;170;423;59454;25;1;5;herunterzureißen;100% die Maske [...] herunterzureißen
+
+;171;422;60255;801;-2;-2;wie; 55% wie [... die] Maske
+
+;172;422;60263;8;-4;5;Verkleidung Darstellende volkstümliche ;100% Kostüm Darstellende Kunst oder auf Maske dort wird dievolkstümliche Verkleidung
+
+;;;60301;38;-4;5;Verkleidung ; 57% ohne Maske [und] Verkleidung
+
+;173;418;60342;41;-5;5;Sicherheitsabstand; 60% mit|ohne Maske [und ...] Sicherheitsabstand
+
+;174;414;60370;28;-5;5;persona; 71% persona [...] Maske
+
+;175;412;60435;65;-5;5;Hände waschen ; 55% Abstand halten Hände [...] waschen [Abstand|und halten]Maske tragen ...
+
+;;;60470;35;-5;5;Hände ; 74% die der Maske in die Hände
+
+;176;409;60473;3;-5;5;Boxlegende; 66% Boxlegende Maske
+
+;177;407;60475;2;-5;5;waschen halten ;100% waschen Abstand halten [...] Maske
+
+;;;60484;9;-5;5;waschen ; 66% die Maske [... zu] waschen
+
+;178;406;60485;1;3;3;Schwimmbadflossen Schwimmsachen mitzubringen ;100% Schwimmsachen ... Maske ... Schwimmbadflossenmitzubringen
+
+;179;399;60493;8;-5;5;Carrey Jim ; 75% der ... Maske [von] Jim Carrey über ...
+
+;;;60494;1;-5;5;Carrey ;100% Carrey ... Maske
+
+;180;399;60528;34;-1;-1;perfekte; 97% für|Für die perfekte [...] Maske sorgt
+
+;181;397;60605;77;-3;-2;jemand; 79% wenn jemand [keine|die] Maske
+
+;182;397;60609;4;1;5;Frankfurt/Oder;100% Maske ... in Frankfurt/Oder
+
+;183;389;60625;16;2;2;Agamemnon; 93% der|die Maske des Agamemnon
+
+;184;388;60959;334;-1;-1;diese; 78% diese [...] Maske
+
+;185;385;60987;28;-3;5;verrutscht; 75% die Maske [...] verrutscht
+
+;186;384;61002;15;-1;-1;starre;100% die starre [...] Maske
+
+;187;378;61003;1;2;5;Tutanchamun Reparaturversuch ;100% Reparaturversuch ... Maske ... Tutanchamun
+
+;;;61023;20;2;5;Tutanchamun ; 80% die Maske des Tutanchamun
+
+;188;378;61279;256;-5;4;halten; 51% Maske [tragen und Abstand] halten schützt
+
+;189;375;61359;80;-5;-2;wer; 72% wer [... die] Maske trägt ...
+
+;190;373;61504;145;-1;-1;trotz; 83% trotz [...] Maske
+
+;191;368;61523;19;1;4;fallenlassen;100% die Maske [...] fallenlassen und
+
+;192;362;61645;122;1;4;zuständig; 85% für die Maske [...] zuständig
+
+;193;358;62063;418;-4;-3;wenn; 61% wenn [... die ...] Maske
+
+;194;358;62093;30;2;5;Ring; 73% Maske ... am im|den Ring
+
+;195;351;62095;2;-2;-1;Boxers;100% Boxers [...] Maske
+
+;196;350;62109;14;-5;1;Sidos;100% auf Sidos [Debütalbum|Album] Maske
+
+;197;349;62114;5;-2;-1;Box-Idol;100% Box-Idol Maske
+
+;198;346;62132;18;-5;5;Boxen; 55% Boxen mit ... Maske
+
+;199;345;62150;18;-5;5;Tontechnik; 77% zu Tanz Maske ... Licht|Kostüm und|Film ... Tontechnik
+
+;200;343;62212;62;3;5;Augen; 50% die|der Maske ... die Augen
+
+;201;343;62214;2;3;5;Scream Horrorfilm ;100% Maske aus dem Horrorfilm Scream
+
+;;;62226;12;3;5;Scream ; 83% kannte|mit der|die Maske aus dem Film Scream spürte
+
+;202;341;62237;11;-5;5;Gesichts; 72% die Maske die eines ... des Gesichts
+
+;203;339;62306;69;-5;5;Regie; 55% Regie [... und] Maske und
+
+;204;338;62320;14;2;2;Bösen; 92% die Maske des Bösen
+
+;205;338;62325;5;-2;-1;Imkerbund-Präsident verfälschen ;100% zu verfälschen sagt Imkerbund-Präsident Peter Maske
+
+;;;62336;11;-2;-1;Imkerbund-Präsident ;100% sagt Imkerbund-Präsident [Peter] Maske sagt es
+
+;206;337;62367;31;1;4;Desinfektionsmittel; 87% mit Maske [und] Desinfektionsmittel
+
+;207;334;62368;1;-5;5;Bart polizeilich ;100% Bart ... Maske polizeilich
+
+;;;62392;24;-5;5;Bart ; 62% mit der|die Maske [über ...] Bart
+
+;208;332;62438;46;-1;-1;deine; 86% deine Maske
+
+;209;330;62456;18;-5;4;Dr; 77% Dr [Martin ... der] Maske des|Assistenzarzt der
+
+;210;329;62459;3;-5;3;riss;100% riss ... die Maske
+
+;211;328;62477;18;-1;-1;weißer; 77% mit weißer Maske und ...
+
+;212;328;62497;20;-5;4;Abstandhalten; 60% Maske und Abstandhalten
+
+;213;326;62523;26;-5;-2;Räuber; 96% Räuber mit ... Maske und
+
+;214;324;62534;11;-1;-1;beste prämiert ;100% wird die beste Maske [...] prämiert
+
+;;;62608;74;-1;-1;beste ; 77% für die beste [...] Maske
+
+;215;324;62613;5;-1;-1;chirurgische;100% chirurgische Maske
+
+;216;323;62636;23;-5;5;Larve; 47% Besucher mit|die Maske [oder] Larve erhält außerdem
+
+;217;319;62656;20;-5;5;Make-up; 70% die Maske [das|und] Make-up
+
+;218;318;62932;276;2;2;müssen; 52% die Maske [tragen] müssen
+
+;219;315;62933;1;-5;5;Vader;100% Vader ... Maske
+
+;220;314;62943;10;-1;-1;venezianischen; 90% der venezianischen [...] Maske
+
+;221;313;62952;9;1;5;aufsetzte;100% die|seine Maske [des ...] aufsetzte und
+
+;222;311;63157;205;-3;-3;Ich; 90% Ich ... keine|die Maske
+
+;223;310;63166;9;2;5;wahres; 88% seine Maske ab|abgelegt und zeigt sein wahres
+
+;224;308;63176;10;-4;4;Wohlanständigkeit; 60% die Maske der|bürgerlicher Wohlanständigkeit
+
+;225;306;63196;20;-5;4;Ton Licht ; 35% Licht [und] Ton [Video ...] Maske und Kostüm
+
+;;;63223;27;-5;4;Ton ; 51% für|den Ton [... und|die] Maske und Schnitt
+
+;226;304;63290;67;-4;-2;setzt; 85% setzt ... die Maske auf
+
+;227;303;63316;26;-5;5;Sitzplatz; 65% am|zum Sitzplatz [kann darf|die] Maske abgenommenwerden
+
+;228;302;63317;1;-1;-1;bürgerliche AfD ;100% AfD ... bürgerliche Maske
+
+;;;63330;13;-1;-1;bürgerliche ; 84% langsam die bürgerliche [...] Maske fallen und
+
+;229;300;63332;2;-4;4;Abschiedskampf; 50% Maske ... Abschiedskampf
+
+;230;300;63362;30;2;2;Mythos Klee Paul ;100% Paul Klee - in|In der Maske des Mythos ... Uhr
+
+;;;63363;1;2;2;Mythos Klee ;100% Klee ... Maske ... Mythos
+
+;;;63383;20;2;2;Mythos ; 70% In der Maske [des] Mythos
+
+;231;297;63439;56;2;5;Schutz; 60% die Maske als zum Schutz vor
+
+;232;297;63448;9;-5;5;Schutzbrille; 55% mit Maske und Schutzbrille
+
+;233;296;63697;249;-4;-2;Menschen; 83% Menschen [... mit|die|ohne] Maske
+
+;234;296;63710;13;-1;-1;rote; 53% die rote [...] Maske
+
+;235;296;63733;23;-5;5;Rocky; 78% Maske ... gegen Rocky
+
+;236;295;63765;32;-5;5;Haut; 50% als Maske auf die Haut
+
+;237;295;63775;10;-4;5;Hygieneregeln; 70% die Hygieneregeln mit Abstand|und Maske eingehaltenwerden
+
+;238;292;63780;5;-1;-1;lächelnde;100% die lächelnde Maske
+
+;239;289;63789;9;-4;3;Mütze; 66% Mütze und Maske
+
+;240;289;63796;7;3;3;Horrorfilm; 85% der Maske [aus einem] Horrorfilm
+
+;241;283;63809;13;-5;5;dunkle; 76% dunkle [... die ...] Maske
+
+;242;283;63814;5;1;4;prämiert;100% Maske [...] prämiert
+
+;243;282;63821;7;-4;5;Schneiderei Hauptbühne ;100% in der Schneiderei und der Maske gefertigt wird hat dieHauptbühne
+
+;;;63833;12;-4;5;Schneiderei ; 58% die Schneiderei [und die] Maske ... und
+
+;244;281;63885;52;1;1;montags freitags Hahn Peter Leben ;100% von Peter Hahn Leben ohne Maske montags bis freitags 9bis
+
+;245;280;63911;26;-5;5;Phantom; 57% das Phantom ... der|mit|die ... Maske
+
+;246;278;63922;11;-3;-3;Mannes Tragödie ;100% Tragödie des Mannes mit der Maske bringt dem
+
+;;;63976;54;-3;-3;Mannes ; 66% Geschichte des Mannes mit der Maske
+
+;247;278;63986;10;1;1;ablegt;100% die Maske [...] ablegt
+
+;248;278;63987;1;3;3;freitags;100% freitags ... Maske
+
+;249;276;63999;12;1;1;abnahm; 91% und die Maske [...] abnahm und ...
+
+;250;274;64021;22;1;5;abzulegen;100% die Maske [des ...] abzulegen und
+
+;251;274;64037;16;-5;5;bzw; 68% der Maske [...] bzw
+
+;252;273;64127;90;1;4;sitzen; 66% in der|ohne Maske [...] sitzen
+
+;253;273;64131;4;-5;5;Comeback-Kampf;100% den Comeback-Kampf gegen Maske am 31.
+
+;254;267;64140;9;2;2;Zingarella;100% die Maske der Zingarella hing
+
+;255;266;64149;9;-5;5;Schutzkleidung; 55% Schutzkleidung und Maske und ...
+
+;256;265;64158;9;1;1;herunterreißt;100% die Maske herunterreißt und
+
+;257;264;64159;1;-5;4;Juliska;100% Juliska ... Maske
+
+;258;264;64162;3;-4;5;IBF-Weltmeister; 66% Maske ... IBF-Weltmeister
+
+;259;263;64333;171;-1;-1;dieser; 75% dieser [...] Maske
+
+;260;263;64335;2;-4;-2;Pendereckis Krzysztof ;100% Krzysztof Pendereckis ... Maske
+
+;;;64343;8;-4;-2;Pendereckis ;100% Pendereckis Schwarzer|Schwarze Maske
+
+;261;263;64351;8;1;1;anzuziehen; 87% die Maske [richtig] anzuziehen
+
+;262;261;64374;23;-5;5;Mantel; 65% mit Maske [und|&] Mantel und ...
+
+;263;261;64396;22;-3;-3;Scheusal;100% und dem|das Scheusal mit der Maske
+
+;264;260;64486;90;-1;-1;Ihre; 95% Sie Ihre [...] Maske
+
+;265;258;64685;199;-5;5;lässt; 66% lässt [... die] Maske fallen
+
+;266;257;64712;27;-4;4;Anzug; 81% in ... Anzug [und mit] Maske
+
+;267;257;64820;108;-5;-1;jeder; 69% jeder [...] Maske
+
+;268;257;64827;7;-5;5;Sauerland Wilfried ; 57% Maske ... Manager Wilfried Sauerland
+
+;;;64834;7;-5;5;Sauerland ; 71% Sauerland [...] Maske
+
+;269;256;64842;8;-5;4;Szenenbild Kamera ; 50% Kamera Kostümbild Maske [und] Szenenbild
+
+;;;64852;10;-5;4;Szenenbild ; 60% Maske [Kostüm und] Szenenbild
+
+;270;253;64898;46;-1;-1;eigene; 80% die|seine eigene [...] Maske
+
+;271;252;64906;8;-5;5;schwarzem Montur traumatische Kindheits Leder ;100% Montur mit Maske aus schwarzem Leder traumatischeKindheits
+
+;;;64911;5;-5;5;schwarzem Montur traumatische Leder ;100% Montur mit Maske aus schwarzem Leder traumatischeKindheitserinnerungen
+
+;;;64912;1;-5;5;schwarzem Montur Leder ;100% Montur ... Maske ... schwarzem Leder
+
+;;;64925;13;-5;5;schwarzem ; 84% Typ mit schwarzem Kapuzenshirt und ... Maske unmittelbaran
+
+;272;250;64963;38;2;5;Symbol; 86% die Maske [... ein|als] Symbol für
+
+;273;250;64980;17;-4;5;Kostümierung; 70% Kostümierung und Maske kamen in
+
+;274;248;65019;39;-4;-2;Täter; 58% der Täter ohne|die|seine Maske
+
+;275;247;65029;10;-1;-1;Silberne Ehrenpreis Volksbühne ; 70% Hamburger Volksbühne den Ehrenpreis Silberne Maske
+
+;;;65030;1;-1;-1;Silberne Ehrenpreis ;100% Ehrenpreis Silberne Maske
+
+;;;65037;7;-1;-1;Silberne Volksbühne ;100% Silberne Maske der Hamburger Volksbühne
+
+;;;65043;6;-1;-1;Silberne ;100% die Silberne Maske
+
+;276;247;65045;2;2;5;Iron Man ;100% Maske des ... Iron Man
+
+;277;246;65051;6;-1;-1;Mutters Schlingensiefs ; 83% Christoph Schlingensiefs [...] Mutters Maske 1988
+
+;;;65065;14;-1;-1;Mutters ;100% Mutters Maske 1988|mit
+
+;278;245;65074;9;1;3;The Naked ;100% Stadt ohne Maske [...] The Naked City
+
+;;;65076;2;1;3;The of ;100% The ... of ... - Maske
+
+;;;65096;20;1;3;The ; 65% The Great Sasuke - in die Maske
+
+;279;243;65100;4;-5;-1;lachende weinende ; 75% lachende und die weinende Maske
+
+;280;243;65115;15;1;5;atmen; 93% man|Sie ohne|die Maske [nicht mehr und ...] atmenund|konnte
+
+;281;241;65145;30;1;4;betreten; 80% mit|ohne Maske [den ...] betreten
+
+;282;240;65146;1;1;1;kümmerten;100% Maske ... kümmerten
+
+;283;239;65445;299;-2;-2;In; 98% In [der ...] Maske
+
+;284;239;65452;7;-1;-1;Majoras;100% Majoras Maske
+
+;285;238;65622;170;-3;-2;selbst; 52% selbst [... die] Maske
+
+;286;238;65626;4;-4;5;Sternheims; 50% Maske in Sternheims
+
+;287;237;65635;9;-5;5;Kapuze; 66% Kapuze [... die] Maske
+
+;288;237;65650;15;-4;5;Atmen; 53% die Maske entstand beim das Atmen
+
+;289;237;65673;23;-5;5;Händewaschen; 56% Abstand Maske [... und] Händewaschen
+
+;290;236;65741;68;1;1;spielen; 66% mit|ohne Maske [...] spielen
+
+;291;236;65743;2;-3;5;Profiboxer;100% Maske ... Profiboxer
+
+;292;233;65754;11;-1;-1;welcher; 72% mit welcher [... der die] Maske
+
+;293;233;65772;18;-5;3;Persona; 66% Persona ... die Maske ... Schauspielers
+
+;294;232;65787;15;-5;1;trügen; 66% die keine Maske [...] trügen und jemanden
+
+;295;232;65798;11;-5;5;boxt; 72% Maske [...] boxt am ...
+
+;296;231;65808;10;2;3;Lächelns;100% die Maske des Lächelns
+
+;297;230;65809;1;-2;-2;Boxidol;100% Maske ... Boxidol
+
+;298;230;65811;2;2;2;Abendkleidung Einlaß ;100% Einlaß 19 Uhr Maske oder Abendkleidung
+
+;;;65819;8;2;2;Abendkleidung ; 87% in Maske oder Abendkleidung
+
+;299;229;65837;18;-5;4;Clown; 66% der Clown in|ohne|der|die ... Maske
+
+;300;229;65911;74;1;2;vergessen; 87% die Maske [... nicht] vergessen
+
+;301;228;65924;13;-5;5;Tröpfchen; 61% der Maske vor Partikeln die Tröpfchen
+
+;302;225;65985;61;-5;5;Licht; 57% Licht [und ... die] Maske und
+
+;303;223;65992;7;1;1;mitbringen;100% Bitte Maske [...] mitbringen
+
+;304;221;65993;1;-3;-3;Hahn Leben ;100% Hahn ... Leben ... Maske
+
+;;;65995;2;-3;-3;Hahn ;100% Maske ... Hahn
+
+;305;220;65999;4;-5;5;vermummt;100% vermummt mit Maske
+
+;306;219;66005;6;-4;5;Pressluftflasche;100% mit Maske [und] Pressluftflasche
+
+;307;218;66026;21;1;5;lüften; 90% die Maske [... zu] lüften
+
+;308;215;66036;10;-4;5;Kostümabteilung; 70% in der|die Maske und in der die Kostümabteilung
+
+;309;215;66043;7;-5;4;Kamera Schnitt ; 57% Kamera [...] Schnitt Kostüm und Maske
+
+;;;66067;24;-5;4;Kamera ; 54% für ... Kamera [... die] Maske
+
+;310;215;66074;7;-1;-1;blaue; 85% blaue [oder ...] Maske
+
+;311;214;66226;152;-5;-3;Er; 98% Er ... die Maske
+
+;312;214;66235;9;2;2;Pharao; 66% Maske des Pharao kommt
+
+;313;214;66239;4;-2;-1;grinsende;100% die grinsende [...] Maske
+
+;314;214;66262;23;-5;5;Lüften; 65% Abstand Maske [Abstand] Lüften
+
+;315;212;66279;17;-4;5;Verstellung; 52% ist Verstellung [und in ...] Maske
+
+;316;211;66321;42;-4;-2;stets; 54% der stets [mit] Maske und
+
+;317;211;66323;2;-1;-1;Ensors Lear ;100% Lear in Ensors Maske
+
+;;;66329;6;-1;-1;Ensors ; 83% Ensors Maske
+
+;318;211;66344;15;1;5;verpflichtend; 86% werde die Maske [in ...] verpflichtend - ausgenommen
+
+;319;209;66356;12;2;5;wahre; 91% die Maske ... und|die wahre
+
+;320;208;66364;8;-1;-1;freundliche;100% die freundliche Maske
+
+;321;208;66374;10;2;5;Abstände; 80% die Maske ... und ... die Abstände
+
+;322;208;66375;1;-2;-2;Nichttragen;100% Nichttragen ... Maske
+
+;323;207;66397;22;-5;5;schlüpft; 63% und schlüpft in die Maske des ...
+
+;324;206;66402;5;2;5;Guy;100% Maske des legendären englischen Brandstifters Guy
+
+;325;205;66420;18;-1;-1;Henri;100% Henri Maske ... die
+
+;326;205;66427;7;-1;-1;ewige; 57% ewige [Jude ... Bolschewismus ohne] Maske
+
+;327;205;66433;6;1;1;vorm; 50% Maske [...] vorm
+
+;328;205;66442;9;1;5;aufbehalten;100% die Maske [...] aufbehalten
+
+;329;205;66454;12;-2;4;Imkerbunds Peter ; 58% Peter Maske Präsident des Deutschen Imkerbundszeichnete
+
+;330;204;66612;158;-4;-2;Wenn; 99% Wenn [die ...] Maske fällt ...
+
+;331;204;66632;20;-4;5;Frisur; 80% für|die Maske und die ... Frisur
+
+;332;203;66696;64;-3;-2;Mensch; 68% Mensch [und] Maske
+
+;333;203;66701;5;1;2;aufhaben;100% die Maske [...] aufhaben
+
+;334;202;67139;438;2;2;werden; 70% die Maske [...] werden
+
+;335;202;67140;1;-5;1;erstarrte;100% erstarrte Maske
+
+;336;201;67148;8;-2;-2;ÖV; 62% die Maske im ÖV
+
+;337;200;67164;16;2;5;Pistole; 56% mit Maske und wieder ... die Pistole
+
+;338;200;67165;1;1;1;vors;100% Maske ... vors
+
+;339;199;67209;44;-5;-2;Person; 59% Person [...] Maske
+
+;340;198;67227;18;2;5;Schauspielers; 83% die Maske ... des Schauspielers
+
+;341;198;67232;5;-1;-1;unheimlichen Rätsel ;100% Das Rätsel der unheimlichen Maske
+
+;;;67233;1;-1;-1;unheimlichen ;100% unheimlichen Maske
+
+;342;197;67245;12;-1;-1;Lavaters;100% Roman Lavaters Maske
+
+;343;195;67250;5;-1;-1;weisse;100% weisse [...] Maske
+
+;344;195;67260;10;-5;5;Beleuchtung; 60% Maske [... und ...] Beleuchtung
+
+;345;195;67269;9;1;5;usw; 88% Maske [...] usw
+
+;346;194;67274;5;-2;-2;Montur;100% Montur mit Atemgerät|und Maske
+
+;347;193;67277;3;-1;-1;lächelnden; 66% Maske ... ewig lächelnden
+
+;348;192;67281;4;-1;4;grinsenden; 75% Maske ... grinsenden
+
+;349;191;67283;2;-1;-1;fratzenhafte;100% fratzenhafte Maske
+
+;350;190;67296;13;-4;5;Sonnenbrille; 61% Vettel mit|zupft Maske und ... Sonnenbrille zurecht dann
+
+;351;190;67299;3;1;4;mitzubringen;100% Maske [...] mitzubringen
+
+;352;190;67327;28;1;5;einkaufen; 75% mit|ohne Maske [...] einkaufen gehen
+
+;353;189;67333;6;-4;2;Zorros; 83% Zorros [... mit ...] Maske
+
+;354;189;67507;174;-3;-2;alle; 75% alle [... mit] Maske
+
+;355;189;67520;13;-4;5;Comeback; 61% Maske überlegt Comeback
+
+;356;188;67674;154;-2;-2;Für; 99% Für [die] Maske
+
+;357;188;67680;6;-1;-1;Luise Dobratz ; 83% Luise Dobratz zum ... Berta Maske zum ...
+
+;;;67695;15;-1;-1;Luise ; 86% Luise [...] Maske
+
+;358;187;67703;8;-1;-1;Goldenen ausgezeichnet ;100% mit der Goldenen [...] Maske [dem ...] ausgezeichnet
+
+;;;67710;7;-1;-1;Goldenen Verleihung ;100% Verleihung der Goldenen Maske
+
+;;;67720;10;-1;-1;Goldenen ;100% mit der Goldenen [...] Maske
+
+;359;186;67816;96;-5;5;Bühne; 50% Maske [... auf der|die] Bühne
+
+;360;186;67817;1;1;5;übergezogen;100% Maske übergezogen
+
+;361;186;67826;9;-1;-1;weissen; 77% mit der weissen [...] Maske
+
+;362;186;67827;1;-4;-3;Klee Paul ;100% Maske ... Paul Klee
+
+;;;67828;1;-4;-3;Klee ;100% Maske ... Klee
+
+;363;185;67843;15;-4;-2;Dame; 86% die Dame von|mit der Maske
+
+;364;185;67847;4;-1;-1;Eisernen; 50% Eisernen Maske
+
+;365;185;67849;2;-5;4;unkenntlich; 50% Maske ... unkenntlich
+
+;366;184;67850;1;-1;3;Jestrimski Irmgard ;100% Maske Irmgard Jestrimski
+
+;367;183;67856;6;-3;-2;Atemschutzgerät;100% Atemschutzgerät mit|und ... die Maske
+
+;368;183;67861;5;-5;5;schminken; 60% schminken ... der Maske
+
+;369;183;67862;1;-5;5;Nasenbeinbruchs;100% Nasenbeinbruchs ... Maske
+
+;370;183;67869;7;-5;5;Anonymous; 71% Anonymous [die] Maske
+
+;371;183;67871;2;-1;-1;wächserne;100% wächserne Maske
+
+;372;183;67877;6;-1;-1;afrikanischen; 50% Maske von afrikanischen
+
+;373;183;67881;4;1;5;Gummihandschuhen;100% nicht mit Maske und Gummihandschuhen am Strand
+
+;374;182;67882;1;3;5;gezogen;100% Maske gezogen
+
+;375;181;67885;3;2;5;Boxring;100% Maske ... Boxring
+
+;376;180;67910;25;-5;5;Masken; 52% wir gratis Masken verteilt|tragen ohne die Maske durftevon|man
+
+;377;180;67917;7;-5;4;Bühnentechnik; 57% Bühnentechnik [...] Maske
+
+;378;179;67955;38;-5;-2;Figur; 65% Motiv zwischen Figur [Porträt der|und] Maske und
+
+;379;178;67956;1;1;1;übers;100% Maske ... übers
+
+;380;177;67984;28;-5;4;Darsteller; 71% Darsteller [... in|die der] Maske
+
+;381;177;67994;10;-5;5;getarnt; 70% getarnt als|mit grüner Kleidung und Maske
+
+;382;175;68012;18;1;3;absetzen;100% die Maske [...] absetzen
+
+;383;174;68014;2;-2;4;Boxprofi; 50% Maske ... Boxprofi
+
+;384;173;68026;12;-1;-1;passende; 83% die passende [...] Maske
+
+;385;172;68045;19;-5;5;RTL; 63% Maske und|von bei RTL
+
+;386;172;68059;14;-5;-2;ziehe; 85% Wie ziehe [ich die] Maske an|und
+
+;387;171;68060;1;-4;-1;weigern;100% weigern ... Maske
+
+;388;170;68068;8;-5;5;Batman; 75% Batman ... seine die|in ... Maske
+
+;389;170;68070;2;-5;3;trüge; 50% Maske trüge
+
+;390;170;68074;4;3;5;11111111; 50% Maske 255.255.252. 0 11111111 11111111
+
+;391;169;68091;17;-3;-1;Oper; 58% die Maske [des und Phantoms der] Oper
+
+;392;169;68148;57;-1;-1;Keine; 98% Keine [...] Maske
+
+;393;169;68151;3;1;5;aufsetze;100% Maske aufsetze
+
+;394;169;68155;4;-5;5;WM-Kampf; 50% Maske der ... WM-Kampf
+
+;395;168;68156;1;1;2;aufhat;100% Maske ... aufhat
+
+;396;168;68166;10;1;5;auftragen;100% als Maske [...] auftragen
+
+;397;168;68169;3;1;1;hindurch; 66% Maske [...] hindurch
+
+;398;167;68178;9;-3;-2;niemand Praktisch ;100% Praktisch niemand trägt dabei Maske obwohl der
+
+;;;68218;40;-3;-2;niemand ; 67% niemand [mehr|ohne die] Maske
+
+;399;167;68221;3;2;2;kapierst du ;100% EurozWenn du keine Maske trägst kapierst du es ...
+
+;400;166;68225;4;-1;-1;aufgesetzter;100% mit aufgesetzter Maske
+
+;401;166;68234;9;-5;5;boxen; 66% gegen Maske [... zu] boxen
+
+;402;166;68243;9;-2;-2;Anlegen;100% das dem|korrekte Anlegen der|von Maske und
+
+;403;166;68255;12;1;4;schütze; 66% Markenzeichen die Maske schütze ihn davor
+
+;404;165;68272;17;-5;4;lüftet; 70% lüftet ... die|seine Maske
+
+;405;165;68275;3;-5;2;Kostümbild;100% Maske und Kostümbild
+
+;406;165;68280;5;-5;2;máscara; 80% máscara contra máscara [...] Maske gegen Maske
+
+;407;163;68290;10;-3;5;Sauerstoffflasche; 90% Maske [und ...] Sauerstoffflasche und
+
+;408;162;68294;4;-2;-1;geschnitzte;100% geschnitzte Maske
+
+;409;162;68333;39;1;5;erkennen; 84% der|mit Maske [... zu] erkennen ... die
+
+;410;161;68352;19;-5;-2;zog; 68% und zog [die|seine] Maske aus und
+
+;411;160;68377;25;-3;-2;Geheimnis; 76% Das Geheimnis [der] Maske
+
+;412;160;68434;57;-4;-2;darf; 56% darf die ... Maske
+
+;413;160;68436;2;-2;-1;Profi-Weltmeister;100% Profi-Weltmeister Maske
+
+;414;160;68446;10;-5;5;Betreten; 60% beim Betreten des|der Halle|Gebäudes seine Maske ... und
+
+;415;159;68447;1;-1;-1;einfache;100% einfache Maske
+
+;416;159;68457;10;1;3;etc;100% Maske [...] etc
+
+;417;159;68486;29;2;2;gelassen; 96% die|seine Maske ... fallen gelassen
+
+;418;159;68490;4;2;2;Gleichgültigkeit; 75% Maske der Gleichgültigkeit
+
+;419;158;68497;7;-5;5;Souffleusen; 71% Souffleusen [...] Maske
+
+;420;158;68500;3;-3;-3;frühere; 66% frühere ... Maske
+
+;421;158;68502;2;2;3;Pharaos; 50% Maske ... Pharaos
+
+;422;158;68510;8;-4;4;Bankräuber; 87% Bankräuber der ohne|mit Maske
+
+;423;157;68516;6;1;1;hervor; 83% Maske [...] hervor
+
+;424;157;68522;6;-5;5;Jacke; 66% mit Maske und dicker Jacke in der
+
+;425;157;68562;40;-5;-2;Trump; 90% Donald Trump [...] Maske
+
+;426;156;68591;29;-3;5;Waffe; 75% mit Maske und Waffe
+
+;427;156;68592;1;1;1;überziehen;100% Maske überziehen
+
+;428;156;68602;10;-3;-3;ehemalige; 60% ehemalige ... der|in ... Maske
+
+;429;156;68604;2;2;4;Zynikers;100% Maske ... Zynikers
+
+;430;155;68626;22;-3;-2;Mörder; 81% der Mörder mit|ohne der Maske
+
+;431;155;68631;5;1;5;fallengelassen;100% Maske [...] fallengelassen
+
+;432;154;68702;71;-1;-1;dessen; 69% dessen [...] Maske
+
+;433;154;68708;6;1;4;eingeben;100% in|die ... Maske [...] eingeben
+
+;434;154;68748;40;-2;-2;endlich; 52% endlich ... die Maske
+
+;435;152;68755;7;-4;5;Tuch; 71% Tuch als oder Maske
+
+;436;152;68763;8;2;2;Anonymität; 62% Anonymität der|von Pelzgewand und ... Maske
+
+;437;151;68770;7;-5;-2;Rächer; 85% der Rächer mit der Maske
+
+;438;151;68777;7;-3;-3;Soll-Höhe eintragen ;100% Soll-Höhe in der Maske eintragen im jetzigen
+
+;439;150;68791;14;1;5;schlüpfen; 85% in die Maske des ... zu schlüpfen
+
+;440;150;68794;3;-3;-2;Tragens;100% des Tragens die Maske
+
+;441;150;68801;7;-2;-2;Aufsetzen;100% das Aufsetzen der Maske
+
+;442;149;68803;2;2;4;Konterfei; 50% Maske ... Konterfei
+
+;443;147;68827;24;-5;5;Kleidung; 54% in die|mit Maske [und die der] Kleidung
+
+;444;147;68840;13;-3;-1;Garderoben; 76% in die|den Garderoben [und die] Maske den Fundus
+
+;445;147;68843;3;-4;5;Sturmhaube;100% Sturmhaube als Maske
+
+;446;147;68849;6;-5;-4;Verlassen; 66% Verlassen des Lokals ist Maske ... tragen
+
+;447;146;68850;1;-5;-2;Melodien;100% Melodien ... Maske
+
+;448;146;68857;7;-4;5;Olympiasieger; 71% Maske [war 1988 ...] Olympiasieger
+
+;449;146;68869;12;-1;-1;Schwarze;100% die Schwarze [...] Maske
+
+;450;145;68872;3;2;2;Höflichkeit;100% Maske der ... Höflichkeit
+
+;451;145;68878;6;2;2;Phantoms; 66% die Maske des Phantoms
+
+;452;145;68883;5;-5;5;bekleidet;100% und ... Maske [...] bekleidet
+
+;453;145;68890;7;1;1;abreißen Holla ;100% wir die Maske abreißen und dann Holla die Waldfee
+
+;;;68895;5;1;1;abreißen ; 80% Maske [...] abreißen
+
+;454;144;68899;4;-5;5;Jim;100% Jim Carreys KomödieDie Maske
+
+;455;143;68902;3;-1;-1;aufwendige;100% aufwendige [...] Maske
+
+;456;143;68909;7;-4;5;Perücken;100% Maske [und ...] Perücken und
+
+;457;143;68945;36;1;1;saß; 52% in der Maske [...] saß
+
+;458;143;68951;6;-5;5;Plexiglas; 66% Maske und ... Plexiglas
+
+;459;143;68961;10;1;5;obligatorisch; 90% die Maske [ist in der City] obligatorisch
+
+;460;142;68962;1;-5;5;Mumie;100% Mumie ... Maske
+
+;461;142;68964;2;-1;-1;silbernen;100% silbernen Maske
+
+;462;142;69003;39;-5;4;Bus; 53% Reisezeit im Bus [mit|die ohne] Maske sei eben
+
+;463;141;69023;20;-5;5;Verwandlung; 75% Maske ... -|Kunst der Verwandlung
+
+;464;141;69025;2;-1;-1;akustische; 50% akustische Maske
+
+;465;141;69026;1;-4;2;Vaders;100% Vaders ... Maske
+
+;466;141;69033;7;2;2;Kostüm-Abteilung Mitarbeiter ;100% Auch die Mitarbeiter in Maske und Kostüm-Abteilung habeneinen
+
+;467;139;69055;22;2;2;Täters;100% der|die Maske ... des Täters
+
+;468;139;69060;5;-3;-3;Prämierung schönsten ;100% Prämierung der schönsten Maske
+
+;;;69068;8;-3;-3;Prämierung ;100% Uhr die Prämierung der besten Maske findet um
+
+;469;138;69069;1;1;5;aufsetzten;100% Maske aufsetzten
+
+;470;138;69072;3;-5;4;Regieassistenz;100% Regieassistenz [...] Maske
+
+;471;138;69127;55;-5;4;Kampf; 50% den Kampf [...] Maske
+
+;472;138;69136;9;-5;5;Hose; 88% Hose ... und|mit Weste ... Maske
+
+;473;138;69137;1;1;4;verhüllt;100% Maske ... verhüllt
+
+;474;138;69140;3;-1;-1;getragene;100% getragene Maske
+
+;475;137;69142;2;-4;-4;während Unterrichts ;100% Maske [...] während des Unterrichts
+
+;;;69233;91;-4;-4;während ; 54% der|die Maske [...] während der ...
+
+;476;137;69254;21;-5;3;Kulissen; 66% den|die Kulissen [... und|in die|der] Maske die|und ...
+
+;477;137;69258;4;-2;-2;Geständnis;100% Das Geständnis der grünen Maske
+
+;478;136;69260;2;-1;-1;steinerne;100% steinerne Maske
+
+;479;136;69261;1;1;1;kümmerte;100% Maske kümmerte
+
+;480;136;69263;2;-4;-1;tragt;100% tragt [...] Maske
+
+;481;135;69272;9;-4;5;vorgeschrieben; 77% die Maske obwohl ... vorgeschrieben
+
+;482;135;69279;7;1;5;gelüftet;100% die Maske [...] gelüftet
+
+;483;135;69281;2;1;3;aufzubehalten;100% Maske aufzubehalten
+
+;484;134;69291;10;-1;-1;solche; 60% solche ... Maske
+
+;485;134;69304;13;-5;-2;Gesichter; 53% Maske [macht] Gesichter für Gehörlose
+
+;486;134;69311;7;1;1;anlegen; 57% die Maske [nicht] anlegen
+
+;487;134;69312;1;-3;-1;ausdruckslosen;100% ausdruckslosen Maske
+
+;488;134;69315;3;-1;1;bürgerlicher; 66% bürgerlicher Maske
+
+;489;134;69325;10;-1;-1;venezianischer;100% mit venezianischer Maske und ...
+
+;490;134;69329;4;-4;-1;Beerbalk Silvia Hilmar ;100% Ansage Silvia und Melanie Beerbalk Maske Hilmar Müller-Späth Konrad
+
+;;;69331;2;-4;-1;Beerbalk Silvia ;100% Silvia und Melanie Beerbalk Maske
+
+;491;134;69358;27;-5;-1;Corona; 66% vor Corona [... der|ohne] Maske
+
+;492;133;69405;47;-3;-2;nahm; 78% nahm [... die] Maske ab und
+
+;493;133;69449;44;-1;-1;richtige; 75% mich die richtige [...] Maske
+
+;494;133;69451;2;-1;-1;angefertigten;100% angefertigten Maske
+
+;495;133;69454;3;1;5;Duran Williams ;100% Duran Williams [...] Maske
+
+;496;133;69455;1;-5;-1;Innenräumen;100% Innenräumen ... Maske
+
+;497;132;69461;6;4;4;Neydereck Anna Ingeborg ;100% Ingeborg Damm den 99.|100. Anna Maske den 74.|75.Erwin Neydereck den
+
+;;;69462;1;4;4;Neydereck Anna ;100% Anna Maske ... Neydereck
+
+;498;132;69470;8;-2;-1;durchgehend; 87% bandXost-Team trägt durchgehend [... die] Maske
+
+;499;131;69495;25;1;1;dient; 52% die|als Maske [...] dient
+
+;500;131;69500;5;2;5;McDonalds-Filialen;100% Maske betreibt heute zehn|vier McDonalds-Filialen
+
+;501;130;69501;1;1;3;überzog;100% Maske überzog
+
+;502;130;69506;5;-1;-1;weisser; 80% mit weisser Maske
+
+;503;129;69516;10;1;5;geschützt; 80% mit|der Maske [gut vor ...] geschützt
+
+;504;129;69528;12;-3;-3;Runter;100% Runter mit der Maske
+
+;505;129;69533;5;-5;5;Mund-Nasen-Schutz; 60% Maske oder Mund-Nasen-Schutz
+
+;506;128;69587;54;1;3;zeigt; 57% Maske [...] zeigt
+
+;507;128;69593;6;1;5;Accessoire;100% die Maske als|zum ... Accessoire
+
+;508;127;69594;1;-5;5;Klitschko Vitali ;100% Vitali Klitschko ... Maske
+
+;;;69597;3;-5;5;Klitschko ; 66% Maske ... Klitschko
+
+;509;126;69598;1;-1;-1;gruselige;100% gruselige Maske
+
+;510;125;69603;5;-1;-1;perfekten;100% perfekten [...] Maske
+
+;511;125;69608;5;2;4;Demaskierung Ikarus ;100% Häutung die Maske und Demaskierung und Ikarus als
+
+;;;69613;5;2;4;Demaskierung ;100% Maske und Demaskierung
+
+;512;124;69618;5;-1;-1;grüne;100% die ... grüne [...] Maske
+
+;513;124;69622;4;-1;-1;schützende;100% schützende Maske
+
+;514;124;69635;13;-1;3;dunkler; 69% mit dunkler [...] Maske
+
+;515;124;69640;5;-5;5;Beatmung; 60% Beatmung mit der Maske
+
+;516;124;69644;4;-4;4;masque;100% masque [allongé lange] Maske
+
+;517;124;69649;5;-5;3;schminkt; 80% aus der Maske und schminkt sie ab
+
+;518;124;69657;8;-5;5;Mundschutz; 50% mit Maske ... und Mundschutz
+
+;519;124;69662;5;-3;-2;Ganzkörperanzug Laborschuhen Überschuhen luftgefüllten ;100% aus einem luftgefüllten Ganzkörperanzug Schürze Maskemit Filter Laborschuhen Überschuhen und
+
+;;;69664;2;-3;-2;Ganzkörperanzug ; 50% Maske ... Ganzkörperanzug
+
+;520;123;69666;2;1;3;basteln;100% Maske [...] basteln
+
+;521;123;69672;6;-5;5;St; 83% Hafenpolizei - St Pauli ohne Maske
+
+;522;123;69679;7;-1;-1;aufwendiger;100% mit aufwendiger [...] Maske und ...
+
+;523;123;69680;1;-5;5;Commedia dellArte ;100% Maske ... Commedia dellArte
+
+;;;69682;2;-5;5;Commedia ; 50% Maske ... Commedia
+
+;524;123;69692;10;-4;3;Handschuh; 60% mit Maske [...] Handschuh und Fußball
+
+;525;123;69700;8;-3;-3;Csukker;100% Robert Csukker und Team Maske
+
+;526;122;69703;3;1;5;überzieht; 66% Maske [...] überzieht
+
+;527;122;69706;3;-1;-1;weinende;100% weinende [...] Maske
+
+;528;122;69713;7;-1;-1;silberne;100% die silberne Maske
+
+;529;121;69721;8;2;2;Narren; 75% in der|die Maske des Narren ... die
+
+;530;121;69722;1;-2;-1;durchsichtige;100% durchsichtige Maske
+
+;531;121;69729;7;-1;-1;gefertigte;100% aus ... gefertigte Maske
+
+;532;121;69740;11;-2;-2;Innenseite; 90% nicht die Innenseite der Maske kontaminieren ...
+
+;533;121;69744;4;2;5;Nasenrücken;100% Maske am ... Nasenrücken
+
+;534;120;69836;92;-1;-1;Diese; 98% Diese [...] Maske
+
+;535;120;69846;10;-4;3;Catering; 60% Maske [...] Catering
+
+;536;120;69851;5;-5;5;starr; 80% die Maske [jedoch] starr
+
+;537;120;69874;23;-4;5;Träger; 52% dass die|der Maske ... den ... Träger
+
+;538;120;69878;4;1;1;auflegen;100% Maske [...] auflegen
+
+;539;119;69886;8;-4;-1;Maschera; 87% Liebe über Maschera [nobile die vornehme] Maske bis Volpe
+
+;540;119;69889;3;2;5;Vorschein;100% Maske und zum Vorschein
+
+;541;119;69894;5;-3;5;boxte; 80% Maske [...] boxte
+
+;542;119;69896;2;4;4;Tartuffe;100% Tartuffe ... Maske
+
+;543;118;69918;22;-1;-1;Welche;100% Welche Maske
+
+;544;118;69926;8;-5;5;maskiert; 62% maskiert mit ohne Maske
+
+;545;118;69930;4;-5;-1;Trägt;100% Trägt der ... Maske
+
+;546;118;69932;2;-4;5;Sportpyramide;100% Maske erhält Sportpyramide
+
+;547;118;69934;2;-5;3;undurchdringliche;100% undurchdringliche [...] Maske
+
+;548;117;69944;10;-5;5;Markenzeichen; 60% und Finanzwesens.Die Maske war ihr Markenzeichen
+
+;549;117;69948;4;-3;-1;Tauchanzug;100% Wie im Tauchanzug [mit] Maske tief und
+
+;550;117;69951;3;-5;3;Fantomas;100% Fantomas ... der ... Maske
+
+;551;117;69960;9;-5;5;dicht gedrängt ; 66% dicht gedrängt und ohne Maske
+
+;;;69981;21;-5;5;dicht ; 52% die Maske [... nicht ...] dicht
+
+;552;117;69982;1;2;2;Feldherrn;100% Maske ... Feldherrn
+
+;553;116;69995;13;-4;4;Degen; 61% ohne Maske und Degen
+
+;554;116;70000;5;2;3;Sternheim-Stück Verkörperung ;100% für seine Verkörperung des Christian Maske im Sternheim-Stück 1913 in
+
+;;;70001;1;2;3;Sternheim-Stück ;100% Maske ... Sternheim-Stück
+
+;555;116;70002;1;2;2;Wanderkino-Schaustellers;100% Maske ... Wanderkino-Schaustellers
+
+;556;115;70004;2;-5;-3;Edgar;100% Edgar [...] Maske
+
+;557;114;70007;3;-4;-3;Antonio; 66% Antonio ... Maske
+
+;558;114;70009;2;-1;-1;furchterregenden;100% furchterregenden [...] Maske
+
+;559;114;70012;3;-2;-2;Erzählung;100% Maske ... Erzählung
+
+;560;114;70014;2;-5;5;Gesichtsschutz;100% Maske ... Gesichtsschutz
+
+;561;114;70015;1;1;1;erstarrten;100% Maske ... erstarrten
+
+;562;114;70018;3;-1;-1;fertige;100% die fertige Maske
+
+;563;114;70020;2;2;3;Tutenchamun;100% Maske des Tutenchamun
+
+;564;114;70023;3;-4;2;Lungenautomat; 66% Maske und Lungenautomat
+
+;565;113;70047;24;-3;3;Ausstattung; 75% Ausstattung [Kostüm und] Maske und ...
+
+;566;113;70050;3;-5;5;Gesichtszüge; 66% Maske ... die ... Gesichtszüge
+
+;567;113;70054;4;-4;5;geboxt; 75% Maske hat immer so geboxt
+
+;568;113;70099;45;-5;-2;Kunden; 84% Kunden ohne ... Maske
+
+;569;113;70103;4;-3;3;Kostümfundus; 50% Maske ... Kostümfundus
+
+;570;112;70111;8;-5;5;Gestik; 62% Gestik und|aber auch der|die hervorragende Maske
+
+;571;112;70123;12;-3;5;Revanche; 75% Abschied will Maske [will|fiebert] Revanche für
+
+;572;112;70138;15;-5;5;verschwindet; 60% und verschwindet in|die der Maske
+
+;573;112;70139;1;-5;2;Fremdschutz;100% Fremdschutz ... Maske
+
+;574;111;70140;1;-4;5;Overall;100% Maske ... Overall
+
+;575;111;70143;3;-5;4;riß; 66% riß die Maske
+
+;576;111;70192;49;-2;-2;bitte; 83% Aber bitte mit die Maske
+
+;577;111;70193;1;3;3;Schatzinsel;100% Maske ... Schatzinsel
+
+;578;111;70200;7;2;2;entzauberter Biest aufwändiger attraktives ;100% als attraktives Biest mit aufwändiger Maske als entzauberterPrinz und
+
+;579;110;70209;9;-5;-3;Jeder;100% Jeder [Schüler mit seine] Maske ... einen
+
+;580;110;70212;3;-5;5;Gaspistole; 66% Maske und Gaspistole
+
+;581;110;70215;3;1;5;angefertigt;100% die Maske ... angefertigt
+
+;582;110;70265;50;-1;-1;Seine; 94% Seine [...] Maske
+
+;583;110;70274;9;-5;-2;Rapper; 88% der ... Rapper mit der Maske
+
+;584;110;70288;14;-5;4;Schminken; 71% Schminken [in der|die ...] Maske Kostüm
+
+;585;110;70289;1;2;2;Bürgerlichkeit;100% Maske ... Bürgerlichkeit
+
+;586;110;70305;16;-3;-3;gesundheitlichen Gründen ;100% die aus gesundheitlichen Gründen keine Maske tragenkönnen|dürfen
+
+;;;70309;4;-3;-3;gesundheitlichen ; 50% Maske tragen möchten oder aus gesundheitlichen
+
+;587;109;70333;24;-3;-3;Blick; 62% Blick [in|auf die] Maske
+
+;588;109;70345;12;-1;-1;Anna Architektin ; 83% um von|die Architektin [...] Anna Maske ... in
+
+;;;70368;23;-1;-1;Anna ; 95% Anna [...] Maske
+
+;589;109;70369;1;-3;-2;trag;100% trag ... Maske
+
+;590;109;70378;9;-4;-2;Killer; 88% der Killer mit der Maske
+
+;591;109;70390;12;-1;-1;perfekter;100% mit perfekter [...] Maske und
+
+;592;109;70391;1;2;4;17.15;100% 17.15 ... Maske
+
+;593;109;70392;1;2;2;Sehschlitz;100% Maske ... Sehschlitz
+
+;594;109;70395;3;-5;5;IBF; 66% Maske ... der IBF
+
+;595;109;70398;3;1;1;verweigert;100% verweigert [... ohne] Maske
+
+;596;108;70401;3;2;2;Pappmaché; 66% Maske aus Pappmaché
+
+;597;108;70405;4;-2;-1;berühmte;100% die berühmte [...] Maske
+
+;598;108;70411;6;-2;3;Latex; 83% Pauli trägt Maske [und] Latex
+
+;599;108;70422;11;1;3;herumlaufen;100% mit Maske [...] herumlaufen
+
+;600;108;70438;16;-5;5;Supermarkt; 50% die Maske nicht|im in den Supermarkt
+
+;601;107;70445;7;1;5;betrat;100% und furchterregender Maske [...] betrat den Saal
+
+;602;107;70451;6;-1;-1;freundlichen; 83% der freundlichen [...] Maske
+
+;603;107;70457;6;-5;-2;Jochbeinbruch;100% nach seinem Jochbeinbruch ... mit Maske
+
+;604;107;70464;7;-2;2;Kinderarzt;100% Wie Kinderarzt Maske schildert nutzen
+
+;605;107;70475;11;2;3;Co; 63% Maske &|Stadler und Co
+
+;606;107;70478;3;-1;-1;furchterregender;100% furchterregender Maske
+
+;607;107;70486;8;-3;5;Fight; 50% Maske hatte den letzten Fight
+
+;608;107;70492;6;-2;-2;Ausblasen;100% das Ausblasen der Maske
+
+;609;107;70493;1;-4;-1;Karloffs;100% Karloffs Maske
+
+;610;107;70495;2;1;5;Gesichtsschild;100% Maske und Gesichtsschild
+
+;611;106;70768;273;1;1;wieder; 56% die Maske [...] wieder
+
+;612;106;70867;99;-3;-2;natürlich; 75% - natürlich mit Maske
+
+;613;106;70878;11;1;1;gesessen;100% in der Maske [...] gesessen
+
+;614;106;70880;2;-5;-3;Demonstrant;100% Demonstrant ... Maske
+
+;615;106;70884;4;2;3;Freundlichkeit;100% Maske der Freundlichkeit
+
+;616;106;70885;1;-5;5;Halmich Regina ;100% Maske ... Regina Halmich
+
+;617;106;70890;5;-3;4;Haube; 60% Maske und Haube
+
+;618;106;70898;8;-2;-2;Abnehmen; 87% Abnehmen der Maske
+
+;619;106;70899;1;-5;-2;stülpte;100% stülpte ... Maske
+
+;620;106;70907;8;1;4;abziehen; 87% die Maske [...] abziehen und
+
+;621;106;70909;2;-4;5;Mundöffnung;100% Mundöffnung ... Maske
+
+;622;105;70973;64;-4;-2;ob; 76% ob [mit die|oder ohne] Maske
+
+;623;105;70979;6;-2;5;empfohlen; 66% Maske [...] empfohlen
+
+;624;105;70980;1;-5;5;versteckte;100% versteckte ... seine ... Maske
+
+;625;105;70982;2;-5;-2;Becker Boris ; 50% Maske ... Boris Becker
+
+;;;70986;4;-5;-2;Becker Schumacher ; 50% Becker Schumacher [...] Maske
+
+;;;70997;11;-5;-2;Becker ; 63% Becker und ... Maske
+
+;626;105;71006;9;1;3;abzureißen;100% Teufel die Maske [...] abzureißen sucht
+
+;627;105;71007;1;1;4;Roccigiani;100% Maske ... Roccigiani
+
+;628;105;71008;1;-3;-3;Biest;100% Biest ... Maske
+
+;629;105;71009;1;-5;2;Biedermännern;100% Maske ... Biedermännern
+
+;630;105;71010;1;1;3;überzuziehen;100% Maske überzuziehen
+
+;631;105;71012;2;-5;5;Bühnenaufbau; 50% Maske ... Bühnenaufbau
+
+;632;105;71015;3;-3;-2;Häutung; 66% Häutung ... Maske
+
+;633;105;71016;1;-5;-3;Eek Schlümpfe Kater ;100% Eek ... Kater ... Maske ... Schlümpfe
+
+;634;105;71027;11;-4;-2;Passagiere;100% Passagiere ... ohne|die Maske
+
+;635;105;71030;3;2;5;desinfizierten;100% Maske mit ... desinfizierten
+
+;636;105;71033;3;-1;3;Konsumkiller;100% Konsumkiller Maske
+
+;637;104;71040;7;-1;-1;originellste;100% für die originellste Maske
+
+;638;104;71046;6;2;4;Hörnern;100% samt roter Maske mit den Hörnern und scharfen
+
+;639;104;71050;4;-2;-1;Imkerpräsident;100% Imkerpräsident [Peter] Maske
+
+;640;103;71053;3;2;5;Gesichtsfeld;100% die Maske ... Gesichtsfeld
+
+;641;103;71080;27;-4;-2;legt; 85% legt [... die] Maske ab ...
+
+;642;103;71085;5;-5;5;Manuela Adebar ;100% Manuela Adebar und Christine Hege Maske
+
+;;;71086;1;-5;5;Manuela Greb ;100% Manuela Greb ... Maske
+
+;;;71100;14;-5;5;Manuela ; 85% und Manuela [Peifer] Maske und die
+
+;643;103;71102;2;-4;5;bedecken; 50% Maske ... bedecken
+
+;644;103;71106;4;-4;-3;Ziehen;100% Ziehen Sie|wir beide die Maske
+
+;645;102;71107;1;-4;5;Gesichtes;100% Maske ... Gesichtes
+
+;646;102;71127;20;-5;-2;Puck; 90% der|den Puck an die Maske
+
+;647;102;71189;62;-5;-2;Leute; 83% die Leute [... die|ohne] Maske tragen
+
+;648;102;71209;20;2;5;Haare; 65% in|aus der Maske bieten|vorschlug an|Mias|die lange Haarezu|abzuschneiden schneiden
+
+;649;102;71211;2;1;4;Sven Hannawald ;100% Sven Hannawald gegen die Maske
+
+;;;71212;1;1;4;Sven ;100% Maske ... Sven
+
+;650;102;71215;3;1;1;beatmet; 66% Maske [...] beatmet
+
+;651;101;71374;159;-3;-2;immer; 52% die Maske [...] immer
+
+;652;101;71387;13;1;4;benutzen; 92% gut die|als Maske [...] benutzen center plain
+
+;653;101;71390;3;1;2;aufhatte;100% die Maske [...] aufhatte
+
+;654;101;71393;3;-1;-1;groteske; 66% groteske Maske
+
+;655;100;71633;240;-4;-2;Sie; 82% Sie [... die] Maske
+
+;656;100;71642;9;1;1;erwischt;100% Bürgermeister ohne Maske [...] erwischt
+
+;657;100;71644;2;-1;-1;schützenden; 50% Maske ... schützenden
+
+;658;100;71646;2;2;2;Biedermänner;100% Maske ... Biedermänner
+
+;659;99;71654;8;-4;-2;Gestalt; 62% in ... Gestalt mit|und Maske
+
+;660;99;71685;31;-2;-2;Kunst; 54% in|die der Maske in der|die ... Kunst
+
+;661;99;71775;90;-3;-2;mal; 63% mal [in|die] Maske
+
+;662;99;71777;2;1;1;eingegeben;100% Maske eingegeben
+
+;663;99;71783;6;-5;1;stundenlang; 83% stundenlang in der Maske
+
+;664;99;71784;1;1;1;vs;100% vs Maske
+
+;665;99;71795;11;-5;4;u; 54% mit Maske [...] u
+
+;666;99;71796;1;-5;-2;Jugendärzte;100% Maske ... Jugendärzte
+
+;667;98;71800;4;-4;4;Tanz Schauspiel Gesang ; 75% den Bereichen Schauspiel Gesang Maske KostümSchattentanz oder Tanz generell
+
+;;;71803;3;-4;4;Tanz Gesang ; 66% Tanz Gesang Maske
+
+;;;71821;18;-4;4;Tanz ; 72% Tanz mit|und Maske und
+
+;668;98;71825;4;-3;5;Filter;100% Maske ... Filter
+
+;669;98;71826;1;-1;-1;abgenommene;100% abgenommene Maske
+
+;670;98;71832;6;-3;-3;öffentlichen Verkehrsmitteln ; 83% in öffentlichen Verkehrsmitteln keine Maske tragen
+
+;;;71854;22;-3;-3;öffentlichen ; 59% auch die|ohne|keine Maske am im öffentlichen Leben|Raumteilhaben
+
+;671;98;71860;6;-5;-2;Tram; 83% Tram ... keine Maske
+
+;672;97;71871;11;-3;-3;ehemaligen;100% und gekonnter Maske in den|des ehemaligen US-Vizepräsidenten Dick
+
+;673;97;71878;7;1;1;zurecht; 85% rückt seine Maske [...] zurecht
+
+;674;97;71880;2;-1;-1;aufwändiger;100% aufwändiger Maske
+
+;675;97;71882;2;-2;4;Atemgerät; 50% Maske ... Atemgerät
+
+;676;97;71890;8;3;4;Tasche; 75% die Maske ... die|in|aus der Tasche
+
+;677;97;71895;5;-4;1;Amadori Steinel Egerer ; 40% Egerer ... Amadori [...] Maske ... Steinel
+
+;;;71896;1;-4;1;Amadori Steinel ;100% Amadori Maske Steinel
+
+;;;71898;2;-4;1;Amadori Egerer ; 50% Egerer Amadori Maske
+
+;678;97;71900;2;1;1;runternehmen;100% Maske runternehmen
+
+;679;97;71902;2;1;4;durchfeuchtet;100% Maske durchfeuchtet
+
+;680;96;71908;6;-5;-1;geheimnisvolle; 50% Maske ... geheimnisvolle
+
+;681;96;71921;13;3;5;ziehen; 53% die Maske [bis zu|in das Genick] ziehen
+
+;682;96;71922;1;1;1;runtergerissen;100% Maske runtergerissen
+
+;683;96;71930;8;1;1;abzusetzen;100% die Maske [der ...] abzusetzen
+
+;684;96;71941;11;-2;2;korrekt; 63% die Maske [...] korrekt
+
+;685;96;71943;2;-5;3;Mund-Nasen-Bedeckung;100% Mund-Nasen-Bedeckung ... Maske
+
+;686;95;71965;22;-5;3;Freien; 68% im Freien [und mit] Maske tragen ...
+
+;687;95;71968;3;-5;-3;gekleidet;100% gekleidet mit grün-schwarzer Maske
+
+;688;95;71969;1;-1;3;jovialen;100% Maske ... jovialen
+
+;689;95;71971;2;3;3;Roche-Cotard;100% Maske von La Roche-Cotard
+
+;690;95;71977;6;-3;3;niest; 83% - ohne Maske - niest viel Farbe
+
+;691;94;71983;6;-5;5;Atemluft; 66% Atemluft ... die der Maske
+
+;692;94;72007;24;-4;-2;Öffentlichkeit; 75% in der Öffentlichkeit keine ... Maske
+
+;693;94;72013;6;-5;5;Puppe; 66% Puppe [... mit] Maske
+
+;694;94;72115;102;-3;-3;weil; 53% weil [sie die] Maske
+
+;695;94;72126;11;-1;-1;Uta; 90% Uta Maske
+
+;696;94;72127;1;-5;5;Witt;100% Maske ... Witt
+
+;697;94;72131;4;-5;5;betritt;100% - ... Maske - das Cockpit betritt
+
+;698;94;72132;1;-4;-2;weigerte;100% weigerte ... Maske
+
+;699;94;72133;1;1;1;tragend;100% Maske tragend
+
+;700;93;72143;10;-3;-1;mittels; 80% mittels [... der] Maske
+
+;701;93;72144;1;1;3;überstülpen;100% Maske überstülpen
+
+;702;93;72147;3;-3;2;Kostümschneiderei; 66% Kostümschneiderei [...] Maske
+
+;703;93;72155;8;-2;5;Spezialeffekte; 62% Spezialeffekte & Maske
+
+;704;93;72159;4;-1;-1;liberale;100% liberale Maske
+
+;705;93;72160;1;-5;-2;Müritz-Saga;100% Müritz-Saga ... Maske
+
+;706;93;72161;1;-3;5;Halbschwergewichts-Champion;100% Halbschwergewichts-Champion Maske
+
+;707;92;72177;16;-5;-3;Ausstellung; 56% die|der Ausstellung [Wir sind] Maske
+
+;708;92;72216;39;-5;-2;braucht; 61% braucht ... keine|die ... Maske
+
+;709;92;72217;1;2;2;Scheinheiligkeit;100% Maske ... Scheinheiligkeit
+
+;710;92;72222;5;-4;5;Totenkopf; 60% Maske ... halb ... Totenkopf
+
+;711;92;72223;1;-5;3;tarnt;100% Maske tarnt
+
+;712;92;72230;7;1;1;ausziehen;100% die Maske [...] ausziehen
+
+;713;92;72235;5;-1;-1;sitzende;100% sitzende Maske
+
+;714;92;72237;2;3;4;Holla;100% Maske abreissen und dann Holla
+
+;715;91;72246;9;-5;4;Schauspiel; 66% Schauspiel [ohne] Maske
+
+;716;91;72254;8;1;5;feucht;100% die Maske [...] feucht
+
+;717;91;72255;1;2;5;DiCaprio;100% Maske ... DiCaprio
+
+;718;91;72257;2;2;2;Entsetzens;100% Maske des Entsetzens
+
+;719;91;72267;10;2;2;Cape; 90% Jahren liegen Maske [und] Cape nun im
+
+;720;91;72274;7;-2;-2;Gründen medizinischen ;100% die aus medizinischen [...] Gründen keine Maske tragenkönnen
+
+;;;72279;5;-2;-2;Gründen ; 60% dass die Maske aus pädagogisch sinnvollen Gründen auch
+
+;721;90;72362;83;-1;-1;ihrer; 65% mit ihrer [...] Maske
+
+;722;90;72363;1;1;4;aufgehabt;100% Maske aufgehabt
+
+;723;90;72405;42;-1;-1;Peter; 69% Peter [... die] Maske
+
+;724;90;72411;6;-5;4;Boris; 66% Boris Rousson auf die Maske ... und
+
+;725;90;72412;1;-5;5;Aufnahmeleitung;100% Maske Aufnahmeleitung
+
+;726;90;72418;6;-2;-2;demonstrativ; 83% demonstrativ mit Maske
+
+;727;90;72421;3;1;1;unterm;100% Maske [...] unterm
+
+;728;90;72422;1;-5;4;Geldsetzer Brigitte ;100% Maske ... Brigitte Geldsetzer
+
+;;;72424;2;-5;4;Geldsetzer ;100% Geldsetzer sieht in Gehrock und Maske
+
+;729;90;72441;17;-5;5;Hygiene; 70% Abstand Maske [...] Hygiene und
+
+;730;89;72521;80;2;2;seinem; 52% Maske [... auf|in] seinem
+
+;731;89;72527;6;1;1;ausgestattet; 83% mit Maske [...] ausgestattet
+
+;732;89;72534;7;-1;-1;komische; 85% die komische [... halb ...] Maske
+
+;733;89;72539;5;-5;3;Dramaturgie; 60% Maske ... Dramaturgie
+
+;734;89;72549;10;-5;5;Pose; 80% die Maske [und die] Pose
+
+;735;89;72552;3;-5;4;Myers; 66% Myers ... mit Maske
+
+;736;89;72565;13;1;1;gewöhnt; 92% an|sind die Maske [...] gewöhnt
+
+;737;88;72610;45;-5;-4;Dann;100% Dann ... die Maske
+
+;738;88;72612;2;-4;-4;geheimnisvollen;100% geheimnisvollen [...] Maske
+
+;739;88;72613;1;1;1;anlegt;100% Maske ... anlegt
+
+;740;88;72618;5;-5;-2;Prominente DRITTES REICH ;100% Prominente ohne Maske - DRITTES REICH - 1000
+
+;;;72625;7;-5;-2;Prominente ;100% Prominente ohne Maske
+
+;741;88;72633;8;4;5;Bußgeld; 87% ihr Personal Maske trägt sind 5000|150 Euro Bußgeld
+
+;742;88;72635;2;-4;-4;Corona-Regeln; 50% Maske ... Corona-Regeln
+
+;743;87;72643;8;-4;-1;Porträt; 62% Das Porträt als europäische Maske
+
+;744;87;72648;5;1;4;auftritt;100% mit Maske [...] auftritt
+
+;745;87;72653;5;2;2;Räubers; 80% Maske des|eines Räubers
+
+;746;87;72681;28;-4;-2;Besucher; 78% Besucher mit ohne Maske
+
+;747;87;72683;2;-2;3;Bonhomie;100% Maske der Bonhomie
+
+;748;87;72684;1;2;3;Spaßmachers;100% Maske ... Spaßmachers
+
+;749;87;72686;2;-5;2;Einweghandschuhe;100% Maske Haarhaube Einweghandschuhe
+
+;750;86;72726;40;-5;-2;Spiegel; 62% Spiegel und|in die Maske
+
+;751;86;72733;7;1;5;verwandelt; 57% der Maske [in ...] verwandelt
+
+;752;86;72736;3;-4;3;Beleuchter;100% Beleuchter ... Maske
+
+;753;86;72741;5;-3;-3;Patient;100% der Patient [... ohne] Maske
+
+;754;86;72742;1;-5;5;Klitschkos;100% Maske ... Klitschkos
+
+;755;86;72746;4;-5;-3;Gesichtshaut; 75% Gesichtshaut ... als Maske
+
+;756;86;72748;2;1;1;anzulegen;100% Maske ... anzulegen
+
+;757;86;72749;1;-3;-1;feuchtigkeitsspendende;100% feuchtigkeitsspendende ... Maske
+
+;758;86;72750;1;1;3;Conquest Paradise ;100% Maske ... Conquest ... Paradise
+
+;759;86;72751;1;-4;-3;rätselhaften;100% Maske ... rätselhaften
+
+;760;86;72752;1;1;2;aufziehen;100% Maske ... aufziehen
+
+;761;85;72781;29;1;1;wirkt; 58% es|dem Bild wirkt [als würde|die] Maske des|geradezuFilmstars|schmalbrüstig
+
+;762;85;72832;51;-3;-2;Personen; 80% Personen mit|die|ohne keine Maske
+
+;763;85;72845;13;2;5;dahinter; 76% die Maske [... und die ...] dahinter
+
+;764;85;72855;10;-5;4;erkennt; 80% der Maske [die wir uns vorbinden] erkennt
+
+;765;85;72869;14;-5;5;Hut; 57% Hut und ... der Maske
+
+;766;85;72876;7;-3;-2;setze; 71% setze keine die Maske auf
+
+;767;85;72883;7;-3;-3;öffnet; 71% seinen Spind öffnet und die Maske direkt neben
+
+;768;85;72887;4;-5;4;verrutschte;100% verrutschte die Maske
+
+;769;85;72888;1;2;5;Snob;100% Maske ... Snob
+
+;770;85;72889;1;1;1;aufzuziehen;100% Maske aufzuziehen
+
+;771;85;72893;4;-2;-2;Beatmungsfällen;100% von semi-akuten Beatmungsfällen mit Maske oder High-Flow-Sauerstofftherapie
+
+;772;84;72898;5;-1;-1;transparente;100% die transparente Maske
+
+;773;84;72900;2;1;1;ausblasen;100% Maske ausblasen
+
+;774;84;72901;1;-1;-1;kleinste;100% kleinste Maske
+
+;775;84;72904;3;-5;-2;Grinsen; 66% Maske ... mit ... Grinsen
+
+;776;84;72915;11;-5;5;Geschäften; 81% ohne Maske der in|Zutritt|Bussen zu|Bahnen und Geschäftenoder
+
+;777;83;72917;2;1;5;Plastik; 50% Maske Plastik
+
+;778;83;72922;5;-4;-2;Fechter; 60% Fechter ... die Maske
+
+;779;83;72926;4;-1;-1;goldener;100% mit goldener Maske
+
+;780;83;72930;4;-1;-1;Debütalbum; 50% Maske ... das Debütalbum
+
+;781;83;72932;2;1;1;rumlaufen;100% Maske rumlaufen
+
+;782;82;72945;13;-2;-1;Art; 76% die Art ... der mit ... Maske
+
+;783;82;72961;16;-1;-1;schöne; 93% als|die schöne [...] Maske
+
+;784;82;72963;2;2;5;Boxsport; 50% Maske ... Boxsport
+
+;785;82;72978;15;2;3;Gerät Tipps Problemen Aufklärung ;100% und Tipps bei Problemen mit Maske und Gerät sowieAufklärung über
+
+;;;72983;5;2;3;Gerät Tipps Problemen ;100% und Tipps bei|zu Problemen mit Maske und Gerät
+
+;;;72996;13;2;3;Gerät ; 61% Umgang mit Gerät [und] Maske und Zubehör
+
+;786;82;73002;6;-1;-1;blauen; 83% blauen [...] Maske
+
+;787;82;73003;1;-1;-1;wertvollen;100% wertvollen ... Maske
+
+;788;82;73004;1;-5;-2;Kapuzenshirt;100% Kapuzenshirt ... Maske
+
+;789;82;73005;1;-5;5;versteinert;100% Maske versteinert
+
+;790;82;73010;5;4;4;Kieske;100% Erich Maske zum|den ... Lothar Kieske zum
+
+;791;82;73013;3;-4;-3;Friedlands;100% Friedlands Coach Reiner Maske
+
+;792;82;73019;6;-5;4;Zutritt; 83% Zutritt ohne Maske
+
+;793;82;73020;1;-2;-2;Ausziehen;100% Ausziehen ... Maske
+
+;794;81;73352;332;-4;-3;dass; 79% dass [... die ...] Maske
+
+;795;81;73378;26;-1;-1;meiner; 80% meiner [... die] Maske
+
+;796;81;73381;3;-4;5;Kittel; 66% Maske ... Kittel
+
+;797;81;73385;4;-3;5;Schutzschild; 50% Maske ... Schutzschild
+
+;798;81;73386;1;-2;5;Box-Rentner;100% Box-Rentner Maske
+
+;799;81;73390;4;-5;-2;Tarnanzug; 75% Tarnanzug und Maske
+
+;800;81;73391;1;-5;4;Wegerle Christine ;100% Christine Wegerle ... Maske
+
+;801;81;73392;1;-2;3;Lindenholz;100% Maske ... Lindenholz
+
+;802;81;73393;1;-5;2;Halbschwergewichtler;100% Halbschwergewichtler Maske
+
+;803;81;73396;3;2;4;Suhren; 66% Maske + Suhren
+
+;804;80;73489;93;-4;-2;mir; 53% mir ... die Maske
+
+;805;80;73692;203;1;3;sagt; 53% sagt [...] Maske
+
+;806;80;73694;2;1;1;eintragen;100% Maske [...] eintragen
+
+;807;80;73716;22;-1;-1;Meine;100% Meine [...] Maske
+
+;808;80;73719;3;-1;-1;Jan-Florian;100% Jan-Florian Maske
+
+;809;80;73720;1;-4;-2;Budapest;100% Budapest ... Maske
+
+;810;80;73725;5;-1;-1;komischen; 80% der komischen [...] Maske
+
+;811;80;73730;5;-5;-2;Fell; 80% Fell [und] Maske
+
+;812;80;73753;23;-3;-3;Schuss;100% einem Schuss an der|die Maske getroffen ...
+
+;813;80;73758;5;2;5;Puder; 60% Maske ... Puder
+
+;814;80;73760;2;-5;4;dt;100% dt [...] Maske
+
+;815;80;73764;4;1;1;auflief;100% mit Maske auflief
+
+;816;79;73767;3;-1;-1;bleichen; 66% bleichen Maske
+
+;817;79;73777;10;1;1;sorgten; 60% für die Maske [...] sorgten
+
+;818;79;73779;2;-5;4;Grimasse;100% Maske ... und Grimasse
+
+;819;79;73788;9;-4;3;Styling; 66% das Styling in|und der Maske
+
+;820;79;73790;2;-1;-1;grellen;100% grellen Maske
+
+;821;79;73792;2;-5;5;verzerrt;100% verzerrt die Maske
+
+;822;79;73793;1;1;5;aufträgt;100% Maske aufträgt
+
+;823;79;73798;5;-1;-1;Eiserne;100% Eiserne [...] Maske
+
+;824;79;73801;3;-5;5;Scully; 66% Maske ... Scully
+
+;825;79;73802;1;-4;3;Neoprenanzug;100% Neoprenanzug ... Maske
+
+;826;78;73812;10;-4;-3;Max; 50% Max ... die Maske
+
+;827;78;73859;47;-3;-2;oft; 65% oft [in der|die] Maske
+
+;828;78;73860;1;2;2;Fröhlichkeit;100% Maske ... Fröhlichkeit
+
+;829;78;73863;3;-5;5;Schlosserei Schreinerei ;100% Schreinerei [...] Schlosserei [Malerei KleiderkammerNäherei] Maske ... und
+
+;;;73866;3;-5;5;Schlosserei ; 66% Schlosserei Malersaal ... und|Kostüm ... Maske
+
+;830;78;73870;4;1;5;Aggro; 75% Maske [...] Aggro
+
+;831;78;73871;1;2;5;anliegt;100% Maske ... anliegt
+
+;832;78;73879;8;-5;4;Mephisto; 50% Mephisto ohne Maske
+
+;833;78;73885;6;-1;-1;demokratische;100% seine demokratische Maske fallen
+
+;834;78;73888;3;4;5;17,59;100% Rückkampf den Maske klar gewann wollten gar 17,59
+
+;835;78;73894;6;-1;-1;obligatorische;100% sowie die obligatorische [...] Maske
+
+;836;78;73906;12;2;4;Ohren; 58% Ohren [Läufe der Schnauzpartie] Maske
+
+;837;78;73907;1;-4;4;weißem;100% Maske ... weißem
+
+;838;78;73909;2;-5;5;desinfiziert; 50% Maske ... desinfiziert
+
+;839;78;73912;3;-4;4;Mönk Elisabet Siedenbollentin Manfred ; 66% Siedenbollentin Manfred Maske ... und Elisabet Mönk
+
+;;;73914;2;-4;4;Mönk Elisabet Manfred ;100% Elisabet Mönk ... und Manfred Maske
+
+;;;73915;1;-4;4;Mönk Siedenbollentin Manfred ;100% Siedenbollentin Manfred Maske ... Mönk
+
+;;;73916;1;-4;4;Mönk Manfred ;100% Mönk ... Manfred Maske
+
+;840;78;73924;8;-2;-2;Absetzen;100% Auf und Absetzen der|sollte man die Maske
+
+;841;78;73929;5;-3;3;Tutanchamuns; 60% Tutanchamuns Maske
+
+;842;78;73930;1;-5;5;Gesichtshälfte;100% Maske ... Gesichtshälfte
+
+;843;78;73934;4;-3;-3;Fledermaus-Umhang;100% Stürmer einen Fledermaus-Umhang und die Maske die der
+
+;844;78;73938;4;-5;5;Abstandsregel; 50% Maske [...] Abstandsregel
+
+;845;77;74068;130;1;1;gegen; 50% Maske [...] gegen
+
+;846;77;74069;1;1;5;bedeckte;100% Maske ... bedeckte
+
+;847;77;74071;2;1;5;übergestreift;100% Maske übergestreift
+
+;848;77;74075;4;-5;-1;Gründgens;100% Gründgens ... der Maske
+
+;849;77;74078;3;-5;-3;Böse Guten ;100% Böse in der Maske des Guten
+
+;;;74082;4;-5;-3;Böse ;100% Böse ... die Maske
+
+;850;77;74083;1;-4;5;dellarte;100% Maske ... dellarte
+
+;851;77;74087;4;-5;1;lüftete;100% lüftete ... seine|die Maske
+
+;852;77;74091;4;-4;4;Sichtfenster; 75% Sichtfenster der Maske ist ...
+
+;853;77;74092;1;-4;4;Kulissenbau;100% Maske ... Kulissenbau
+
+;854;77;74095;3;1;4;einzugeben;100% Maske einzugeben
+
+;855;77;74102;7;1;5;gefertigt;100% die|erste Maske [die|aus einem Holzblock] gefertigt
+
+;856;77;74105;3;-4;4;Desinfektion;100% Maske [und] Desinfektion
+
+;857;76;74110;5;-2;-1;brav;100% brav [...] Maske
+
+;858;76;74118;8;-4;-1;Album; 75% Album Maske
+
+;859;76;74119;1;-5;4;Rächers;100% Rächers ... Maske
+
+;860;76;74123;4;1;1;abnehme;100% die Maske abnehme
+
+;861;76;74124;1;2;3;Gesichtshelms;100% Maske ... Gesichtshelms
+
+;862;76;74134;10;-2;-2;freiwillig; 60% Maske [...] freiwillig
+
+;863;76;74139;5;-2;-2;Jedem;100% Jedem seine Maske
+
+;864;76;74144;5;-5;-5;Gruppenaktivität;100% Gruppenaktivität teilnehmen - alles mit Maske
+
+;865;75;74150;6;-5;5;Gips; 66% Gips ... die Maske
+
+;866;75;74167;17;1;1;getroffen; 88% an der Maske getroffen wurde
+
+;867;75;74175;8;-5;-2;Kunde;100% ein|der ... Kunde ohne|kommen -|mit Maske
+
+;868;75;74184;9;-5;3;Massage; 66% Massage [... und] Maske
+
+;869;75;74185;1;2;5;Wuest Susanne ;100% Maske ... Susanne Wuest
+
+;870;75;74187;2;1;3;herumzulaufen;100% Maske herumzulaufen
+
+;871;75;74194;7;1;3;sobald; 57% sobald die Maske
+
+;872;75;74195;1;2;5;Klitschko-Brüder;100% Maske ... Klitschko-Brüder
+
+;873;75;74204;9;2;3;Williams; 66% Maske - ... Williams
+
+;874;75;74209;5;-1;-1;dieselbe; 80% dieselbe [...] Maske
+
+;875;75;74218;9;-5;5;Gewand; 77% die Maske und an das übelriechende Gewand
+
+;876;75;74222;4;2;2;Teufels;100% die Maske des Teufels
+
+;877;75;74223;1;-4;4;Essner;100% Essner Maske
+
+;878;75;74225;2;-5;-1;Crèmchen;100% Crèmchen ist Crèmchen [...] Maske
+
+;879;74;74228;3;2;2;Guten; 66% Maske des Guten
+
+;880;74;74232;4;2;3;Sokrates; 75% Maske ... des Sokrates
+
+;881;74;74240;8;-5;4;schwarz; 75% die Maske [...] schwarz
+
+;882;74;74244;4;1;5;erkannt;100% Maske [nicht] erkannt
+
+;883;74;74248;4;-4;3;entreißt; 75% Maske entreißt
+
+;884;74;74249;1;2;2;Vollvisier;100% Maske ... Vollvisier
+
+;885;74;74255;6;4;4;9; 66% Maske ... 9
+
+;886;74;74257;2;2;2;Wohltäters;100% Maske des Wohltäters
+
+;887;74;74260;3;-2;-1;antike;100% die antike Maske
+
+;888;74;74263;3;-1;-1;entstellender;100% entstellender Maske
+
+;889;74;74267;4;-3;-3;Weihnachtsmann-Mantel;100% der Weihnachtsmann-Mantel und die Maske deponiert im
+
+;890;74;74270;3;1;1;heruntergezogen;100% Maske heruntergezogen
+
+;891;74;74274;4;-4;5;mask;100% mask ... Maske
+
+;892;74;74286;12;-5;5;Viren; 75% Viren in|an die|der Maske
+
+;893;74;74288;2;-3;4;Hygienemaske; 50% Maske ... Hygienemaske
+
+;894;74;74290;2;-5;5;Attest; 50% Maske ... Attest
+
+;895;74;74292;2;2;4;Infektionsrisiko;100% Maske ... das Infektionsrisiko
+
+;896;74;74293;1;1;4;dabeihaben;100% Maske ... dabeihaben
+
+;897;74;74294;1;-2;5;Gesichtsvisier;100% Maske ... Gesichtsvisier
+
+;898;73;74314;20;-5;-2;erscheint; 65% erscheint in|die der Maske
+
+;899;73;74318;4;-1;-1;spezielle; 50% Maske ... spezielle
+
+;900;73;74346;28;1;1;seines; 67% Angewohnheit seine|die Maske [am Innenspiegel] seinesAutos aufzuhängen
+
+;901;73;74348;2;-1;-1;coole;100% coole Maske
+
+;902;73;74353;5;-5;3;nähen; 80% Maske [um Maske] nähen
+
+;903;73;74363;10;2;2;Ironie; 70% die Maske [des Hellenismus der|die Maske ...] Ironie die
+
+;904;73;74364;1;1;5;einatmen;100% einatmen ... Maske
+
+;905;73;74367;3;-1;-1;entstellenden;100% ihn sehr entstellenden Maske Richards III
+
+;906;73;74368;1;-1;5;Masque;100% Masque Maske
+
+;907;73;74373;5;-5;-2;Sitzt undurchlässig ;100% Sitzt alles richtig ist die Maske undurchlässig
+
+;;;74378;5;-5;-2;Sitzt ;100% Sitzt die Maske
+
+;908;72;74381;3;-5;4;Häs; 66% Häs und Maske
+
+;909;72;74424;43;1;1;sieht; 60% sieht [... der] Maske
+
+;910;72;74429;5;1;5;Nr; 80% Maske [...] Nr
+
+;911;72;74431;2;2;3;Leder; 50% Maske ... Leder
+
+;912;72;74432;1;-5;5;Almsick;100% Almsick ... Maske
+
+;913;72;74435;3;-4;5;Tarnung;100% Maske [...] Tarnung
+
+;914;72;74436;1;-3;5;Steinel Egerer ;100% Egerer ... Steinel Maske
+
+;;;74437;1;-3;5;Steinel ;100% Steinel ... Maske
+
+;915;72;74439;2;-5;-2;Brillenträger; 50% Maske ... Brillenträger
+
+;916;71;74446;7;2;2;Schönheit; 57% Maske der ... Schönheit
+
+;917;71;74450;4;-1;-1;professionelle; 75% die professionelle Maske
+
+;918;71;74482;32;-4;-3;ganzen; 75% den ganzen [Tag mit|die] Maske zu
+
+;919;71;74488;6;-4;5;Maskenbildnerin; 83% die Maske ... der|mit ... Maskenbildnerin
+
+;920;71;74497;9;2;2;Trauer;100% Maske der Trauer
+
+;921;71;74501;4;-1;-1;grüner;100% grüner Maske
+
+;922;71;74503;2;-4;5;maschera; 50% Maske ... maschera
+
+;923;71;74505;2;2;5;Monsters;100% Maske des Monsters
+
+;924;71;74508;3;-4;5;Hubrig Ilka ; 66% Ilka [...] Hubrig Maske
+
+;;;74509;1;-4;5;Hubrig ;100% Hubrig ... Maske
+
+;925;71;74511;2;-2;-2;vorsorglich;100% Maske ... vorsorglich
+
+;926;71;74517;6;-4;4;Eckmann Konservator ;100% Konservator Christian Eckmann habe|hat die Maskeuntersucht und
+
+;;;74521;4;-4;4;Eckmann ;100% für die Maske sagte Eckmann
+
+;927;71;74523;2;-5;5;einhalten; 50% Maske ... einhalten
+
+;928;70;74524;1;2;5;Kopfputz;100% Maske ... Kopfputz
+
+;929;70;74526;2;-1;-1;hellblaue;100% hellblaue Maske
+
+;930;70;74527;1;-3;3;Gesichtsmassage;100% Gesichtsmassage ... Maske
+
+;931;70;74534;7;-3;-3;Faschisten Demokraten ;100% Rückkehr der Faschisten in der Maske der Demokraten
+
+;;;74538;4;-3;-3;Faschisten ;100% Rückkehr der Faschisten in der Maske der Faschistensondern vor
+
+;932;70;74540;2;-5;2;Schutzmantel;100% Schutzmantel und Maske
+
+;933;70;74541;1;-5;5;Maskenpflicht;100% Maske ... Maskenpflicht
+
+;934;69;74597;56;-4;-2;Frau; 76% die Frau [mit der] Maske
+
+;935;69;74600;3;-5;5;engl; 33% Maske ... engl
+
+;936;69;74604;4;2;4;Buchow;100% Maske von Buchow
+
+;937;68;74611;7;1;3;benutzt; 57% als Maske benutzt
+
+;938;68;74625;14;1;1;sorgt; 57% für die Maske [...] sorgt
+
+;939;68;74627;2;4;5;Ansteckung;100% Maske ... vor Ansteckung
+
+;940;68;74638;11;-4;-2;draußen; 63% draußen [dann die] Maske
+
+;941;68;74647;9;2;3;Messer; 88% mit Maske [und ...] Messer
+
+;942;68;74652;5;-4;4;antiken; 80% Maske und im|Chor ... antiken
+
+;943;68;74658;6;-3;-2;Spider-Man;100% Spider-Man mit|seine doppelter Maske
+
+;944;68;74659;1;2;2;Scham;100% Maske ... der ... Scham
+
+;945;68;74660;1;-5;-4;Brightman;100% Brightman ... Maske
+
+;946;68;74664;4;1;5;aussieht;100% Maske ... aussieht
+
+;947;68;74672;8;-2;-1;konsequent;100% konsequent [die] Maske tragen
+
+;948;68;74673;1;1;1;abzieht;100% Maske abzieht
+
+;949;68;74676;3;2;5;gewöhnungsbedürftig; 66% Maske ... gewöhnungsbedürftig
+
+;950;68;74680;4;-2;-1;Friedola;100% Friedola [Taucher-Set] Maske und Schnorchel
+
+;951;67;74686;6;1;1;erhält; 66% Maske [... und] erhält
+
+;952;67;74764;78;1;1;sowie; 60% Maske [...] sowie die ...
+
+;953;67;74767;3;-2;4;Bühnenmeister;100% soll die Maske hinein dort die Bühnenmeister und
+
+;954;67;74773;6;4;4;the; 83% of the ... - Maske
+
+;955;67;74776;3;-5;5;Choreografie; 66% Choreografie ... Maske
+
+;956;67;74784;8;-5;-3;Muss;100% Muss ich der die|in ... Maske
+
+;957;67;74789;5;2;3;netten; 80% der Maske des lieben netten Jungen ...
+
+;958;67;74790;1;-3;-3;Trockentest;100% Trockentest ... Maske
+
+;959;67;74791;1;-3;-3;einzuhalten;100% einzuhalten ... Maske
+
+;960;66;75050;259;2;2;einem; 57% die|der Maske [... in mit] einem
+
+;961;66;75054;4;-1;-1;bunte; 50% Maske [...] bunte
+
+;962;66;75055;1;-5;5;atmet;100% atmet ... Maske
+
+;963;66;75058;3;-3;5;Treuenbrietzen;100% Maske 1964 in Treuenbrietzen
+
+;964;66;75059;1;-2;-1;wiederverwendbare;100% wiederverwendbare Maske
+
+;965;66;75062;3;-5;-3;Reißt;100% Reißt ab die Maske
+
+;966;66;75067;5;-2;-2;Bartes abgebrochenen versehentlich ;100% des versehentlich abgebrochenen Bartes der Maske imAugust
+
+;;;75068;1;-2;-2;Bartes ;100% Bartes ... Maske
+
+;967;66;75072;4;-2;-2;coronakonform;100% coronakonform mit Maske
+
+;968;65;75073;1;-4;5;Shui Ta Vetters ;100% Maske ... Vetters Shui Ta
+
+;;;75076;3;-4;5;Shui Ta ; 66% Maske des ... Shui Ta
+
+;969;65;75087;11;-5;5;echt; 90% Maske [... und ...] echt
+
+;970;65;75088;1;-3;4;Visage;100% Maske ... Visage
+
+;971;65;75089;1;-3;-1;Strumpfhose;100% Maske ... Strumpfhose
+
+;972;65;75090;1;1;5;Sa;100% Maske ... Sa
+
+;973;65;75091;1;1;4;genäht;100% Maske genäht
+
+;974;65;75092;1;-1;-1;eiserner;100% eiserner Maske
+
+;975;65;75096;4;-5;-2;Empfehlung; 75% Empfehlung [...] Maske
+
+;976;64;75101;5;1;5;lächeln; 80% Maske [zu] lächeln
+
+;977;64;75102;1;1;1;zeichnete;100% Maske zeichnete
+
+;978;64;75104;2;1;1;zerbricht; 50% Maske zerbricht
+
+;979;64;75109;5;-5;5;Kampfes; 60% Kampfes ... Maske
+
+;980;64;75111;2;1;5;abgefallen;100% Maske abgefallen
+
+;981;64;75114;3;-1;2;gehörnten; 66% Maske eines gehörnten
+
+;982;64;75115;1;-1;-1;vergoldete;100% vergoldete Maske
+
+;983;64;75120;5;-3;5;Roschack; 60% Maske ... Voß|Schärf ... Roschack
+
+;984;64;75121;1;-5;4;Knieps;100% Knieps ... Maske
+
+;985;64;75123;2;1;1;überzustülpen;100% Maske überzustülpen
+
+;986;64;75124;1;-5;-2;Grashey;100% Grashey ... Maske
+
+;987;63;75159;35;-5;-2;Ob;100% Ob [mit oder ohne] Maske
+
+;988;63;75161;2;-5;5;Überdruck;100% Überdruck ... in ... Maske
+
+;989;63;75168;7;-1;-1;transparenten;100% der transparenten [...] Maske
+
+;990;63;75185;17;-3;-3;Tod; 76% Eros|der Tod und der Maske
+
+;991;63;75186;1;2;5;Silikon;100% Maske ... Silikon
+
+;992;63;75192;6;1;1;Fleet;100% die|der|Firma Maske Fleet GmbH
+
+;993;63;75195;3;-5;5;Flottenzentrum; 66% Flottenzentrum Dello Andreas Maske
+
+;994;63;75222;27;-3;-2;läßt; 77% läßt ... die Maske fallen
+
+;995;63;75223;1;-4;-3;streift;100% streift ... Maske
+
+;996;63;75224;1;-3;-3;grima;100% grima ... Maske
+
+;997;63;75226;2;-5;3;Annina;100% Maske [...] Annina
+
+;998;63;75229;3;-2;5;baumelt;100% baumelt die Maske
+
+;999;63;75236;7;-4;-2;Fahrgästen;100% mit jenen Fahrgästen die keine ohne Maske tragen sagte
+
+;1000;62;75258;22;-2;-2;Zug; 54% ohne Maske [in|den|im] Zug
+
+;1001;62;75290;32;1;1;fiel; 68% fiel ... die Maske
+
+;1002;62;75300;10;1;1;erinnert; 70% erinnert [mit die|feister] Maske an ...
+
+;1003;62;75303;3;3;4;Hauptrolle;100% Maske der Hauptrolle
+
+;1004;62;75304;1;-3;-3;Diebstahl;100% Diebstahl ... Maske
+
+;1005;62;75305;1;1;1;angezogen;100% Maske angezogen
+
+;1006;62;75311;6;1;1;43; 66% Maske [...] 43
+
+;1007;62;75313;2;-5;-1;bleiche;100% bleiche [...] Maske
+
+;1008;62;75314;1;-4;-2;Pulli;100% Pulli ... Maske
+
+;1009;62;75325;11;-5;-2;Überfall; 72% Überfall mit|ohne ... Maske
+
+;1010;62;75326;1;-1;5;Gutperle;100% Maske ... Gutperle
+
+;1011;62;75328;2;-2;-1;grotesken;100% grotesken Maske
+
+;1012;62;75329;1;-4;-4;Dorf;100% Maske ... Dorf
+
+;1013;62;75333;4;-5;5;Totenmaske; 50% Maske ... Totenmaske
+
+;1014;62;75335;2;-3;5;rutscht; 50% Maske ... rutscht
+
+;1015;62;75336;1;2;2;Coolness;100% Maske ... Coolness
+
+;1016;62;75338;2;-4;-3;Asthmatikerin;100% Asthmatikerin und ... Maske
+
+;1017;61;75344;6;-1;-1;blauer; 83% mit blauer Maske
+
+;1018;61;75358;14;-4;-1;Bitte;100% Bitte [mit|nicht ...] Maske tragen
+
+;1019;61;75360;2;-3;-2;Zieh;100% Zieh ... Maske
+
+;1020;61;75366;6;-4;-2;nachts; 66% Maske ... nachts
+
+;1021;61;75370;4;-5;5;Schlauch;100% Schlauch [...] Maske
+
+;1022;61;75418;48;-1;-1;pro; 93% Euro pro [...] Maske
+
+;1023;61;75419;1;-4;5;Luftflasche;100% Luftflasche ... Maske
+
+;1024;61;75429;10;1;1;erscheinen; 80% in mit|der Maske [... zu] erscheinen
+
+;1025;61;75431;2;-5;-2;CPAP; 50% CPAP ... Maske
+
+;1026;61;75432;1;-3;-2;Beatmungsbeutel;100% Beatmungsbeutel ... Maske
+
+;1027;61;75433;1;3;5;Titanic;100% Titanic ... Maske
+
+;1028;61;75436;3;1;4;gepudert;100% in ... Maske [...] gepudert
+
+;1029;61;75439;3;-1;-1;hässliche;100% hässliche Maske
+
+;1030;61;75450;11;1;3;trainieren; 81% mit Maske soll zu|Sinne trainieren
+
+;1031;61;75451;1;-2;-2;Leg;100% Leg ... Maske
+
+;1032;61;75453;2;-4;3;Harbarth-Würz;100% Harbarth-Würz und Erika Bock Maske
+
+;1033;61;75454;1;1;1;juckt;100% Maske juckt
+
+;1034;61;75460;6;-4;2;Kutte; 83% Zwischen Kutte und Maske
+
+;1035;61;75461;1;-4;3;Haray;100% Haray ... Maske
+
+;1036;61;75465;4;-3;-3;Abschminken; 75% Abschminken in die Maske
+
+;1037;61;75469;4;-2;-2;Oberkante; 75% die Oberkante der Maske
+
+;1038;61;75476;7;-2;-2;Einkauf;100% Einkauf ohne Maske
+
+;1039;60;75477;1;1;1;abreissen;100% Maske ... abreissen
+
+;1040;60;75481;4;-5;3;Kulisse; 50% Maske [...] Kulisse
+
+;1041;60;75483;2;-5;5;Schnurrbart; 50% Maske ... Schnurrbart
+
+;1042;60;75484;1;1;1;getarnte;100% getarnte ... Maske
+
+;1043;60;75485;1;-3;3;Abschiedshymne;100% Maske ... Abschiedshymne
+
+;1044;60;75486;1;3;3;Tonerde;100% Maske ... Tonerde
+
+;1045;60;75493;7;1;1;abgezogen;100% die Maske [...] abgezogen
+
+;1046;60;75497;4;-5;4;Mykene;100% Maske aus in Mykene
+
+;1047;60;75499;2;-5;4;Arlecchino;100% Arlecchino ... Maske
+
+;1048;60;75507;8;-4;5;Satyr; 75% Satyr [mit der] Maske Festspiel
+
+;1049;60;75510;3;1;5;Wafer;100% Maske ... Wafer
+
+;1050;60;75516;6;-5;-2;Biden Joe ; 83% Joe Biden mit|nimmt ... Maske
+
+;;;75517;1;-5;-2;Biden ;100% Biden ... Maske
+
+;1051;60;75519;2;-3;-1;getragener;100% getragener Maske
+
+;1052;59;75529;10;-5;-2;Motiv;100% dem Motiv der Maske
+
+;1053;59;75533;4;1;5;aufgetragen;100% Maske [...] aufgetragen
+
+;1054;59;75546;13;1;3;Visier; 76% mit Maske oder und mit ... Visier
+
+;1055;59;75551;5;4;5;12; 60% Maske [...] 12
+
+;1056;59;75599;48;-4;-3;denen; 89% in denen [... die] Maske
+
+;1057;59;75601;2;-5;5;angemalt; 50% Maske ... angemalt
+
+;1058;59;75608;7;-5;-4;Sein; 85% Sein ... Maske
+
+;1059;59;75613;5;1;1;verzichtet; 80% auf die Maske [... und ...] verzichtet
+
+;1060;59;75614;1;-4;5;Totenschädel;100% Totenschädel ... Maske
+
+;1061;59;75616;2;-5;5;Bühnengestaltung;100% Maske ... Bühnengestaltung
+
+;1062;59;75618;2;-4;5;Westfalenhalle;100% Westfalenhalle ... Maske
+
+;1063;59;75619;1;-3;-2;Box-Stars;100% Box-Stars ... Maske
+
+;1064;59;75646;27;-5;-2;Schüler; 81% Schüler [mit|ohne|die|keine] Maske
+
+;1065;59;75650;4;-1;-1;sitzenden;100% der ... sitzenden Maske
+
+;1066;59;75653;3;2;2;Wahnsinns;100% Maske des Wahnsinns
+
+;1067;59;75654;1;-1;-1;Jugend-Theater-Festival;100% Jugend-Theater-Festival Maske
+
+;1068;59;75656;2;2;2;Retters;100% Maske ... Retters
+
+;1069;59;75659;3;-1;-1;auffälligen;100% auffälligen Maske
+
+;1070;59;75660;1;-4;5;Ghostface;100% Maske ... Ghostface
+
+;1071;59;75661;1;-5;5;Killah;100% Maske ... Killah
+
+;1072;59;75666;5;3;3;proppenvolle;100% in die Maske dann der proppenvolle Saal dazu
+
+;1073;59;75668;2;-5;3;Händedesinfektion; 50% Maske Händedesinfektion
+
+;1074;59;75672;4;-5;5;Sicherheitsabstände; 75% Maske und Sicherheitsabstände
+
+;1075;58;75675;3;-1;2;benutzte; 66% Maske benutzte
+
+;1076;58;75679;4;-5;4;schlüpfte; 75% schlüpfte immerfort von Maske
+
+;1077;58;75681;2;2;3;Büste;100% Maske ... Büste
+
+;1078;58;75689;8;-5;5;Identität; 75% Maske und Identität
+
+;1079;58;75696;7;3;5;Planche; 85% die Maske auf|quer|stieg über die|von der Planche
+
+;1080;58;75737;41;1;1;bleibt; 53% die Maske [...] bleibt
+
+;1081;58;75741;4;2;4;Bürgers;100% Maske des Bürgers
+
+;1082;58;75742;1;-1;-1;professionellen;100% professionellen Maske
+
+;1083;58;75745;3;1;1;abgeworfen;100% die Maske abgeworfen
+
+;1084;58;75748;3;-4;-1;zieh;100% zieh die Maske
+
+;1085;58;75751;3;-3;2;roter;100% mit roter [...] Maske
+
+;1086;58;75756;5;2;2;Staatstheaters; 80% in der Maske des Staatstheaters
+
+;1087;58;75758;2;4;5;Augenbrauen; 50% Maske ... Augenbrauen
+
+;1088;58;75769;11;-5;5;Schauspielern; 63% den Schauspielern in Kostüm die und Maske und Kostüm
+
+;1089;58;75778;9;3;5;Hals; 77% die Maske um den Hals
+
+;1090;58;75779;1;-1;-1;teuflische;100% teuflische Maske
+
+;1091;58;75780;1;1;5;verkleidete;100% Maske verkleidete
+
+;1092;58;75783;3;2;2;Judika-Rednerin;100% Maske der Judika-Rednerin
+
+;1093;58;75784;1;-5;5;Klassenraum;100% Maske ... Klassenraum
+
+;1094;58;75785;1;-3;5;Ipkiss;100% Maske ... Ipkiss
+
+;1095;58;75789;4;-1;-1;historischer; 75% historischer Maske
+
+;1096;58;75791;2;-1;2;harmlosen;100% Maske des harmlosen
+
+;1097;58;75794;3;3;4;Lesniak Doris ; 66% Maske waren Doris Lesniak
+
+;1098;58;75799;5;2;5;Mottweiler;100% für die Maske zeichnen Anita Heidi|Bongard ... Mottweiler
+
+;1099;58;75805;6;1;5;Maulkorb; 66% die Maske ... Maulkorb
+
+;1100;58;75806;1;4;4;Dabic;100% Maske ... Dabic
+
+;1101;58;75809;3;-2;-2;Reliefstreifen;100% mit schwarz-weißen Reliefstreifen gezierten Maske derSongye
+
+;1102;58;75810;1;-5;-5;Gruppenaktivitäten fünft ;100% Gruppenaktivitäten ... fünft ... Maske
+
+;1103;57;75813;3;-5;5;Heuchelei;100% die Maske ... der ... Heuchelei
+
+;1104;57;75814;1;-5;-2;Miene;100% Maske ... Miene
+
+;1105;57;75840;26;3;3;Hand; 69% die Maske in der Hand
+
+;1106;57;75844;4;-5;-3;indem;100% indem die keine Maske
+
+;1107;57;75847;3;-1;-1;lachenden; 66% Maske des ... lachenden
+
+;1108;57;75849;2;-4;5;Gesichtsausdruck; 50% Maske ... Gesichtsausdruck
+
+;1109;57;75860;11;-4;-2;lasse; 90% lasse ich die Maske fallen und
+
+;1110;57;75861;1;-3;4;herumläuft;100% Maske herumläuft
+
+;1111;57;75865;4;1;1;verpasst; 75% Maske [...] verpasst
+
+;1112;57;75869;4;2;3;Medusa;100% Maske der Medusa
+
+;1113;57;75870;1;-5;3;Lear;100% Lear ... Maske
+
+;1114;57;75877;7;-2;-1;samt; 57% samt [...] Maske
+
+;1115;57;75880;3;-1;-1;dunklen;100% mit der dunklen Maske
+
+;1116;57;75882;2;-5;-3;Darstellern; 50% Maske ... Darstellern
+
+;1117;57;75884;2;1;5;frisiert;100% Maske [...] frisiert
+
+;1118;57;75888;4;1;1;runtergezogen;100% rechten die Maske runtergezogen
+
+;1119;57;75889;1;-3;-1;Paulenz;100% Paulenz ... Maske
+
+;1120;57;75890;1;-5;-4;Bellmann-de;100% Bellmann-de ... Maske
+
+;1121;57;75896;6;1;1;angenäht Schließen Bänder ;100% Bänder zum Schließen an der Maske angenäht
+
+;1122;56;75938;42;-1;-1;neue; 71% die neue [...] Maske
+
+;1123;56;75953;15;-3;-2;Film; 53% Film nicht mit|ganz ohne|der ... Maske
+
+;1124;56;75962;9;-5;-2;Aufführung; 55% Aufführung Beteiligte in|waren Kostüm und der Maske
+
+;1125;56;75968;6;-3;-3;Stunde;100% guten halben Stunde wird in die Maske vom Körper
+
+;1126;56;75971;3;1;1;tragenden;100% Maske tragenden
+
+;1127;56;75973;2;-4;-4;Tipps; 50% Maske ... Tipps
+
+;1128;56;75978;5;-3;-3;Lockenwicklern zugebracht ;100% täglich mit Lockenwicklern in der Maske zugebracht
+
+;1129;56;76001;23;-1;-1;Ulrich; 86% Ulrich [...] Maske
+
+;1130;56;76007;6;-3;3;Dekoration; 50% Maske ... Dekoration
+
+;1131;56;76011;4;-1;3;Jugendtheater-Festival; 75% Jugendtheater-Festival Maske
+
+;1132;56;76012;1;-5;-3;Filmset;100% Filmset ... Maske
+
+;1133;56;76013;1;2;2;Gurkenscheiben;100% Gurkenscheiben ... Maske
+
+;1134;56;76014;1;-5;3;Zülow;100% Zülow ... Maske
+
+;1135;56;76015;1;-1;-1;pseudodemokratische;100% pseudodemokratische Maske
+
+;1136;56;76018;3;2;5;Zunge;100% der Maske am Kirchturm|die Zunge
+
+;1137;56;76019;1;-2;-1;Gentleman-Boxers;100% Gentleman-Boxers Maske
+
+;1138;56;76020;1;2;3;Fernsehstudios;100% Maske ... Fernsehstudios
+
+;1139;56;76023;3;-5;5;Abstandsgebot; 66% Maske und Abstandsgebot
+
+;1140;56;76027;4;2;2;Duftbaum;100% Maske statt Duftbaum
+
+;1141;55;76043;16;1;4;herum; 75% an der Maske [...] herum und lege
+
+;1142;55;76047;4;-2;-2;du dir ; 50% dir eins vor die Maske du
+
+;;;76084;37;-2;-2;du ; 62% du ... die Maske
+
+;1143;55;76145;61;-4;-2;ließ; 75% ließ [... die] Maske fallen
+
+;1144;55;76197;52;-2;-2;sogar; 63% sogar die|mit|ohne Maske
+
+;1145;55;76200;3;-5;5;Bösewicht;100% Bösewicht - mit Maske
+
+;1146;55;76212;12;1;2;obwohl; 58% keine Maske [...] obwohl
+
+;1147;55;76214;2;1;2;vergisst;100% Maske vergisst
+
+;1148;55;76216;2;1;2;Brustpanzer;100% Maske und Brustpanzer
+
+;1149;55;76228;12;-5;-2;gehts; 83% gehts in die Maske
+
+;1150;55;76230;2;-5;-1;Box-Kampf;100% Box-Kampf seit dem Abgang von Maske
+
+;1151;55;76231;1;-4;5;häßliche;100% häßliche Maske
+
+;1152;55;76232;1;-5;-1;Brustschutz;100% Brustschutz ... Maske
+
+;1153;55;76236;4;-2;3;Zbik; 50% Maske und Zbik
+
+;1154;55;76237;1;-3;5;Rückkampf;100% Rückkampf ... Maske
+
+;1155;55;76238;1;2;5;Makonde;100% Maske ... Makonde
+
+;1156;55;76239;1;2;2;Ehrbarkeit;100% Maske ... Ehrbarkeit
+
+;1157;55;76240;1;2;3;Bantugruppe;100% Maske ... Bantugruppe
+
+;1158;55;76242;2;-4;3;Theatertechnik; 50% Maske ... Theatertechnik
+
+;1159;55;76243;1;-5;5;Corona-Zeiten;100% Corona-Zeiten ... Maske
+
+;1160;54;76246;3;-4;5;Hinterkopf;100% Maske am ... Hinterkopf
+
+;1161;54;76257;11;1;1;2; 72% mit ... Maske [...] 2
+
+;1162;54;76260;3;-3;1;verwendete; 66% Maske verwendete
+
+;1163;54;76263;3;-5;5;Idol; 66% Idol Maske
+
+;1164;54;76264;1;-4;3;Weste;100% Weste ... Maske
+
+;1165;54;76267;3;-5;5;Stirn; 66% Maske ... die Stirn
+
+;1166;54;76270;3;2;2;Objektivität;100% Maske der Objektivität
+
+;1167;54;76271;1;-1;-1;stoische;100% stoische Maske
+
+;1168;54;76276;5;-1;-1;fehlende; 80% die fehlende [...] Maske
+
+;1169;54;76283;7;2;4;Stoff; 57% Maske ... aus Stoff
+
+;1170;54;76284;1;-5;5;Vendetta;100% Vendetta (Blutrache)-Maske
+
+;1171;54;76287;3;1;1;zeichnen; 66% Maske [...] zeichnen
+
+;1172;54;76289;2;-5;5;Schreckschusspistole; 50% Maske ... Schreckschusspistole
+
+;1173;54;76291;2;-3;5;Spiderman;100% Maske von Spiderman
+
+;1174;54;76293;2;-1;-1;furchteinflößende;100% furchteinflößende Maske
+
+;1175;54;76295;2;-3;3;Nacktheit;100% Nacktheit ... Maske
+
+;1176;54;76297;2;-2;3;Undurchdringlichkeit; 50% Maske ... Undurchdringlichkeit
+
+;1177;54;76298;1;1;5;entledigen;100% Maske entledigen
+
+;1178;54;76300;2;-1;-1;tönerne;100% tönerne Maske
+
+;1179;54;76302;2;2;2;Tartüfferie;100% Maske als Tartüfferie
+
+;1180;54;76309;7;-2;-2;Reisende; 85% Reisende ohne Maske ermahnt
+
+;1181;54;76314;5;1;3;berühren; 80% Au?Yenseite der Maske nicht berühren
+
+;1182;54;76317;3;-2;-1;phersu;100% etruskischen phersu [gleich] Maske
+
+;1183;54;76321;4;-2;3;Außenseite;100% die Maske mit der Außenseite nach unten
+
+;1184;54;76322;1;-4;4;Händehygiene;100% Maske Händehygiene
+
+;1185;54;76323;1;1;1;undurchlässig;100% undurchlässig ... Maske
+
+;1186;54;76325;2;-1;-1;kegelförmige;100% kegelförmige Maske
+
+;1187;53;76346;21;1;3;erlaubt; 61% ohne|mit Maske [...] erlaubt
+
+;1188;53;76350;4;2;2;bösen;100% Maske des bösen
+
+;1189;53;76386;36;-2;-2;Leben; 61% ein Leben ohne|mit Maske
+
+;1190;53;76411;25;-2;-2;ebenfalls; 60% ebenfalls mit ... Maske
+
+;1191;53;76413;2;2;2;Professionalität;100% Maske ... Professionalität
+
+;1192;53;76422;9;-2;-2;ständig; 66% ständig [die] Maske zu tragen
+
+;1193;53;76425;3;3;4;Lippen; 66% Maske und ... Lippen
+
+;1194;53;76426;1;-5;4;Schlitze;100% Schlitze ... Maske
+
+;1195;53;76427;1;1;1;überm;100% Maske überm
+
+;1196;53;76429;2;-3;5;Amateur; 50% Maske ... Amateur
+
+;1197;53;76433;4;-1;-1;tragische; 75% tragische Maske
+
+;1198;53;76435;2;-5;-2;reiße; 50% Maske ... reiße
+
+;1199;53;76443;8;-5;-3;gings; 87% gings in die Maske
+
+;1200;53;76444;1;-5;3;Halstuch;100% Halstuch ... Maske
+
+;1201;53;76445;1;-3;-2;Friseurtermin;100% Friseurtermin ... Maske
+
+;1202;53;76447;2;2;2;Normalität;100% Normalität ... Maske
+
+;1203;53;76450;3;-5;5;Klassenzimmer; 66% Klassenzimmer und ... Maske
+
+;1204;53;76451;1;2;2;purem;100% Maske ... purem
+
+;1205;53;76453;2;-4;3;Malsaal;100% Malsaal den Fundus die Maske
+
+;1206;53;76454;1;-1;-1;furchteinflößenden;100% furchteinflößenden Maske
+
+;1207;53;76455;1;2;2;Gewöhnlichkeit;100% Maske ... Gewöhnlichkeit
+
+;1208;53;76460;5;-1;-1;vorgeschriebene;100% ohne die vorgeschriebene Maske
+
+;1209;52;76473;13;-2;-1;weder; 53% weder [Kostüm Abstand an|noch ...] Maske dachten ...
+
+;1210;52;76483;10;-5;-2;Teufel; 50% die Maske ... halb ... Teufel
+
+;1211;52;76485;2;2;2;Harmlosigkeit; 50% Maske ... Harmlosigkeit
+
+;1212;52;76489;4;-5;-2;gebeten; 75% gebeten [...] Maske
+
+;1213;52;76496;7;-2;5;Schwert; 71% Schwert [und] Maske
+
+;1214;52;76499;3;-3;-2;Nimm;100% Nimm die Maske
+
+;1215;52;76501;2;1;4;verschwinden; 50% Maske ... verschwinden
+
+;1216;52;76503;2;1;1;zeichnet; 50% Maske ... zeichnet
+
+;1217;52;76505;2;-1;-1;magische; 50% Maske magische
+
+;1218;52;76506;1;2;3;Kriegers;100% Maske ... Kriegers
+
+;1219;52;76509;3;-4;-2;Weigerung;100% Wegen der Weigerung Sauerlands hatte Maske der ...
+
+;1220;52;76510;1;-4;4;Hembrick;100% Maske ... Hembrick
+
+;1221;52;76520;10;-1;-1;Erna;100% den ... Erna Maske zum|den ...
+
+;1222;52;76522;2;-5;5;Profiboxen;100% Maske ... Profiboxen
+
+;1223;52;76523;1;-1;-1;gebastelte;100% gebastelte ... Maske
+
+;1224;52;76525;2;-5;3;aufgesetzte;100% aufgesetzte Maske
+
+;1225;52;76529;4;2;3;Mörders;100% Maske ... des Mörders
+
+;1226;52;76530;1;2;3;Unnahbarkeit;100% Maske ... Unnahbarkeit
+
+;1227;52;76531;1;-5;2;Pompino;100% Maske ... Pompino
+
+;1228;52;76533;2;-5;3;Pausenhof; 50% Maske ... Pausenhof
+
+;1229;52;76534;1;-3;5;Roriz;100% Roriz ... Maske
+
+;1230;51;76550;16;1;1;spielte; 50% ohne Maske [...] spielte
+
+;1231;51;76555;5;-5;-2;Friseur;100% Friseur und ... Maske
+
+;1232;51;76557;2;4;4;persönlichen; 50% Maske ... persönlichen
+
+;1233;51;76560;3;-5;5;Regina; 66% Maske [...] Regina
+
+;1234;51;76563;3;1;2;r;100% Maske [und ...] r
+
+;1235;51;76564;1;3;3;Mischbild;100% Maske ... Mischbild
+
+;1236;51;76566;2;-5;5;Mr; 50% Maske ... Mr
+
+;1237;51;76567;1;1;2;Irmgard;100% Irmgard ... Maske
+
+;1238;51;76570;3;2;5;Fäuste; 66% Maske ... Fäuste
+
+;1239;51;76579;9;1;5;Heike; 55% die Maske erklärt ... Heike
+
+;1240;51;76581;2;-5;2;Gummiband;100% Gummiband ... Maske
+
+;1241;51;76588;7;-4;3;Peitsche; 71% mit Peitsche [und] Maske
+
+;1242;51;76591;3;-2;-2;Damenstrumpf;100% und einen Damenstrumpf als Maske
+
+;1243;51;76593;2;1;1;mitzunehmen;100% Maske mitzunehmen
+
+;1244;51;76598;5;-3;-3;Layton;100% Professor Layton und die Maske der Wunder
+
+;1245;51;76599;1;-3;-3;standhaft;100% standhaft ... Maske
+
+;1246;50;76632;33;-2;-2;kurz; 54% die Maske [...] kurz
+
+;1247;50;76633;1;-3;-1;ausgefallenste;100% ausgefallenste ... Maske
+
+;1248;50;76636;3;-5;-2;Vajpayee;100% Vajpayee ... - die Maske
+
+;1249;50;76645;9;-3;-2;brauche; 77% brauche ich keine Maske
+
+;1250;50;76647;2;1;5;geschlüpft;100% Maske der ... geschlüpft
+
+;1251;50;76648;1;-3;2;biederen;100% biederen Maske
+
+;1252;50;76649;1;1;3;15;100% Maske ... 15.00
+
+;1253;50;76652;3;1;5;bemalt;100% Maske ... bemalt
+
+;1254;50;76653;1;-2;4;Gummihandschuhe;100% Maske ... Gummihandschuhe
+
+;1255;50;76654;1;-2;-1;versteinerte;100% versteinerte Maske
+
+;1256;50;76656;2;-5;5;FFP; 50% Maske ... FFP
+
+;1257;50;76658;2;-3;-3;Hase;100% Hase mit der Maske
+
+;1258;50;76661;3;2;2;ewigen; 66% Maske ... ewigen
+
+;1259;50;76670;9;2;2;Meisters;100% in der Maske mit des Meisters
+
+;1260;50;76675;5;-1;-1;Kade;100% Doris Kade Maske
+
+;1261;50;76677;2;2;2;Selbstbeherrschung;100% Maske der Selbstbeherrschung
+
+;1262;50;76683;6;2;4;Logo; 66% Maske ... das Logo
+
+;1263;50;76689;6;-2;-1;Codewort;100% Das Codewort [...] Maske 19 in
+
+;1264;49;76699;10;1;1;bekommt; 70% Maske [...] bekommt
+
+;1265;49;76701;2;-2;-2;Theatergruppe; 50% Maske ... Theatergruppe
+
+;1266;49;76705;4;-5;5;Outfit;100% Maske [...] Outfit
+
+;1267;49;76709;4;2;2;Venezia;100% Maske de Venezia
+
+;1268;49;76722;13;1;1;sorgte; 61% sorgte für die Maske und
+
+;1269;49;76723;1;-3;4;ehrbaren;100% Maske ... ehrbaren
+
+;1270;49;76724;1;1;1;ausgerüstet;100% ausgerüstet ... Maske
+
+;1271;49;76730;6;-1;-1;Deine;100% Deine Maske kaschiert den
+
+;1272;49;76738;8;-5;-5;täglich; 75% täglich ... in|die der Maske
+
+;1273;49;76743;5;1;2;verkörpert; 60% verkörpert ... mit|der Maske
+
+;1274;49;76750;7;1;1;D; 57% Maske [...] D
+
+;1275;49;76755;5;-2;-2;Herstellung;100% Herstellung ... der Maske
+
+;1276;49;76757;2;-3;5;Mascara; 50% Maske ... Mascara
+
+;1277;49;76758;1;-5;-2;Kundin;100% Kundin ... Maske
+
+;1278;49;76763;5;1;1;1959; 80% Maske (* ... 1959
+
+;1279;49;76765;2;-3;3;Kostümprobe; 50% Maske ... Kostümprobe
+
+;1280;49;76766;1;-5;5;Maskenbildner;100% Maskenbildner ... Maske
+
+;1281;49;76768;2;-5;-2;Toilette; 50% Maske ... Toilette
+
+;1282;49;76769;1;2;3;Dandys;100% Maske ... Dandys
+
+;1283;49;76775;6;-4;3;Säbel; 66% Säbel [und] Maske
+
+;1284;49;76778;3;1;4;stilisierten;100% Maske ... stilisierten
+
+;1285;49;76779;1;3;5;Sepik-Gebiet;100% Maske ... Sepik-Gebiet
+
+;1286;49;76781;2;-5;-1;Soloalbum;100% Soloalbum Maske
+
+;1287;49;76782;1;-4;-2;AfD;100% Maske ... AfD
+
+;1288;49;76783;1;-4;3;Claptone;100% Claptone ... Maske
+
+;1289;49;76785;2;3;4;Berufsverbandes;100% Maske Sprecher des Berufsverbandes
+
+;1290;49;76790;5;-3;5;Shoppen; 80% die Maske muss bleiben beim|auch ... Shoppen
+
+;1291;49;76793;3;1;1;aufbleiben;100% damit die Maske aufbleiben kann man
+
+;1292;48;76796;3;-5;5;Stiefel; 66% Maske [...] Stiefel
+
+;1293;48;76799;3;-3;-1;korrekte;100% korrekte Handhabung der Maske
+
+;1294;48;76802;3;-5;-5;Deckenstück;100% Deckenstück rausgerissen um an die Maske zu kommen
+
+;1295;48;76808;6;-2;5;Serum; 66% Serum [und] Maske von ...
+
+;1296;48;76809;1;-5;-4;Drehtag;100% Drehtag ... Maske
+
+;1297;48;76810;1;-2;-1;kühlende;100% kühlende Maske
+
+;1298;48;76817;7;2;2;Grauens; 85% Maske des Grauens
+
+;1299;48;76818;1;-5;5;z.B;100% Maske z.B
+
+;1300;48;76819;1;-4;4;überstreift;100% überstreift ... Maske
+
+;1301;48;76823;4;-5;5;Harlekin; 75% Harlekin der Kleinkunst ohne Maske
+
+;1302;48;76824;1;3;5;Odysseus;100% Maske ... Odysseus
+
+;1303;48;76826;2;1;1;verbracht;100% Maske verbracht
+
+;1304;48;76828;2;-2;5;TV-Experte;100% Maske war als TV-Experte
+
+;1305;48;76829;1;-2;-2;Problemen;100% Problemen ... Maske
+
+;1306;48;76836;7;-5;4;ungeschminkt; 71% ungeschminkt zeigen ohne oder in der Maske
+
+;1307;48;76840;4;-4;5;Effelsberg Doris ; 75% Doris Effelsberg und die|Mira Schneider Maske
+
+;1308;48;76841;1;-2;-2;Backstage-Bereich;100% Maske ... Backstage-Bereich
+
+;1309;48;76842;1;2;3;Serienkillers;100% Maske ... Serienkillers
+
+;1310;48;76846;4;-5;5;Selfie; 75% Selfie mit Maske
+
+;1311;48;76850;4;-1;-1;ne;100% ne [...] Maske
+
+;1312;48;76852;2;2;2;Filmstars;100% Maske des Filmstars
+
+;1313;48;76853;1;-5;-1;Fahrgast;100% Fahrgast Maske
+
+;1314;48;76854;1;-5;-3;DNA-Spur;100% DNA-Spur ... Maske
+
+;1315;48;76857;3;-2;4;Boxlegenden;100% Nach Maske kamen weitere spätere Boxlegenden an
+
+;1316;48;76860;3;-5;-3;Steingass;100% Bernd Steingass schuf die Maske aus ...
+
+;1317;48;76862;2;-5;3;Schulfluren; 50% Maske ... Schulfluren
+
+;1318;48;76866;4;1;2;nieste;100% - ohne Maske [-] nieste viel Farbe
+
+;1319;47;76974;108;-3;-3;beim; 54% der Maske [...] beim
+
+;1320;47;76975;1;1;2;schnitzen;100% Maske ... schnitzen
+
+;1321;47;76977;2;-1;-1;entsprechende; 50% Maske entsprechende
+
+;1322;47;76979;2;4;5;Beute; 50% Maske ... Beute
+
+;1323;47;76983;4;3;5;Seoul; 75% Seoul warf sie die Maske
+
+;1324;47;76988;5;2;5;anstrengend; 60% anstrengend mit Maske
+
+;1325;47;76989;1;-2;5;Florett;100% Florett ... Maske
+
+;1326;47;76992;3;-5;4;Schleier; 66% Schleier ... Maske
+
+;1327;47;77003;11;-3;-2;bloß;100% bloß [... der] Maske ... die
+
+;1328;47;77015;12;1;1;angelegt;100% geöffnet und|die Maske [...] angelegt und habe
+
+;1329;47;77025;10;3;5;Händen; 80% man die Maske mit|die gereinigten|in den Händen
+
+;1330;47;77028;3;2;5;Atemwege; 66% Maske ... die Atemwege
+
+;1331;47;77036;8;-5;-2;Tänzer; 62% Tänzer ... in|der|und ... Maske
+
+;1332;47;77040;4;2;2;Hasses;100% Maske des Hasses auf die
+
+;1333;47;77041;1;-5;5;tarnen;100% Maske ... tarnen
+
+;1334;47;77044;3;-5;-3;Imker; 66% Imker haben laut Maske
+
+;1335;47;77048;4;-4;4;Barkley; 75% Maske [...] Barkley
+
+;1336;47;77050;2;-5;-2;Pendler;100% Pendler ... Maske
+
+;1337;47;77052;2;1;5;abgestreift;100% Maske [...] abgestreift
+
+;1338;47;77057;5;1;2;Langenscheid; 80% Harry Maske Langenscheid
+
+;1339;47;77059;2;2;2;Feindes;100% Maske des Feindes
+
+;1340;47;77060;1;2;2;Legalität;100% Maske ... Legalität
+
+;1341;47;77061;1;2;2;Hungers;100% Maske ... Hungers
+
+;1342;47;77062;1;2;2;Ventil;100% Maske ... Ventil
+
+;1343;47;77063;1;-1;-1;selbstgemachte;100% selbstgemachte Maske
+
+;1344;47;77067;4;2;2;Krokodilleder;100% Zoll ... Maske aus Krokodilleder
+
+;1345;47;77068;1;1;1;rumzulaufen;100% Maske rumzulaufen
+
+;1346;46;77071;3;-1;-1;schönsten;100% der schönsten [...] Maske
+
+;1347;46;77134;63;2;5;seinen; 68% der Maske [...] seinen
+
+;1348;46;77141;7;1;1;klebt; 71% in der Maske [...] klebt begleitet womöglich
+
+;1349;46;77144;3;1;1;runterreißt;100% die Maske runterreißt
+
+;1350;46;77146;2;-4;5;Punktsieg;100% Punktsieg [...] Maske
+
+;1351;46;77148;2;1;3;geatmet;100% Maske vorbei geatmet
+
+;1352;46;77150;2;-2;5;Puderquaste;100% Maske ... Puderquaste
+
+;1353;46;77151;1;-1;-1;schwarz-weiße;100% schwarz-weiße Maske
+
+;1354;46;77152;1;-1;-1;stumme;100% stumme Maske
+
+;1355;46;77155;3;-5;-2;bittet; 66% Maske bittet
+
+;1356;46;77156;1;-3;4;Sermond;100% Sermond ... Maske
+
+;1357;46;77157;1;1;5;aufzieht;100% Maske ... aufzieht
+
+;1358;46;77160;3;-5;5;Boxwelt;100% Boxwelt prallten bei Atlas und Maske aufeinander
+
+;1359;46;77161;1;1;5;offenbart;100% Maske ... offenbart
+
+;1360;46;77166;5;1;2;gewöhnen; 80% mit Maske [...] gewöhnen
+
+;1361;46;77169;3;1;5;fotografieren;100% Maske [...] fotografieren
+
+;1362;46;77170;1;-4;-2;Trainingspartner;100% Trainingspartner ... Maske
+
+;1363;46;77172;2;1;1;herumlaufe;100% Maske herumlaufe
+
+;1364;46;77180;8;-1;-1;teuerste; 87% die teuerste [an der] Maske
+
+;1365;46;77181;1;-2;-2;Bahnfahren;100% Bahnfahren ... Maske
+
+;1366;46;77183;2;1;4;Desinfektionsgel;100% Maske [...] Desinfektionsgel
+
+;1367;45;77198;15;-4;-2;setzte; 66% setzte die Maske auf|ab und
+
+;1368;45;77228;30;2;5;Rolle; 46% Maske [... keine] Rolle
+
+;1369;45;77241;13;-2;-2;Alltag; 61% der Alltag [mit] Maske
+
+;1370;45;77254;13;1;1;hilft; 69% Da hilft auch|die und|keine Maske
+
+;1371;45;77269;15;2;2;Macht; 66% Maske [und] Macht
+
+;1372;45;77271;2;-2;-2;dir;100% dir [...] Maske
+
+;1373;45;77306;35;2;5;Luft; 51% der frischen Luft [... die|der|mit|ohne] Maske
+
+;1374;45;77315;9;-5;-3;Wesen; 66% Wesen mit der Maske
+
+;1375;45;77317;2;-4;2;Kostümbildner; 50% Maske ... Kostümbildner
+
+;1376;45;77318;1;-3;3;Fechtjacke;100% Maske ... Fechtjacke
+
+;1377;45;77321;3;-5;2;Rednerpult; 66% Maske ... Rednerpult
+
+;1378;45;77328;7;-3;-2;Söder; 57% Markus Söder mit|CSU ohne Maske
+
+;1379;45;77329;1;-5;-4;Einsiedlerkrebs;100% Einsiedlerkrebs ... Maske
+
+;1380;45;77330;1;2;4;Herausforderer;100% Maske ... Herausforderer
+
+;1381;45;77331;1;1;2;absetzt;100% Maske absetzt
+
+;1382;45;77334;3;2;2;Scheindemokratie;100% Maske der Scheindemokratie
+
+;1383;45;77335;1;-3;1;erboxte;100% erboxte ... Maske
+
+;1384;45;77337;2;-4;-3;Soleri;100% Soleri ... die Maske
+
+;1385;45;77339;2;-1;-1;Jasons;100% Jasons Maske
+
+;1386;45;77340;1;-1;3;Spuckschutz;100% Spuckschutz Maske
+
+;1387;45;77341;1;-5;3;beieinander eng ;100% eng beieinander ... Maske
+
+;;;77345;4;-5;3;beieinander ; 50% Maske [...] beieinander
+
+;1388;44;77361;16;-5;-3;tritt; 62% tritt ... in der Maske auf ...
+
+;1389;44;77362;1;-2;-1;dicke;100% dicke ... Maske
+
+;1390;44;77364;2;3;3;Bändern; 50% Maske ... Bändern
+
+;1391;44;77365;1;2;2;Atemschutzgerätes;100% Maske ... Atemschutzgerätes
+
+;1392;44;77376;11;-5;-3;Leuten; 72% den Leuten ... in|die der Maske auf
+
+;1393;44;77380;4;-5;5;reinigen; 50% Maske leicht zu reinigen
+
+;1394;44;77384;4;-3;3;Mimikry; 75% Mimikry [...] Maske
+
+;1395;44;77409;25;-1;-1;Christian; 76% Christian [...] Maske
+
+;1396;44;77410;1;-5;-2;Gewerke;100% Gewerke ... Maske
+
+;1397;44;77412;2;-5;-5;Tragödie; 50% Maske ... Tragödie
+
+;1398;44;77414;2;2;2;Demokraten;100% Maske des Demokraten
+
+;1399;44;77416;2;-5;-2;Kämpfe; 50% Maske ... Kämpfe
+
+;1400;44;77417;1;-4;4;Berben;100% Maske ... Berben
+
+;1401;44;77419;2;-1;-1;integrierter;100% integrierter Maske
+
+;1402;44;77421;2;-4;1;Schriewer; 50% Maske Schriewer
+
+;1403;44;77432;11;2;2;Rausch; 90% Maske und Rausch
+
+;1404;44;77434;2;-1;-1;bürgerlichen; 50% Maske ... bürgerlichen
+
+;1405;44;77438;4;2;2;Puppenspielers;100% die Maske des Puppenspielers Francesco Stromboli
+
+;1406;44;77440;2;1;5;durchstoßen;100% Maske durchstoßen
+
+;1407;44;77441;1;-4;3;Tarnkappe;100% Maske ... Tarnkappe
+
+;1408;44;77446;5;4;4;panischer;100% Maske auf und mit panischer Konsequenz
+
+;1409;44;77447;1;2;2;Charmes;100% Maske ... Charmes
+
+;1410;44;77449;2;-5;2;Magdaleno;100% Magdaleno ... Maske
+
+;1411;44;77450;1;-5;-5;grausam;100% grausam ... Maske
+
+;1412;44;77452;2;-1;-1;vorgehaltene;100% vorgehaltene Maske
+
+;1413;44;77458;6;-3;-3;Mädel;100% Das Mädel mit der Maske
+
+;1414;44;77461;3;-5;2;Diabolischen;100% Maske des Diabolischen und ...
+
+;1415;44;77463;2;-4;-3;Meisterdieb;100% Meisterdieb mit silberner Maske
+
+;1416;44;77466;3;-2;-2;Marktbesuch;100% Marktbesuch mit Maske
+
+;1417;44;77470;4;1;1;einzukaufen;100% Maske einzukaufen
+
+;1418;44;77476;6;2;2;Jungbrunnen;100% Maske als Jungbrunnen
+
+;1419;43;77496;20;-5;-2;Auftritt; 55% Auftritt mit|in die der Maske
+
+;1420;43;77499;3;2;2;Unschuld;100% Maske der ... Unschuld
+
+;1421;43;77502;3;-1;-1;passender; 66% passender Maske
+
+;1422;43;77505;3;-3;-3;anmelden;100% anmelden und kam mit Maske
+
+;1423;43;77509;4;-5;5;Fundus; 75% Maske [...] Fundus und ...
+
+;1424;43;77514;5;1;2;1988; 60% Maske [...] 1988
+
+;1425;43;77517;3;-5;-2;Setzt;100% Setzt die Maske auf ...
+
+;1426;43;77523;6;1;5;abgesetzt;100% seine|die Maske [schon nach fünf Minuten] abgesetzt
+
+;1427;43;77524;1;1;4;abreißt;100% Maske abreißt
+
+;1428;43;77525;1;-5;-3;Hymne;100% Maske ... Hymne
+
+;1429;43;77527;2;1;5;unerkannt;100% Maske ... unerkannt
+
+;1430;43;77542;15;-5;5;Doris; 53% und Doris [Wiesinger] Maske
+
+;1431;43;77543;1;-1;-1;grünen;100% grünen Maske
+
+;1432;43;77545;2;-3;5;Profikampf;100% Maske ... Profikampf
+
+;1433;43;77549;4;1;2;überschminkt;100% Aber die Maske [völlig] überschminkt hätten die
+
+;1434;43;77550;1;1;1;anfertigen;100% anfertigen ... Maske
+
+;1435;43;77551;1;2;5;geöffnetem;100% Maske ... geöffnetem
+
+;1436;43;77556;5;2;2;Autors; 80% Maske des Autors
+
+;1437;43;77561;5;-1;-1;Maik;100% Maik Maske
+
+;1438;43;77562;1;-4;-2;Buckethead;100% Buckethead ... Maske
+
+;1439;43;77563;1;-4;2;255.255.0.0;100% 255.255.0.0 ... Maske
+
+;1440;43;77564;1;-4;-2;Mysterio;100% Mysterio ... Maske
+
+;1441;43;77565;1;-3;3;invertieren;100% Maske ... invertieren
+
+;1442;43;77567;2;-2;4;Desinfektionsspray; 50% Maske ... Desinfektionsspray
+
+;1443;43;77570;3;1;5;unzumutbar;100% Maske [absolut] unzumutbar
+
+;1444;43;77571;1;-3;-1;Tragt;100% Tragt Maske
+
+;1445;43;77573;2;-5;-5;durchspricht;100% durchspricht oder pfeift wird die Maske
+
+;1446;42;77588;15;1;5;Ausdruck; 93% die|der Maske [einen ...] Ausdruck zu|des ...
+
+;1447;42;77589;1;-4;-2;bestehend;100% bestehend ... Maske
+
+;1448;42;77590;1;-2;-1;hellblauen;100% hellblauen Maske
+
+;1449;42;77593;3;-5;4;Gesichtern; 66% Maske ... Gesichtern
+
+;1450;42;77597;4;-5;1;sitze;100% sitze dem bringe auch die Maske
+
+;1451;42;77599;2;4;5;Box-Ring;100% Maske kehrt bei ARD an Box-Ring
+
+;1452;42;77602;3;1;5;auftrat;100% der Maske [...] auftrat
+
+;1453;42;77604;2;2;5;Dichters;100% Maske des Dichters
+
+;1454;42;77607;3;-5;5;Schädel; 66% Schädel ... Maske
+
+;1455;42;77608;1;-3;5;Sternheim;100% Sternheim ... Maske
+
+;1456;42;77609;1;2;4;Egerton;100% Egerton ... Maske
+
+;1457;42;77617;8;1;1;kaufen; 87% mit ... Maske [zu|in ...] kaufen
+
+;1458;42;77619;2;1;4;befestigen;100% Maske zu befestigen
+
+;1459;42;77625;6;-2;-2;Banditen;100% Banditen ohne Maske
+
+;1460;42;77627;2;-3;4;Narrenkappe; 50% Maske ... Narrenkappe
+
+;1461;42;77630;3;2;2;Tauchers;100% der Maske des Tauchers
+
+;1462;42;77636;6;1;4;auftreten; 66% in der Maske von ... auftreten
+
+;1463;42;77640;4;1;4;befestigt;100% Maske [...] befestigt
+
+;1464;42;77641;1;1;5;spitzen;100% Maske ... spitzen
+
+;1465;42;77644;3;-4;4;Abziehen;100% Abziehen ... die Maske
+
+;1466;42;77648;4;-4;-3;geimpft;100% geimpft sein oder Maske tragen
+
+;1467;42;77652;4;-1;-1;Dörthe;100% Dörthe Maske Sopran|und
+
+;1468;42;77654;2;1;1;abzuschminken;100% Maske abzuschminken
+
+;1469;42;77655;1;-4;3;Silkwood;100% Silkwood ... Maske
+
+;1470;42;77661;6;2;2;Erlösers;100% in der Maske des Erlösers auf
+
+;1471;42;77663;2;-5;3;dämonische; 50% Maske ... dämonische
+
+;1472;42;77666;3;-3;5;Siegerhymne;100% Sieger mit Maske und Regenbogen-Trikot die Siegerhymne
+
+;1473;42;77668;2;-5;3;Kopfzeichnungen; 50% Maske ... Kopfzeichnungen
+
+;1474;42;77670;2;-2;-1;Trag;100% Trag [...] Maske
+
+;1475;42;77671;1;1;1;bargeldloses;100% Maske bargeldloses
+
+;1476;42;77672;1;-3;3;Maskenfabrik;100% Maskenfabrik ... Maske
+
+;1477;41;77722;50;-5;-4;ihr; 56% ihr ... die Maske
+
+;1478;41;77725;3;-3;-3;Tauchen; 66% Tauchen ... Maske
+
+;1479;41;77730;5;1;3;schauen; 60% schauen ... Maske
+
+;1480;41;77733;3;-5;5;nackt; 66% nackt ... Maske
+
+;1481;41;77735;2;-5;5;Tiger;100% Tiger mit Maske
+
+;1482;41;77743;8;3;5;Haar; 50% Maske mit ... Haar
+
+;1483;41;77747;4;2;3;Künstlers; 50% Maske eines verletzlichen Künstlers
+
+;1484;41;77748;1;-4;5;verhüllen;100% verhüllen ... Maske
+
+;1485;41;77749;1;1;3;umarmte;100% Maske umarmte
+
+;1486;41;77750;1;-4;-1;unheimliche;100% unheimliche ... Maske
+
+;1487;41;77751;1;1;2;anzufertigen;100% Maske ... anzufertigen
+
+;1488;41;77752;1;1;1;zugelegt;100% zugelegt ... Maske
+
+;1489;41;77770;18;-5;-2;Tisch; 55% ermahnen ohne|die Maske auf am|dem Weg zum Tisch und
+
+;1490;41;77773;3;-1;-1;menschliche; 66% Maske ... menschliche
+
+;1491;41;77779;6;-5;5;Sprechen; 83% Das Sprechen ... mit ... Maske
+
+;1492;41;77780;1;2;2;blau;100% Maske ... blau
+
+;1493;41;77781;1;-2;4;Konterboxer;100% Maske ... Konterboxer
+
+;1494;41;77782;1;-3;5;Augenhöhlen;100% Augenhöhlen ... Maske
+
+;1495;41;77784;2;-3;-2;Feind;100% Feind ... der ... Maske
+
+;1496;41;77785;1;-3;-1;Conditioner;100% Conditioner ... Maske
+
+;1497;41;77786;1;2;3;Dummkopfs;100% Maske ... Dummkopfs
+
+;1498;41;77787;1;2;2;Saubermannes;100% Maske ... Saubermannes
+
+;1499;41;77790;3;1;3;auszuziehen;100% die Maske [nicht] auszuziehen
+
+;1500;41;77792;2;1;4;angetroffen;100% Maske angetroffen
+
+;1501;41;77793;1;-5;-3;Gummimilch;100% Gummimilch ... Maske
+
+;1502;41;77794;1;-4;-2;Antifuchs;100% Antifuchs ... Maske
+
+;1503;41;77796;2;3;4;Bösels;100% Maske zum spektakulären K.o.-Sieg Bösels
+
+;1504;41;77797;1;2;3;Nackenwärmer;100% Maske ... Nackenwärmer
+
+;1505;41;77801;4;-4;5;Kontaktdaten;100% Maske tragen|montieren und bei Ankunft Kontaktdaten
+
+;1506;41;77807;6;-2;-2;Flanieren;100% Radfahren und Flanieren mit Maske dürfte aber
+
+;1507;40;77811;4;1;1;befreit; 75% Maske [...] befreit
+
+;1508;40;77814;3;-5;5;Werkstätten; 66% Werkstätten ... die ... Maske
+
+;1509;40;77843;29;-5;-2;Theater; 65% Theater [... die] Maske und
+
+;1510;40;77850;7;2;2;Bluff; 85% Selbst die Maske der Bluff - 19,95
+
+;1511;40;77852;2;-4;3;Goalies;100% Goalies ... Maske
+
+;1512;40;77858;6;1;1;sehe; 50% Maske [...] sehe
+
+;1513;40;77862;4;2;3;sofern;100% Maske ... sofern
+
+;1514;40;77869;7;-4;3;Everest; 71% den Everest ohne Maske
+
+;1515;40;77873;4;2;3;Bildschirm; 75% der ... Maske auf dem Bildschirm
+
+;1516;40;77880;7;-2;-2;Kapitalismus; 85% Kapitalismus in|ohne Kostüm und Maske
+
+;1517;40;77882;2;-2;5;schränkt; 50% Maske ... schränkt
+
+;1518;40;77883;1;1;1;Fonds;100% Maske ... Fonds
+
+;1519;40;77884;1;3;4;Maskenträger;100% Maskenträger ... Maske
+
+;1520;40;77885;1;2;5;Segelohren;100% Segelohren ... Maske
+
+;1521;40;77886;1;-4;3;Amateur-Weltmeister;100% Amateur-Weltmeister ... Maske
+
+;1522;40;77890;4;-4;4;IFL; 75% Torsten Maske [Inhaber ...] IFL
+
+;1523;40;77892;2;-4;4;Mittelsdorf; 50% Maske ... Mittelsdorf
+
+;1524;40;77894;2;2;5;Lippenstift;100% Maske ... Lippenstift
+
+;1525;40;77895;1;-5;-1;Hnatek;100% Hnatek ... Maske
+
+;1526;40;77902;7;-5;5;unangenehm; 71% die Maske [...] unangenehm
+
+;1527;40;77904;2;-3;2;EUV-Licht;100% EUV-Licht durchläuft die Maske
+
+;1528;40;77907;3;2;3;Suchmaschine;100% in die Maske der Suchmaschine
+
+;1529;40;77908;1;-5;-2;Pausen;100% Maske ... Pausen
+
+;1530;40;77911;3;1;4;anhat; 66% Maske anhat
+
+;1531;40;77915;4;-3;-3;Wehnert;100% hier Fabian Wehnert in die Maske oben links
+
+;1532;40;77921;6;-5;5;Pandemie; 66% Pandemie ... - ... Maske
+
+;1533;40;77926;5;-5;-2;Selfies; 80% Selfies ... mit und ... Maske
+
+;1534;40;77928;2;1;5;xyxHTMLyxy</genios:zwtitel>xyxHTMLyxy xyxHTMLyxy<genios:zwtitel ;"100% xyxHTMLyxy<genios:zwtitel level=""1"">xyxHTMLyxy ...Maske ... xyxHTMLyxy</genios:zwtitel>xyxHTMLyxy"
+
+;1535;40;77929;1;-5;2;Mund-Nase-Schutz;100% Mund-Nase-Schutz ... Maske
+
+;1536;40;77931;2;-4;-4;Hygieneauflagen;100% Hygieneauflagen mit Abstand und Maske
+
+;1537;39;77982;51;-3;-3;ihn; 60% ihn ... die|ohne der Maske
+
+;1538;39;77996;14;-5;-2;manchmal; 64% die Maske [die ist man ...] manchmal
+
+;1539;39;78051;55;-5;-2;Nur; 98% Nur [mit ...] Maske
+
+;1540;39;78067;16;1;1;verzichten; 87% auf die Maske [und ...] verzichten
+
+;1541;39;78068;1;-4;5;Schutzausrüstung;100% Schutzausrüstung Maske
+
+;1542;39;78077;9;1;1;verliert; 66% seine Maske verliert
+
+;1543;39;78078;1;-1;-1;lustige;100% Maske ... lustige
+
+;1544;39;78082;4;3;3;Kinderbuchs;100% in der Maske des religiösen Kinderbuchs sagte
+
+;1545;39;78096;14;-2;-2;Durch;100% Durch [die der] Maske ... und
+
+;1546;39;78103;7;-5;3;Gesang; 71% Maske und ohne Gesang
+
+;1547;39;78108;5;-5;-2;Hauptdarsteller; 60% Hauptdarsteller ... der Maske
+
+;1548;39;78109;1;-3;5;geschnallt;100% geschnallt ... Maske
+
+;1549;39;78113;4;1;3;entrissen; 75% die Maske entrissen
+
+;1550;39;78117;4;2;4;auszusehen;100% behaupte ohne Maske besser auszusehen - aber
+
+;1551;39;78118;1;-2;-2;Überziehen;100% Überziehen ... Maske
+
+;1552;39;78119;1;2;5;schminkte;100% Maske ... - ... schminkte
+
+;1553;39;78120;1;-1;-1;grimmige;100% grimmige Maske
+
+;1554;39;78122;2;-3;3;Sehschlitze; 50% Maske ... Sehschlitze
+
+;1555;39;78124;2;-1;-1;schützender;100% schützender Maske
+
+;1556;39;78125;1;-5;-2;Auftritten;100% Maske ... Auftritten
+
+;1557;39;78126;1;1;5;herunterzieht;100% Maske ... herunterzieht
+
+;1558;39;78127;1;2;3;Tut-Ench-Amun;100% Maske ... Tut-Ench-Amun
+
+;1559;39;78129;2;2;2;beatmen;100% Maske zu beatmen
+
+;1560;39;78130;1;-2;5;entgegenwirkt;100% Maske ... entgegenwirkt
+
+;1561;39;78131;1;-2;5;Distancing;100% Maske ... Distancing
+
+;1562;39;78132;1;-5;4;Nasenschutz;100% Nasenschutz ... Maske
+
+;1563;38;78134;2;-1;-1;speziellen;100% Maske ... speziellen
+
+;1564;38;78143;9;-5;-2;Einzige;100% der|als Einzige [der|die|keine mit ohne] Maske
+
+;1565;38;78147;4;-2;-2;Rand; 75% Rand der Maske
+
+;1566;38;78153;6;1;4;Susanne; 50% Maske [waren] Susanne ... und
+
+;1567;38;78164;11;3;5;Stimme; 54% Stimme ... in und der Maske
+
+;1568;38;78190;26;-5;-2;Alle;100% Alle tragen|mit Maske
+
+;1569;38;78194;4;-2;4;Mundstück; 50% Maske ... Mundstück
+
+;1570;38;78203;9;-5;-2;Bereichen; 88% in den Bereichen auch ohne Maske
+
+;1571;38;78204;1;-2;-2;Bolschewismus;100% Bolschewismus ... Maske
+
+;1572;38;78208;4;-5;5;Maskerade; 75% Maske ist inzwischen eigentlich mehr Maskerade
+
+;1573;38;78209;1;-1;-1;männliche;100% männliche ... Maske
+
+;1574;38;78210;1;-1;-1;archaische;100% Maske ... archaische
+
+;1575;38;78212;2;1;1;ausfüllen;100% Maske ausfüllen
+
+;1576;38;78213;1;3;3;währenddessen;100% währenddessen ... Maske
+
+;1577;38;78216;3;2;3;Revolver;100% Maske [...] Revolver
+
+;1578;38;78217;1;-1;-1;Berta;100% Berta Maske
+
+;1579;38;78220;3;4;5;essen; 66% Maske ... essen
+
+;1580;38;78221;1;-3;-1;verzierte;100% verzierte Maske
+
+;1581;38;78222;1;-5;-1;scheinheiligen;100% scheinheiligen ... Maske
+
+;1582;38;78225;3;-2;2;grinsender; 66% Maske grinsender
+
+;1583;38;78226;1;-1;-1;leblose;100% leblose Maske
+
+;1584;38;78228;2;-1;-1;vorgegebene;100% vorgegebene Maske
+
+;1585;38;78229;1;-2;5;Profiweltmeister;100% Maske ... Profiweltmeister
+
+;1586;38;78232;3;1;1;bröckelt; 66% bröckelt die Maske
+
+;1587;38;78237;5;-4;4;Pantomime; 80% Maske [...] Pantomime
+
+;1588;38;78243;6;-3;5;bärtige; 66% bärtige Maske
+
+;1589;38;78245;2;1;4;fallenzulassen;100% Maske fallenzulassen
+
+;1590;38;78246;1;1;3;herunterreissen;100% Maske herunterreissen
+
+;1591;38;78249;3;1;5;abzuziehen;100% die Maske ... abzuziehen
+
+;1592;38;78257;8;1;1;spazieren; 87% Und mit Maske spazieren zu|gehen
+
+;1593;38;78258;1;4;5;Trägers;100% Trägers ... Maske
+
+;1594;38;78259;1;-2;4;Deadpool;100% Deadpool Maske
+
+;1595;38;78260;1;-2;-1;Jugendarzt;100% Jugendarzt Maske
+
+;1596;38;78265;5;-5;5;Quarantäne; 60% Quarantäne ... Maske
+
+;1597;37;78269;4;-5;-2;Trinken; 75% Trinken ... Maske
+
+;1598;37;78272;3;-1;-1;Venezianische;100% Venezianische Maske
+
+;1599;37;78338;66;-2;-2;einmal; 54% einmal [in|die ...] Maske
+
+;1600;37;78339;1;-3;-2;Fallenlassen;100% Fallenlassen ... Maske
+
+;1601;37;78340;1;-4;5;Atemschutzausrüstung;100% Atemschutzausrüstung ... Maske
+
+;1602;37;78347;7;1;1;hängt; 57% Maske ... hängt
+
+;1603;37;78348;1;-5;4;Hemd;100% Hemd ... Maske
+
+;1604;37;78350;2;-5;5;Lordi; 50% Maske ... Lordi
+
+;1605;37;78354;4;2;2;römischen; 75% Maske eines römischen
+
+;1606;37;78358;4;1;5;eng; 75% eng ... die Maske
+
+;1607;37;78362;4;-5;5;Held; 75% Maske ... Held
+
+;1608;37;78363;1;-4;4;Comeback-Versuch;100% Maske ... Comeback-Versuch
+
+;1609;37;78367;4;-5;-2;Passanten;100% Passanten die keine Maske tragen ...
+
+;1610;37;78368;1;3;4;Box-Szene;100% Maske ... Box-Szene
+
+;1611;37;78372;4;-3;5;Gummi; 50% Maske [an Maske] Gummi an Gummi
+
+;1612;37;78373;1;-1;-1;vorgefertigte;100% vorgefertigte Maske
+
+;1613;37;78385;12;-1;-1;Christel;100% Christel [...] Maske zum ...
+
+;1614;37;78387;2;-4;-2;Schlagschuss;100% Schlagschuss war an der Maske
+
+;1615;37;78389;2;-4;-2;Suchbegriff;100% Suchbegriff in die Maske
+
+;1616;37;78391;2;-5;3;Spielzeugpistole; 50% Maske ... Spielzeugpistole
+
+;1617;37;78393;2;-3;-2;Aufforderung;100% Aufforderung [...] Maske
+
+;1618;37;78400;7;1;1;FALSCH;100% die Maske [...] falsch
+
+;1619;37;78402;2;-4;-4;gefährlichen; 50% Maske ... gefährlichen
+
+;1620;37;78403;1;-4;5;Mundpartie;100% Maske ... Mundpartie
+
+;1621;37;78404;1;1;4;vorgebunden;100% Maske vorgebunden
+
+;1622;37;78413;9;2;3;Hinz; 55% der Maske & Hinz
+
+;1623;37;78415;2;-5;-5;Markierer;100% Markierer Druckflasche Behälter für Paintballs Maske
+
+;1624;37;78417;2;-2;-1;kleinbürgerlichen;100% kleinbürgerlichen Familie Maske
+
+;1625;37;78423;6;2;3;Nietzsche;100% die Maske [...] Nietzsche
+
+;1626;37;78424;1;-5;-2;Kameraleute;100% Kameraleute ... Maske
+
+;1627;37;78426;2;1;2;Verkabeln;100% Maske Verkabeln
+
+;1628;37;78428;2;1;4;erschwert;100% Maske erschwert
+
+;1629;37;78429;1;-4;2;Make-Up;100% Maske ... Make-Up
+
+;1630;37;78431;2;-3;4;zupft; 50% Maske ... zupft
+
+;1631;37;78432;1;-3;3;Luchador;100% Maske ... Luchador
+
+;1632;37;78433;1;1;5;umzubinden;100% Maske ... umzubinden
+
+;1633;37;78437;4;-5;-2;Gauland; 50% Gauland der mit Maske
+
+;1634;37;78440;3;4;4;Balthes;100% in der Maske waren trommelt Aufnahmeleiter Balthes Meyer
+
+;1635;37;78446;6;-5;5;Coronavirus;100% dem Coronavirus anzustecken ohne könne mit Maske
+
+;1636;37;78447;1;-3;-3;Schulgelände;100% Maske ... Schulgelände
+
+;1637;37;78448;1;1;3;hochziehen;100% Maske ... hochziehen
+
+;1638;37;78453;5;-2;-2;Einkaufsbummel;100% So ein Einkaufsbummel mit Maske macht einfach
+
+;1639;36;78516;63;1;1;ins; 74% die Maske [...] ins
+
+;1640;36;78527;11;-5;-2;legte; 90% legte ... die Maske ab und
+
+;1641;36;78532;5;-5;-1;fröhliche; 60% fröhliche [...] Maske
+
+;1642;36;78534;2;-3;-3;Rollenspiel; 50% Maske ... Rollenspiel
+
+;1643;36;78547;13;1;3;halb; 61% halb acht in die der Maske
+
+;1644;36;78558;11;-5;-2;Personal; 81% Das Personal bedient|muss trägt mit Maske tragen
+
+;1645;36;78561;3;-3;5;Laden;100% Laden ... Maske
+
+;1646;36;78562;1;1;5;erschrecken;100% Maske ... erschrecken
+
+;1647;36;78563;1;-1;5;aufwändige;100% aufwändige Maske
+
+;1648;36;78566;3;2;2;Gelassenheit; 66% Maske mit Gelassenheit
+
+;1649;36;78568;2;2;2;Humors;100% Maske des Humors
+
+;1650;36;78578;10;-5;-3;warum; 70% warum sie|der ... mit|keine Maske
+
+;1651;36;78579;1;-5;5;Creme;100% Maske ... Creme
+
+;1652;36;78588;9;-4;-3;Kerl; 88% hat der Kerl mit der Maske den Geldboten
+
+;1653;36;78589;1;2;5;Schrank;100% Maske ... Schrank
+
+;1654;36;78590;1;1;2;machts;100% Maske machts
+
+;1655;36;78592;2;-4;-4;Saueressig;100% Maske ... Miriam Saueressig
+
+;1656;36;78594;2;-4;-2;Vorraum;100% Maske ... Vorraum
+
+;1657;36;78595;1;2;2;Gewaltverzicht;100% Maske ... Gewaltverzicht
+
+;1658;36;78596;1;-4;5;Menschengesicht;100% Maske ... Menschengesicht
+
+;1659;36;78598;2;-4;-3;Maskiert;100% Maskiert ... Maske
+
+;1660;36;78599;1;-4;4;schaurigen;100% schaurigen ... Maske
+
+;1661;36;78601;2;-5;-1;Trage;100% Trage [...] Maske
+
+;1662;36;78603;2;-4;-2;Gruppenbild;100% Gruppenbild ... Maske
+
+;1663;36;78604;1;2;3;Seidenmantel;100% Maske ... Seidenmantel
+
+;1664;36;78606;2;-1;-1;magischen;100% magischen Maske
+
+;1665;36;78609;3;-1;-1;afrikanischer;100% afrikanischer Maske
+
+;1666;36;78610;1;2;4;Antizionismus;100% Maske ... Antizionismus
+
+;1667;36;78615;5;-5;-3;Vaughn;100% Ehemann Matthew Vaughn mit blutiger Maske
+
+;1668;36;78616;1;2;2;Bösewichts;100% Maske ... Bösewichts
+
+;1669;36;78618;2;-3;3;Styroporkopf;100% Styroporkopf in der Maske
+
+;1670;36;78625;7;-5;5;Bussen; 57% Bussen und Bahnen ... Maske
+
+;1671;36;78626;1;-1;-1;Kalas;100% Kalas Maske
+
+;1672;36;78629;3;-4;4;Handhygiene;100% Abstand Maske [und] Handhygiene
+
+;1673;36;78631;2;-5;5;Hygienemaßnahmen; 50% Maske ... Hygienemaßnahmen
+
+;1674;36;78632;1;-4;1;vorschriftsmäßig;100% vorschriftsmäßig ... Maske
+
+;1675;36;78634;2;-3;-2;Corona-Symptomen;100% Corona-Symptomen mit Maske
+
+;1676;35;78635;1;-5;-2;Lachen;100% Maske ... Lachen
+
+;1677;35;78639;4;2;5;Charakter; 50% Maske ... Charakter
+
+;1678;35;78644;5;1;1;dargestellt; 80% Maske [...] dargestellt
+
+;1679;35;78653;9;-5;-2;Proben; 77% den Proben ... und|in mit der Maske
+
+;1680;35;78654;1;-5;5;FIE;100% FIE ... Maske
+
+;1681;35;78658;4;1;5;gewechselt; 75% Maske zwei Mal gewechselt
+
+;1682;35;78659;1;2;3;Diktators;100% Maske ... Diktators
+
+;1683;35;78671;12;1;1;bekam; 66% Maske [...] bekam
+
+;1684;35;78674;3;-4;2;Neids;100% Maske des Neids
+
+;1685;35;78678;4;-4;5;Monster; 50% Maske ... Monster
+
+;1686;35;78695;17;-3;-3;Umgang; 70% allerdings der Umgang mit der Maske und Kindern
+
+;1687;35;78696;1;-4;4;Trefferfläche;100% Maske ... Trefferfläche
+
+;1688;35;78697;1;2;3;Schmerzensmannes;100% Maske ... Schmerzensmannes
+
+;1689;35;78703;6;-5;3;Marion; 83% Marion ... Maske
+
+;1690;35;78710;7;1;1;aufzutreten; 85% Maske [in ...] aufzutreten
+
+;1691;35;78714;4;-5;-4;Perchten;100% Perchten zum Angreifen ohne Maske
+
+;1692;35;78715;1;3;5;aufzufallen;100% Maske ... aufzufallen
+
+;1693;35;78716;1;-3;4;Testkampf;100% Maske ... Testkampf
+
+;1694;35;78717;1;-3;-2;Kauter;100% Kauter ... Maske
+
+;1695;35;78718;1;-5;5;Belting;100% Maske ... Belting
+
+;1696;35;78719;1;2;5;riskiert;100% Maske ... riskiert
+
+;1697;35;78722;3;-5;-4;Keiner;100% Keiner ... Maske
+
+;1698;35;78726;4;-3;5;Nostromo; 50% Maske Aliens Ron Cobb Design Nostromo
+
+;1699;35;78727;1;2;2;einmaligem;100% einmaligem ... Maske
+
+;1700;35;78732;5;-2;-2;anstandslos;100% seien hätten anstandslos die Maske abgenommen sagte
+
+;1701;35;78733;1;2;2;Geldboten;100% Geldboten ... Maske
+
+;1702;35;78736;3;-5;-1;waschbare;100% 35-fränkige mehrfach waschbare Maske ein
+
+;1703;35;78738;2;2;3;Bostitch;100% Maske mit Bostitch
+
+;1704;35;78739;1;3;4;Ansteckungsrisiko;100% Ansteckungsrisiko ... Maske
+
+;1705;35;78740;1;-3;5;Ermahnung;100% Ermahnung ... Maske
+
+;1706;35;78746;6;-3;-2;Schulstart;100% Schulstart mit|ohne Maske
+
+;1707;35;78750;4;-3;-3;verbliebener;100% letzter noch verbliebener Kandidat seine Maske ab
+
+;1708;35;78751;1;-4;-2;öV;100% öV ... Maske
+
+;1709;34;78752;1;2;5;Schumacher;100% Schumacher ... Maske
+
+;1710;34;78754;2;-5;4;lege; 50% Maske ... lege
+
+;1711;34;78788;34;-5;-2;Mal; 79% zum ersten Mal [die mit] Maske und
+
+;1712;34;78791;3;-5;-2;Oberkörper;100% Oberkörper ... Arme und|die ... Maske
+
+;1713;34;78795;4;-5;5;Drehbeginn; 75% Maske ... Drehbeginn
+
+;1714;34;78796;1;-5;-2;Auftragen;100% Auftragen ... Maske
+
+;1715;34;78799;3;-5;-1;Abteilungen;100% Abteilungen Kostüm und ... Maske
+
+;1716;34;78804;5;3;5;Rucksack; 60% Maske ... Rucksack
+
+;1717;34;78809;5;-5;5;wahren; 60% wahren ... Maske
+
+;1718;34;78810;1;2;4;Fotolack;100% Maske ... Fotolack
+
+;1719;34;78811;1;3;5;Dümmer Dumm ;100% Maske Dumm ... Dümmer
+
+;1720;34;78816;5;-5;-2;Kapuzenpulli; 80% Kapuzenpulli und mit der typischen Maske
+
+;1721;34;78817;1;-5;3;Uschi;100% Maske Uschi
+
+;1722;34;78823;6;2;3;ungewohnt; 66% die Maske noch etwas ungewohnt
+
+;1723;34;78824;1;-4;-1;Trockentauchanzug;100% Trockentauchanzug Maske
+
+;1724;34;78826;2;-4;5;durchschaut;100% Maske ... durchschaut
+
+;1725;34;78827;1;-1;-1;furchtbare;100% furchtbare Maske
+
+;1726;34;78828;1;-5;-4;Verbergen;100% Maske ... Verbergen
+
+;1727;34;78829;1;-3;5;No-Theater;100% No-Theater ... Maske
+
+;1728;34;78830;1;-5;5;Dionysos;100% Dionysos ... der ... Maske
+
+;1729;34;78832;2;2;2;Anständigkeit;100% Maske ... Anständigkeit
+
+;1730;34;78833;1;-1;-1;weltberühmte;100% weltberühmte Maske
+
+;1731;34;78835;2;-1;-1;gelbe;100% gelbe bis gar nicht vorhandene Maske
+
+;1732;34;78837;2;-2;4;Gummibänder; 50% Maske ... Gummibänder
+
+;1733;34;78838;1;4;4;Ikarus;100% Ikarus ... Maske
+
+;1734;34;78840;2;-5;4;Mimen; 50% Maske ... Mimen
+
+;1735;34;78842;2;-5;3;Aubameyang Pierre-Emerick ;100% Pierre-Emerick Aubameyang mit Maske
+
+;;;78843;1;-5;3;Aubameyang ;100% Aubameyang ... Maske
+
+;1736;34;78846;3;-5;-2;Kellner;100% Kellner ... Maske
+
+;1737;34;78847;1;-3;2;Bolo;100% Bolo Maske
+
+;1738;34;78848;1;-3;4;Tyrell;100% Maske ... Tyrell
+
+;1739;34;78849;1;2;5;Gesichtsbedeckung;100% Maske ... Gesichtsbedeckung
+
+;1740;34;78850;1;-1;-1;enganliegenden;100% enganliegenden Maske
+
+;1741;33;78903;53;1;1;sondern; 56% nicht die Maske [nicht ...] sondern
+
+;1742;33;78987;84;1;1;sei; 52% die Maske [...] sei
+
+;1743;33;78998;11;-5;5;Distanz; 63% auf Distanz und Maske
+
+;1744;33;79001;3;2;5;Profi;100% Maske [...] Profi
+
+;1745;33;79003;2;2;2;frommen; 50% Maske ... frommen
+
+;1746;33;79004;1;3;3;Zügen;100% Zügen ... Maske
+
+;1747;33;79029;25;1;1;weg; 76% die|seine Maske [...] weg und ich
+
+;1748;33;79030;1;2;5;Gabun;100% Maske ... Gabun
+
+;1749;33;79033;3;1;1;gespielt; 66% Maske ... gespielt
+
+;1750;33;79034;1;-3;-1;dünne;100% dünne Maske
+
+;1751;33;79035;1;-1;-1;feuchte;100% feuchte Maske
+
+;1752;33;79050;15;2;3;dürfen; 66% und Maske ... zu dürfen
+
+;1753;33;79052;2;-5;-3;Hopkins;100% Hopkins in ... Maske
+
+;1754;33;79054;2;-1;-1;besagte;100% besagte Maske
+
+;1755;33;79055;1;-4;-3;Kostüms;100% Kostüms ... Maske
+
+;1756;33;79056;1;-5;-2;Biedermann;100% Maske ... Biedermann
+
+;1757;33;79057;1;-1;-1;Cros;100% Cros Maske
+
+;1758;33;79062;5;2;2;Ewigkeit; 80% Maske der Ewigkeit
+
+;1759;33;79064;2;-2;-2;Abnahme;100% Abnahme der Maske
+
+;1760;33;79067;3;-5;4;streifte;100% streifte [...] Maske
+
+;1761;33;79068;1;2;2;Humanität;100% Maske ... Humanität
+
+;1762;33;79069;1;-3;2;´90/Die;100% ´90/Die ... Maske
+
+;1763;33;79070;1;2;2;Rapier;100% Maske ... Rapier
+
+;1764;33;79071;1;-5;-5;Bänder;100% Bänder ... Maske
+
+;1765;33;79073;2;-5;3;Schreinerei; 50% Maske ... Schreinerei
+
+;1766;33;79074;1;-5;-3;Augenroller;100% Augenroller ... Maske
+
+;1767;33;79076;2;-3;5;abgeschminkt;100% Maske ... abgeschminkt
+
+;1768;33;79077;1;-5;-3;nuschelt;100% Maske nuschelt
+
+;1769;33;79078;1;2;5;Fuchses;100% Maske ... Fuchses
+
+;1770;33;79080;2;1;4;anzubehalten;100% Maske anzubehalten
+
+;1771;32;79102;22;-2;-2;wegen; 77% wegen [der] Maske
+
+;1772;32;79103;1;-5;-3;Adorf;100% Maske ... Adorf
+
+;1773;32;79110;7;-5;-2;wann; 57% wann [die ...] Maske tragen
+
+;1774;32;79136;26;-4;-4;jeden; 84% jeden Fall|Tag in die|keine Maske
+
+;1775;32;79140;4;2;2;Fassade; 75% Maske und Fassade
+
+;1776;32;79147;7;-1;-1;eleganter;100% Verbrecher in eleganter [Sommerkleidung oder in] Maske
+
+;1777;32;79149;2;-1;2;liebenswürdigen;100% Maske des liebenswürdigen
+
+;1778;32;79157;8;1;1;aufs; 62% mit Maske [...] aufs
+
+;1779;32;79158;1;-1;2;traurigen;100% Maske ... traurigen
+
+;1780;32;79162;4;-4;-2;Tauchern;100% Tauchern vor die Maske
+
+;1781;32;79171;9;-5;-4;Paul; 77% Paul [Hartmann|Klees in der] Maske
+
+;1782;32;79172;1;-3;3;Neopren-Anzug;100% Neopren-Anzug Maske
+
+;1783;32;79174;2;3;4;1913;100% Maske ... 1913
+
+;1784;32;79180;6;-4;-2;Singen; 66% Singen mit Maske
+
+;1785;32;79182;2;2;5;Hannawald; 50% Maske ... Hannawald
+
+;1786;32;79189;7;-5;-2;Typ; 71% der Typ mit der Maske
+
+;1787;32;79190;1;-5;4;Seeler;100% Maske ... Seeler
+
+;1788;32;79191;1;-5;5;Halloween;100% Halloween ... Maske
+
+;1789;32;79192;1;-5;1;32jährige;100% 32jährige Maske
+
+;1790;32;79198;6;1;1;stört; 50% Maske stört
+
+;1791;32;79199;1;2;2;charmanten;100% Maske ... charmanten
+
+;1792;32;79201;2;1;4;lästig;100% Maske ... lästig
+
+;1793;32;79204;3;-5;-2;Brandstifter;100% Brandstifter ohne Maske
+
+;1794;32;79209;5;-4;5;wiederzuerkennen; 80% in der Maske ... kaum wiederzuerkennen
+
+;1795;32;79211;2;-5;5;Boxstall; 50% Maske ... Boxstall
+
+;1796;32;79212;1;-1;4;dämonischen;100% Maske ... dämonischen
+
+;1797;32;79214;2;2;4;Baumwolle; 50% Maske ... Baumwolle
+
+;1798;32;79215;1;1;2;Trotzkis;100% Maske Trotzkis
+
+;1799;32;79217;2;3;3;Lenhardt; 50% Maske ... Lenhardt
+
+;1800;32;79218;1;-5;-2;Torjubel;100% Torjubel ... Maske
+
+;1801;32;79220;2;-3;4;Munchs; 50% Maske ... Munchs
+
+;1802;32;79222;2;-5;4;Elektronenstrahl;100% Elektronenstrahl ... Maske
+
+;1803;32;79226;4;1;1;Tonight Götter ;100% Götter ohne Maske Tonight
+
+;1804;32;79228;2;2;4;Schnodderschnauze;100% Maske eines Gemeindearbeiters mit Schnodderschnauze
+
+;1805;32;79231;3;-1;-1;widerstrebt;100% zelebriert wurde widerstrebt Maske
+
+;1806;32;79236;5;-5;-2;Stundenlang;100% Stundenlang ... in der Maske
+
+;1807;32;79237;1;-1;-1;wei?e;100% wei?e Maske
+
+;1808;32;79240;3;-4;-3;Clausens;100% Rosemarie Clausens Schrift und Maske
+
+;1809;32;79241;1;-2;-1;pflichtbewusst;100% pflichtbewusst Maske
+
+;1810;32;79242;1;-5;5;Corona-Tests;100% Corona-Tests ... Maske
+
+;1811;32;79244;2;-4;-2;Geimpfte;100% Geimpfte ... Maske
+
+;1812;32;79245;1;3;5;festzukleben;100% Maske ... festzukleben
+
+;1813;31;79367;122;-5;-4;sein; 65% der|die Maske [...] sein
+
+;1814;31;79368;1;-5;4;Kappe;100% Maske ... Kappe
+
+;1815;31;79386;18;-1;-1;letzte; 66% die letzte [...] Maske
+
+;1816;31;79389;3;-5;-3;Lust; 66% Lust ... Maske
+
+;1817;31;79394;5;-5;5;T-Shirt; 60% Maske ... T-Shirt
+
+;1818;31;79395;1;-4;2;Choreographie;100% Choreographie ... Maske
+
+;1819;31;79399;4;1;5;verrät;100% Maske [...] verrät
+
+;1820;31;79401;2;-5;5;geschlossenen;100% geschlossenen ... Maske
+
+;1821;31;79404;3;-3;-3;Regime;100% Regime ... Maske
+
+;1822;31;79405;1;-5;3;Requisit;100% Maske ... Requisit
+
+;1823;31;79408;3;4;5;Dreharbeiten;100% Maske bei den Dreharbeiten
+
+;1824;31;79409;1;1;5;Regungen;100% Regungen ... Maske
+
+;1825;31;79415;6;1;1;beziehungsweise; 83% beziehungsweise das Spielen mit|der Maske
+
+;1826;31;79416;1;1;5;besorgen;100% Maske ... besorgen
+
+;1827;31;79421;5;-4;5;Atlas; 60% Atlas ... Maske
+
+;1828;31;79430;9;1;1;hoch; 66% Maske [...] hoch
+
+;1829;31;79431;1;2;4;Andrea Stoll ;100% Andrea Stoll Maske
+
+;;;79439;8;2;4;Andrea ; 50% Maske [...] Andrea
+
+;1830;31;79441;2;-1;3;bizarren;100% bizarren Maske
+
+;1831;31;79445;4;4;5;Aussehen; 75% Aussehen der Maske
+
+;1832;31;79449;4;-3;-3;Bauch; 50% Maske ... Bauch
+
+;1833;31;79451;2;-1;-1;kalten; 50% Maske ... kalten
+
+;1834;31;79452;1;1;5;anzieht;100% anzieht ... Maske
+
+;1835;31;79457;5;-4;-2;Taucher;100% Taucher mit ... Maske und ...
+
+;1836;31;79458;1;-3;4;Tontechniker;100% Maske ... Tontechniker
+
+;1837;31;79459;1;2;2;ägyptischen;100% Maske ... ägyptischen
+
+;1838;31;79461;2;-5;5;Atmung; 50% Maske ... Atmung
+
+;1839;31;79462;1;-5;4;goodbye say ;100% say goodbye ... Maske
+
+;1840;31;79464;2;1;5;ausschneiden;100% Maske [...] ausschneiden
+
+;1841;31;79465;1;-1;-1;meisterhafte;100% Maske ... meisterhafte
+
+;1842;31;79471;6;-4;4;Rieck;100% Frieda Maske [zum|den 75.|76. Agnes] Rieck
+
+;1843;31;79475;4;-3;-2;Ave;100% Ave und Maske
+
+;1844;31;79478;3;-3;4;Künstlergarderoben; 66% Künstlergarderoben und Maske
+
+;1845;31;79479;1;-5;4;starrt;100% starrt ... Maske
+
+;1846;31;79480;1;-5;-2;jemandem;100% Maske ... jemandem
+
+;1847;31;79481;1;1;3;runterziehen;100% Maske runterziehen
+
+;1848;31;79482;1;-4;5;Boxkämpfe;100% Maske ... Boxkämpfe
+
+;1849;31;79483;1;-2;-1;heuchlerische;100% heuchlerische Maske
+
+;1850;31;79484;1;-4;5;Störtzbach;100% Störtzbach Maske
+
+;1851;31;79485;1;-3;2;Simulakrum;100% Maske ... Simulakrum
+
+;1852;31;79487;2;-3;-3;Brillengläser;100% Brillengläser über der Maske
+
+;1853;31;79489;2;-5;5;Corey; 50% Maske ... Corey
+
+;1854;31;79491;2;-2;-2;Trinkflasche;100% Trinkflasche ... Maske
+
+;1855;31;79492;1;2;3;Menschenmengen;100% Maske ... Menschenmengen
+
+;1856;31;79493;1;3;4;Abstandsregelung;100% Maske ... Abstandsregelung
+
+;1857;30;79498;5;-4;-2;Aufführungen;100% Aufführungen ... ohne Maske
+
+;1858;30;79510;12;-5;-2;selber; 66% der selber keine Maske
+
+;1859;30;79518;8;-2;-1;dank; 75% dank [vielstündiger Sitzung der|in ...] Maske
+
+;1860;30;79521;3;-3;-2;Anwesenden;100% der Anwesenden keine Maske
+
+;1861;30;79526;5;1;5;passt; 60% passt mit Maske
+
+;1862;30;79545;19;-5;-2;Sänger; 84% Sänger in|ohne Maske
+
+;1863;30;79548;3;-1;1;brauner;100% mit brauner Maske
+
+;1864;30;79565;17;-1;-1;Trotz;100% Trotz [...] Maske
+
+;1865;30;79567;2;-2;-1;berühmten;100% berühmten Maske
+
+;1866;30;79569;2;-3;4;Pumpgun;100% Pumpgun und Maske
+
+;1867;30;79571;2;-5;-3;Verbrecher; 50% Maske Verbrecher
+
+;1868;30;79572;1;-5;5;Burka;100% Burka Maske
+
+;1869;30;79579;7;-3;-2;Hitler; 71% Hitler und ... Maske
+
+;1870;30;79580;1;-4;-2;Selbstbildnis;100% Maske Selbstbildnis
+
+;1871;30;79586;6;-5;-2;Sportler; 50% Maske [...] Sportler
+
+;1872;30;79587;1;-4;-4;schob;100% Maske ... schob
+
+;1873;30;79591;4;2;2;kleinreden;100% relativieren und Maske nicht kleinreden wollte
+
+;1874;30;79594;3;-2;5;Maskenspiel;100% Maske Maskenbau Maskenspiel
+
+;1875;30;79596;2;-5;-3;Plötzlich;100% Plötzlich ... Maske
+
+;1876;30;79597;1;2;2;Satans;100% Maske ... Satans
+
+;1877;30;79600;3;2;4;May; 66% May [...] Maske
+
+;1878;30;79604;4;-4;3;Tyson;100% erst Maske dann Tyson
+
+;1879;30;79606;2;-1;-1;bloße;100% bloße Maske
+
+;1880;30;79608;2;-5;-2;Frack; 50% Maske ... Frack
+
+;1881;30;79609;1;-3;5;Vampirs;100% Maske ... Vampirs
+
+;1882;30;79612;3;4;4;Arbeitspferd;100% Werner Maske mit Sonja dem Arbeitspferd
+
+;1883;30;79616;4;-5;4;ca; 75% Maske [...] ca
+
+;1884;30;79617;1;-5;4;Bethy;100% Maske Bethy
+
+;1885;30;79618;1;-2;5;Mull;100% Mull ... Maske
+
+;1886;30;79620;2;2;5;Fang;100% Maske der Fang
+
+;1887;30;79621;1;2;5;Strumpfhosen;100% Strumpfhosen ... Maske
+
+;1888;30;79624;3;-1;-1;gefundenen;100% gefundenen [...] Maske
+
+;1889;30;79625;1;-4;-2;Nachbildung;100% Nachbildung ... Maske
+
+;1890;30;79628;3;2;2;Invalidendom;100% auf der Maske im Invalidendom ... nicht
+
+;1891;30;79629;1;2;4;Entertainers;100% Maske ... Entertainers
+
+;1892;30;79633;4;-2;-2;Bergsteiger;100% Bergsteiger ohne Maske
+
+;1893;30;79634;1;-1;-1;handgeschnitzte;100% handgeschnitzte Maske
+
+;1894;30;79636;2;-4;-2;Passagier;100% Passagier auf die Maske
+
+;1895;30;79640;4;-3;-2;Exhibitionist;100% Exhibitionist mit Maske
+
+;1896;30;79643;3;-5;-4;Zentralmuseum;100% Zentralmuseum in Mainz die Maske
+
+;1897;30;79645;2;-2;2;Maritta;100% Maske ist Maritta
+
+;1898;30;79646;1;-5;4;Nasenspitze;100% Nasenspitze ... Maske
+
+;1899;30;79647;1;1;1;eingekauft;100% Maske eingekauft
+
+;1900;30;79649;2;2;2;Halbmast;100% Maske auf Halbmast
+
+;1901;29;79651;2;1;5;daherkommt;100% Maske ... daherkommt
+
+;1902;29;79654;3;1;2;malen; 66% malen die Maske
+
+;1903;29;79664;10;-1;-1;einzige; 70% keine einzige [in] Maske und
+
+;1904;29;79666;2;-5;-4;Vega;100% Vega ... der ... Maske
+
+;1905;29;79675;9;4;5;of; 55% Maske soll in die Box-Hall of
+
+;1906;29;79691;16;-5;-5;neben; 87% neben [der] Maske die
+
+;1907;29;79699;8;-4;5;Set; 75% und zum Set in die Maske gebracht
+
+;1908;29;79700;1;3;5;Schwanz;100% Schwanz ... Maske
+
+;1909;29;79702;2;-4;-4;blickt; 50% Maske ... blickt
+
+;1910;29;79705;3;2;4;Karneval; 66% Karneval ... Maske
+
+;1911;29;79707;2;2;2;Anlage;100% Maske ... Anlage
+
+;1912;29;79708;1;-5;-3;Dreh;100% Dreh ... Maske
+
+;1913;29;79709;1;1;3;schlafen;100% Maske schlafen
+
+;1914;29;79710;1;-5;-2;Ausrüstung;100% Maske ... Ausrüstung
+
+;1915;29;79712;2;2;5;Durchblick; 50% Maske ... Durchblick
+
+;1916;29;79717;5;-5;4;Erkennungszeichen; 60% Erkennungszeichen die Maske
+
+;1917;29;79718;1;-5;2;v.l;100% v.l ... Maske
+
+;1918;29;79728;10;-3;-2;liebt; 70% tief ist liebt die ... Maske
+
+;1919;29;79732;4;-2;-2;mitfiebern;100% Zuschauen und mitfiebern mit Maske
+
+;1920;29;79734;2;3;4;Haaren; 50% Maske ... Haaren
+
+;1921;29;79735;1;-3;5;Profikämpfen;100% Maske ... Profikämpfen
+
+;1922;29;79737;2;2;4;warmem;100% Maske mit warmem
+
+;1923;29;79739;2;-5;-1;Lauterbach;100% Lauterbach [...] Maske
+
+;1924;29;79741;2;-5;5;Kopfes;100% Maske ... des Kopfes
+
+;1925;29;79744;3;2;3;Königs;100% Maske des Königs
+
+;1926;29;79747;3;1;1;diente;100% diente ... als Maske
+
+;1927;29;79748;1;-1;-1;heller;100% heller Maske
+
+;1928;29;79749;1;2;4;Arroganz;100% Maske ... Arroganz
+
+;1929;29;79750;1;-5;3;lächelt;100% Maske ... lächelt
+
+;1930;29;79752;2;3;5;v; 50% Maske ... v
+
+;1931;29;79753;1;-1;4;androgynen;100% Maske ... androgynen
+
+;1932;29;79754;1;2;5;Raumluft;100% Maske ... Raumluft
+
+;1933;29;79755;1;-1;-1;grauer;100% grauer Maske
+
+;1934;29;79758;3;-2;-2;Siedenbollentin Manfred ; 66% Siedenbollentin Manfred Maske
+
+;1935;29;79761;3;-1;-1;Thoralf;100% Thoralf Maske
+
+;1936;29;79763;2;-5;5;Wimpern;100% Wimpern über die abschwellende Maske
+
+;1937;29;79764;1;-4;-4;prüfender;100% prüfender ... Maske
+
+;1938;29;79765;1;3;5;Völkerkunde;100% Maske ... Völkerkunde
+
+;1939;29;79767;2;-2;-2;mithilfe;100% Maske [...] mithilfe
+
+;1940;29;79768;1;-3;5;gesamtdeutschen;100% gesamtdeutschen ... Maske
+
+;1941;29;79770;2;2;4;Canetti; 50% Maske ... Canetti
+
+;1942;29;79772;2;-5;-2;Ablegen;100% Ablegen der Maske
+
+;1943;29;79773;1;-1;-1;anmutende;100% anmutende ... Maske
+
+;1944;29;79776;3;-5;-2;Räumen; 66% Räumen ... Maske
+
+;1945;29;79777;1;-1;-1;selbstgefertigte;100% selbstgefertigte Maske
+
+;1946;29;79778;1;-5;-3;Lungenautomaten;100% Lungenautomaten ... Maske
+
+;1947;29;79782;4;-2;-2;Schutze;100% Im Schutze der Maske
+
+;1948;29;79784;2;-4;4;Kriewel;100% Maske ... Kriewel
+
+;1949;29;79785;1;2;3;Lebemanns;100% Maske ... Lebemanns
+
+;1950;29;79786;1;2;5;tumben;100% Maske ... tumben
+
+;1951;29;79787;1;-5;5;Umgebungsdruck;100% Maske ... Umgebungsdruck
+
+;1952;29;79789;2;2;3;Kobolds;100% Maske ... Kobolds
+
+;1953;29;79790;1;-1;4;Schutzmittel;100% Maske ... Schutzmittel
+
+;1954;29;79793;3;-5;-2;Pence;100% Pence ohne Maske
+
+;1955;29;79795;2;2;3;Desinfektionsspender;100% Maske ... Desinfektionsspender
+
+;1956;28;79801;6;-3;-2;zuerst; 83% zuerst in die Maske
+
+;1957;28;79809;8;-2;-2;Form; 50% Maske die ... Form
+
+;1958;28;79812;3;2;4;Farbe; 66% Farbe ... der ... Maske
+
+;1959;28;79815;3;-5;-3;wirkte;100% Maske wirkte
+
+;1960;28;79819;4;-5;5;Christine;100% Maske der ... Christine
+
+;1961;28;79838;19;-5;-2;plötzlich; 47% der|die Maske ab und ... plötzlich
+
+;1962;28;79844;6;1;3;Claudia; 66% Claudia [...] Maske
+
+;1963;28;79852;8;2;5;Wahrheit; 75% Maske und|der Wahrheit ... und
+
+;1964;28;79854;2;-4;5;Drehbuch;100% Maske ... Drehbuch
+
+;1965;28;79856;2;-3;-2;Boxershorts;100% Boxershorts sehen ... Maske
+
+;1966;28;79857;1;-1;5;Venezianischen;100% Venezianischen Maske
+
+;1967;28;79858;1;3;5;Fluchtfahrzeug;100% Maske ... Fluchtfahrzeug
+
+;1968;28;79859;1;-3;2;grässliche;100% grässliche Maske
+
+;1969;28;79863;4;2;2;Zivilisation;100% die Maske der|von Zivilisation ... und
+
+;1970;28;79864;1;2;3;Perfektion;100% Maske ... Perfektion
+
+;1971;28;79865;1;-4;-2;gezwungen;100% gezwungen ... Maske
+
+;1972;28;79873;8;-5;-4;Schauspielerin; 75% Schauspielerin der die|in ... Maske
+
+;1973;28;79874;1;3;3;DNA;100% DNA ... Maske
+
+;1974;28;79875;1;-5;2;Stiefeln;100% Maske Stiefeln
+
+;1975;28;79877;2;1;1;l;100% l und ... Maske
+
+;1976;28;79879;2;-3;-1;übergroße;100% übergroße [...] Maske
+
+;1977;28;79880;1;-5;5;Dämon;100% Dämon ... Maske
+
+;1978;28;79881;1;-5;-3;Nasenbein;100% Nasenbein ... Maske
+
+;1979;28;79883;2;-5;4;116:112;100% Maske ... 116:112
+
+;1980;28;79884;1;1;3;gegenübertritt;100% Maske ... gegenübertritt
+
+;1981;28;79886;2;-2;-1;alberne;100% alberne [...] Maske
+
+;1982;28;79887;1;-1;3;Seiller;100% Maske ... Seiller
+
+;1983;28;79895;8;-5;5;1,50; 75% von 1,50 Metern oder|Abstand|Meter mit|und Maske
+
+;1984;28;79897;2;2;2;Leidens; 50% Maske ... Leidens
+
+;1985;28;79898;1;-3;4;geschwitzt;100% Maske ... geschwitzt
+
+;1986;28;79900;2;-5;-2;jemanden;100% jemanden ... der ... Maske
+
+;1987;28;79901;1;-5;-5;Wilfried;100% Maske ... Wilfried
+
+;1988;28;79902;1;-3;2;hautverträglich;100% Maske ... hautverträglich
+
+;1989;28;79909;7;4;4;Schott Herta ;100% zum ... Herta Maske zum 69.|70. Hans Schott zum
+
+;1990;28;79910;1;-5;2;Satyrs;100% Maske ... Satyrs
+
+;1991;28;79911;1;1;5;freilässt;100% Maske freilässt
+
+;1992;28;79912;1;-1;2;ähnelnde;100% Maske ... ähnelnde
+
+;1993;28;79913;1;1;2;kreieren;100% Maske ... kreieren
+
+;1994;28;79914;1;2;2;Wohltätigkeit;100% Maske ... Wohltätigkeit
+
+;1995;28;79915;1;-3;3;Barcellona;100% Maske ... Barcellona
+
+;1996;28;79917;2;-1;-1;akustischen;100% akustischen Maske
+
+;1997;28;79923;6;-2;-2;Schrift;100% Schrift und die Maske
+
+;1998;28;79925;2;3;4;Sosias;100% Maske des ... Sosias
+
+;1999;28;79926;1;-2;-2;Gegenüber;100% Gegenüber ... Maske
+
+;2000;28;79929;3;-2;-2;Denver-Clan;100% Denver-Clan ohne Maske
+
+;2001;28;79930;1;-5;-2;Vedder;100% Vedder ... Maske
+
+;2002;28;79934;4;1;1;Blumenstraße;100% Käthe Maske Blumenstraße 4 wird
+
+;2003;28;79935;1;2;2;Tugend;100% Maske ... Tugend
+
+;2004;28;79937;2;-4;3;Make-ups;100% Make-ups ... der Maske
+
+;2005;28;79939;2;-2;1;Lenins; 50% Lenins Maske
+
+;2006;28;79940;1;-5;-3;tippt;100% tippt ... Maske
+
+;2007;28;79941;1;-4;-2;Schutzanzügen;100% Schutzanzügen ... Maske
+
+;2008;28;79943;2;3;3;Schlemmer; 50% Maske ... Schlemmer
+
+;2009;28;79944;1;1;5;hochschieben;100% Maske hochschieben
+
+;2010;28;79945;1;-1;-1;dunkelblaue;100% dunkelblaue Maske
+
+;2011;28;79947;2;-1;2;Woodruff;100% Woodruff Maske
+
+;2012;28;79948;1;-4;-4;Alternativ;100% Alternativ ... Maske
+
+;2013;28;79949;1;-4;2;Kellaway;100% Kellaway ... Maske
+
+;2014;28;79952;3;2;2;schaben;100% von der Maske zu schaben
+
+;2015;28;79957;5;-4;-4;Baldus;100% Stefanie Baldus zunächst in der Maske und dann
+
+;2016;28;79958;1;-5;-3;Vorschrift;100% Vorschrift ... Maske
+
+;2017;28;79960;2;-2;-2;Besuchenden;100% Besuchenden ... Maske
+
+;2018;28;79961;1;-5;5;Fangesänge;100% Fangesänge ... Maske
+
+;2019;28;79963;2;-2;-2;Dolmetschen;100% Dolmetschen mit Maske
+
+;2020;27;80051;88;-1;-1;sagte; 73% sagte [...] Maske
+
+;2021;27;80053;2;1;1;verliehen;100% verliehen ... Maske
+
+;2022;27;80057;4;-1;-1;tolle; 50% Maske tolle
+
+;2023;27;80060;3;-3;-2;Kleid;100% Kleid und Maske
+
+;2024;27;80063;3;1;1;bedient;100% Maske bedient
+
+;2025;27;80067;4;-5;5;Persönlichkeit; 50% Maske ... Persönlichkeit
+
+;2026;27;80069;2;-5;4;Gürtel;100% Gürtel an Gürtel [...] Maske
+
+;2027;27;80078;9;1;2;perfekt; 77% die Maske [... der ...] perfekt
+
+;2028;27;80080;2;-1;-1;deiner;100% deiner Maske
+
+;2029;27;80084;4;-5;5;Einsingen; 75% Maske ... das Einsingen
+
+;2030;27;80087;3;-5;3;böse;100% böse [...] Maske
+
+;2031;27;80090;3;-3;3;Backstagebereich; 66% Backstagebereich mit der Maske
+
+;2032;27;80093;3;-5;5;Statisten; 66% Statisten ohne Kostüm und Maske
+
+;2033;27;80095;2;-4;-3;Versteckspiel; 50% Maske ... Versteckspiel
+
+;2034;27;80100;5;-5;-5;Angelika; 60% Angelika [...] Maske
+
+;2035;27;80102;2;-3;-2;rät;100% Maske rät
+
+;2036;27;80104;2;-5;-3;Birgit;100% Birgit ... Maske
+
+;2037;27;80105;1;-1;-1;selbstgefertigten;100% selbstgefertigten Maske
+
+;2038;27;80109;4;-5;5;Monika; 75% Monika ... Maske
+
+;2039;27;80113;4;-4;-2;Nikolaus; 75% Nikolaus mit ... Maske
+
+;2040;27;80114;1;-4;-2;Nasenbruch;100% Nasenbruch ... Maske
+
+;2041;27;80116;2;-5;3;Robe;100% Maske [...] Robe
+
+;2042;27;80119;3;-5;-2;empfehlen;100% Wir empfehlen ... Maske
+
+;2043;27;80120;1;1;4;enthüllt;100% Maske enthüllt
+
+;2044;27;80121;1;-3;-2;Hinterbühne;100% Hinterbühne ... Maske
+
+;2045;27;80122;1;-3;4;Effects;100% Maske ... Effects
+
+;2046;27;80125;3;-3;-2;Uniform; 66% Uniform und Maske
+
+;2047;27;80126;1;2;2;blind;100% Maske ... blind
+
+;2048;27;80129;3;-3;-2;Kiki;100% Kiki mit Maske
+
+;2049;27;80131;2;3;5;McDonalds;100% Maske ... McDonalds
+
+;2050;27;80133;2;1;4;geformt;100% Maske [...] geformt
+
+;2051;27;80134;1;-5;-2;Biolek;100% Biolek ... Maske
+
+;2052;27;80136;2;-5;4;Piecuch; 50% Maske ... Piecuch
+
+;2053;27;80141;5;-3;-2;Metapher; 80% auf die Metapher der Maske zurück
+
+;2054;27;80142;1;-5;3;Pich;100% Maske ... Pich
+
+;2055;27;80143;1;-4;3;Turban;100% Turban ... Maske
+
+;2056;27;80145;2;1;1;Mystik;100% Maske Mystik
+
+;2057;27;80147;2;-5;5;Hyaluronsäure; 50% Maske ... Hyaluronsäure
+
+;2058;27;80148;1;2;5;Machers;100% Maske ... Machers
+
+;2059;27;80150;2;-5;-4;Natürlichkeit;100% Natürlichkeit ... die Maske
+
+;2060;27;80151;1;3;5;Souffleurkasten;100% Maske ... Souffleurkasten
+
+;2061;27;80152;1;-3;4;hing;100% hing ... Maske
+
+;2062;27;80154;2;-5;1;Sprechprobe;100% Sprechprobe und danach in die Maske
+
+;2063;27;80155;1;-2;2;Plastron;100% Maske Plastron
+
+;2064;27;80157;2;1;5;durchatmen;100% Maske [...] durchatmen
+
+;2065;27;80158;1;-2;5;Idols;100% Maske ... Idols
+
+;2066;27;80160;2;2;5;Luftstrom;100% Maske den Luftstrom
+
+;2067;27;80167;7;1;3;singen; 57% singen zwar mit|nicht ... Maske
+
+;2068;27;80168;1;4;5;Beschlagen;100% Maske ... Beschlagen
+
+;2069;27;80169;1;2;2;durchsichtigem;100% durchsichtigem ... Maske
+
+;2070;27;80172;3;-4;2;Schweinskopf;100% Schweinskopf [...] Maske
+
+;2071;27;80173;1;3;4;Aufdruck;100% Maske ... Aufdruck
+
+;2072;27;80174;1;-3;-3;Holmes;100% Holmes ... Maske ... Holmes
+
+;2073;27;80175;1;2;3;Treacy;100% Maske ... Treacy
+
+;2074;27;80178;3;2;3;Plenarsaal;100% ohne Maske in den Plenarsaal
+
+;2075;27;80180;2;-4;-2;draussen; 50% Maske ... draussen
+
+;2076;27;80181;1;-5;5;Nahverkehr;100% Nahverkehr ... Maske
+
+;2077;27;80185;4;-5;5;U-Bahn; 50% Maske in ... U-Bahn
+
+;2078;27;80187;2;-4;-3;aufsteht;100% aufsteht muss man die Maske
+
+;2079;27;80188;1;-4;2;Klinikbesuch;100% Maske ... Klinikbesuch
+
+;2080;26;80191;3;-2;-2;Schnitt; 66% Maske [...] Schnitt
+
+;2081;26;80195;4;-4;-2;einst; 50% Maske einst
+
+;2082;26;80200;5;-5;5;Fasnacht; 60% Fasnacht [...] Maske
+
+;2083;26;80204;4;-1;5;finstere; 75% finstere [...] Maske des ...
+
+;2084;26;80225;21;-3;-2;hält; 57% hält [und|die ...] Maske
+
+;2085;26;80226;1;-3;2;Latexhandschuhen;100% Latexhandschuhen ... Maske
+
+;2086;26;80228;2;-5;1;Banksy;100% Banksy ... Maske
+
+;2087;26;80237;9;-2;-2;sofort; 55% sofort [in die] Maske
+
+;2088;26;80239;2;-3;5;Imperialismus;100% Imperialismus die Maske
+
+;2089;26;80240;1;-5;2;schiebt;100% schiebt ... Maske
+
+;2090;26;80243;3;-1;-1;japanische;100% japanische Maske
+
+;2091;26;80245;2;-4;4;Umkleide; 50% Maske Umkleide
+
+;2092;26;80246;1;-5;5;Jogginghose;100% Jogginghose ... Maske
+
+;2093;26;80248;2;-3;-2;Jauch; 50% Maske ... Jauch
+
+;2094;26;80249;1;4;5;Mio;100% Maske ... Mio
+
+;2095;26;80250;1;-4;-3;Promis;100% Promis ... Maske
+
+;2096;26;80252;2;-5;4;Dekolleté; 50% Maske ... Dekolleté
+
+;2097;26;80257;5;-5;-2;Elke; 80% Elke ... Maske
+
+;2098;26;80258;1;2;4;Hexer;100% Maske ... Hexer
+
+;2099;26;80259;1;-4;5;Unheimlichen;100% Maske ... Unheimlichen
+
+;2100;26;80272;13;1;2;18; 53% mit die|Sarah Maske [... von um] 18 Uhr
+
+;2101;26;80273;1;3;3;Mattheuer;100% Maske ... Mattheuer
+
+;2102;26;80274;1;1;1;aufgezogen;100% Maske aufgezogen
+
+;2103;26;80275;1;3;4;erklang;100% Maske ... erklang
+
+;2104;26;80276;1;-1;-1;wärmende;100% wärmende Maske
+
+;2105;26;80277;1;1;4;fallenließ;100% Maske fallenließ
+
+;2106;26;80278;1;-5;5;Schrei;100% Schrei ... Maske
+
+;2107;26;80279;1;-5;-5;Bauerfeind;100% Maske ... Bauerfeind
+
+;2108;26;80280;1;-1;-1;Herta;100% Herta ... Maske
+
+;2109;26;80282;2;-1;-1;höflichen;100% höflichen Maske
+
+;2110;26;80283;1;-4;-4;autobiographischen;100% Maske ... autobiographischen
+
+;2111;26;80286;3;2;3;Fauns;100% Maske eines Fauns
+
+;2112;26;80289;3;-5;-2;Läden; 66% Maske in ... Läden
+
+;2113;26;80290;1;-5;4;Halbmaske;100% Maske ... Halbmaske
+
+;2114;26;80291;1;3;3;Schusswaffe;100% Schusswaffe Maske
+
+;2115;26;80292;1;3;3;Aufschrift;100% Maske ... Aufschrift
+
+;2116;26;80293;1;-2;4;Clownsgesicht;100% Clownsgesicht ... Maske
+
+;2117;26;80295;2;-4;-2;Ilka;100% Ilka ... Maske
+
+;2118;26;80296;1;-1;-1;Peifer;100% Peifer ... Maske
+
+;2119;26;80299;3;-4;3;Lahm; 66% Maske ... Lahm
+
+;2120;26;80300;1;-1;-1;trügerische;100% Maske ... trügerische
+
+;2121;26;80302;2;3;3;nebeneinander;100% Maske [...] nebeneinander
+
+;2122;26;80303;1;-5;-2;setz;100% setz ... Maske
+
+;2123;26;80308;5;-5;-3;diszipliniert; 60% sehr diszipliniert und tragen die Maske
+
+;2124;26;80313;5;-2;-2;Beschädigung;100% über die Beschädigung der Maske berichtet hatten
+
+;2125;26;80315;2;4;5;dämlich;100% Maske die ist wirklich dämlich
+
+;2126;26;80316;1;-2;-2;Vergiss;100% Vergiss ... Maske
+
+;2127;26;80317;1;-2;2;RAUCHENSTEINER;100% Maske ... RAUCHENSTEINER
+
+;2128;26;80321;4;-2;-2;Besuchergruppen;100% frei zwischen Besuchergruppen ohne Maske am Platz
+
+;2129;26;80322;1;-3;-2;Krebspatientin;100% Krebspatientin ... Maske
+
+;2130;26;80325;3;-1;5;Klassenzimmers; 66% Klassenzimmers Maske
+
+;2131;25;80369;44;-3;-2;Minuten; 59% Minuten in|ohne|die|der Maske und
+
+;2132;25;80372;3;-4;-4;Silvia; 66% Maske ... Silvia
+
+;2133;25;80374;2;1;4;stecken; 50% Maske stecken
+
+;2134;25;80389;15;-5;-2;Moment; 60% einen Moment lang|in dem|die Maske des|fällt
+
+;2135;25;80403;14;2;5;sonst; 64% sonst [sitzt die|so der] Maske
+
+;2136;25;80404;1;-1;-1;stählernen;100% stählernen Maske
+
+;2137;25;80405;1;-2;-2;Angreifer;100% Maske ... Angreifer
+
+;2138;25;80418;13;-3;-2;gern; 53% gern [die|auch mit] Maske
+
+;2139;25;80419;1;-1;-1;gelungene;100% Maske ... gelungene
+
+;2140;25;80424;5;-3;-2;Eingang; 60% Eingang [...] Maske
+
+;2141;25;80432;8;-5;3;durfte; 50% Maske [...] durfte
+
+;2142;25;80440;8;2;4;Kleider; 75% in die Maske seine Kleider ab darunter
+
+;2143;25;80443;3;-2;4;Schauspielunterricht;100% Maske [...] Schauspielunterricht
+
+;2144;25;80450;7;-5;5;Theaters; 57% der Maske des Theaters
+
+;2145;25;80453;3;-5;-3;Niemand;100% Niemand ... die Maske
+
+;2146;25;80471;18;-1;-1;AG;100% der|die AG Maske der ...
+
+;2147;25;80472;1;-4;4;Fiesling;100% Fiesling ... Maske
+
+;2148;25;80473;1;-3;-3;Schweiger;100% Schweiger ... Maske
+
+;2149;25;80474;1;-2;4;Soundcheck;100% Soundcheck ... Maske
+
+;2150;25;80476;2;-3;4;TV-Auftritt; 50% Maske ... TV-Auftritt
+
+;2151;25;80477;1;-2;-1;Lichtgestaltung;100% Lichtgestaltung ... Maske
+
+;2152;25;80478;1;-5;5;z;100% z ... Maske
+
+;2153;25;80479;1;-4;5;täuschen;100% Maske ... täuschen
+
+;2154;25;80480;1;4;5;V;100% Maske ... V
+
+;2155;25;80482;2;-5;2;geheimnisvoll;100% geheimnisvoll ... Maske
+
+;2156;25;80488;6;1;2;verwendet; 83% der Maske [...] verwendet
+
+;2157;25;80490;2;-5;-2;Verkleidet;100% Verkleidet ... Maske
+
+;2158;25;80491;1;-5;5;ähnelt;100% ähnelt ... Maske
+
+;2159;25;80492;1;-1;-1;gruseliger;100% gruseliger Maske
+
+;2160;25;80493;1;3;5;benachteiligte;100% Maske ... benachteiligte
+
+;2161;25;80494;1;-5;-2;Ansammlungen;100% Ansammlungen ... Maske
+
+;2162;25;80495;1;-4;-3;stundenlange;100% stundenlange ... Maske
+
+;2163;25;80496;1;-4;-1;Marciano;100% Marciano Maske
+
+;2164;25;80498;2;-5;-4;entlarven;100% entlarven ... Maske
+
+;2165;25;80499;1;-2;5;Abformung;100% Maske ... Abformung
+
+;2166;25;80500;1;-5;4;verstellen;100% verstellen ... Maske
+
+;2167;25;80501;1;2;5;Opfers;100% Maske ... Opfers
+
+;2168;25;80503;2;-4;3;Lanius;100% Lanius [...] Maske
+
+;2169;25;80504;1;4;4;fantasievoll;100% Maske ... fantasievoll
+
+;2170;25;80506;2;-5;-5;Wagners;100% Maske [...] Wagners
+
+;2171;25;80507;1;-2;-1;gräßliche;100% gräßliche Maske
+
+;2172;25;80517;10;2;4;Strand; 60% mit Maske am Strand
+
+;2173;25;80518;1;-3;-3;Inspiration;100% Inspiration ... Maske
+
+;2174;25;80519;1;-1;4;ZDF-Hauptstadtstudio;100% ZDF-Hauptstadtstudio Maske ... ZDF-Hauptstadtstudio
+
+;2175;25;80520;1;-4;-4;Gegenentwurf;100% Gegenentwurf Maske
+
+;2176;25;80521;1;-5;3;Aufnahmeleiter;100% Aufnahmeleiter ... Maske
+
+;2177;25;80522;1;2;2;Mitleids;100% Maske ... Mitleids
+
+;2178;25;80523;1;4;5;Zeigen;100% Maske ... Zeigen
+
+;2179;25;80524;1;-1;-1;angepasste;100% angepasste Maske
+
+;2180;25;80526;2;-5;-4;Drehpausen;100% Drehpausen oder ... Maske
+
+;2181;25;80527;1;1;4;anfassen;100% Maske ... anfassen
+
+;2182;25;80528;1;-5;-3;Zervakis;100% Zervakis ... Maske
+
+;2183;25;80530;2;2;4;Einhaltung; 50% Maske Einhaltung
+
+;2184;25;80531;1;4;5;ansteckt;100% ansteckt ... Maske
+
+;2185;24;80556;25;1;1;bekommen; 84% vor die Maske [...] bekommen
+
+;2186;24;80563;7;1;2;zeigen; 71% zeigen die ohne Maske
+
+;2187;24;80606;43;-4;-2;habe; 58% habe [ich die] Maske
+
+;2188;24;80623;17;-1;-1;welche; 82% welche [... die|vor der eigentlichen] Maske
+
+;2189;24;80625;2;-1;-1;tragischen; 50% Maske ... tragischen
+
+;2190;24;80672;47;-5;-2;wo; 63% wo [... die] Maske
+
+;2191;24;80673;1;1;4;angeschaut;100% Maske angeschaut
+
+;2192;24;80678;5;1;1;tanzen; 80% mit Maske tanzen
+
+;2193;24;80683;5;1;5;verwenden; 60% Maske ... zu verwenden
+
+;2194;24;80701;18;-5;-4;Man;100% Man trägt ... die|mit Maske
+
+;2195;24;80703;2;-1;-1;solchen;100% solchen ... ganz ... Maske
+
+;2196;24;80708;5;-4;-3;Rollen; 80% Rollen ... Maske
+
+;2197;24;80710;2;1;3;fühlt; 50% Maske ... fühlt
+
+;2198;24;80713;3;-2;-2;Aufwärmen; 66% Aufwärmen ... Maske
+
+;2199;24;80714;1;-5;5;Linsensystem;100% Maske ... Linsensystem
+
+;2200;24;80715;1;2;2;typischem;100% Maske ... typischem
+
+;2201;24;80717;2;-3;4;Schirm; 50% Maske Schirm
+
+;2202;24;80720;3;1;1;versammelt;100% ohne Maske versammelt
+
+;2203;24;80721;1;2;3;Komikers;100% Maske ... Komikers
+
+;2204;24;80723;2;4;4;Karikatur;100% Karikatur ... Maske
+
+;2205;24;80733;10;-5;-3;Jetzt;100% Jetzt noch|fällt die Maske
+
+;2206;24;80734;1;-3;-2;Eros;100% Eros ... Maske
+
+;2207;24;80744;10;-2;-2;Zuschauer; 80% Zuschauer [... mit und] Maske
+
+;2208;24;80745;1;-1;-1;vermeintliche;100% Maske ... Stück ... vermeintliche
+
+;2209;24;80748;3;-5;-3;Tschernitz;100% Tschernitz die|Leiterin der Maske
+
+;2210;24;80754;6;-5;-1;Weihnachtsmann; 66% Weihnachtsmann muss keine Maske tragen
+
+;2211;24;80756;2;2;3;Kettensäge;100% Maske oder Kettensäge
+
+;2212;24;80758;2;-2;5;Ringpause;100% Ringpause will Maske
+
+;2213;24;80766;8;-4;-2;Kann;100% Kann man auch mit Maske laufen
+
+;2214;24;80767;1;2;2;Seriosität;100% Maske ... Seriosität
+
+;2215;24;80768;1;2;2;Gemäßigten;100% Maske ... Gemäßigten
+
+;2216;24;80769;1;1;4;begibt;100% Maske begibt
+
+;2217;24;80771;2;1;1;einwirkt;100% Maske einwirkt
+
+;2218;24;80772;1;-3;-2;Faschingszeit;100% Faschingszeit ... Maske
+
+;2219;24;80774;2;-1;-1;ironische;100% ironische Maske
+
+;2220;24;80776;2;-2;2;Hellenismus;100% Maske des Hellenismus
+
+;2221;24;80777;1;3;5;Schlämmer;100% Maske ... Schlämmer
+
+;2222;24;80778;1;-5;-2;Serienkiller;100% Serienkiller ... Maske!)einen
+
+;2223;24;80780;2;-1;3;hochgezogen;100% Maske schnell hochgezogen
+
+;2224;24;80781;1;3;3;Look;100% Look ... Maske
+
+;2225;24;80782;1;-2;4;Garderobieren;100% Garderobieren ... Maske
+
+;2226;24;80791;9;-5;-1;Lieber;100% Lieber [ohne|mit] Maske
+
+;2227;24;80792;1;-2;-2;Fluch;100% Maske ... Fluch
+
+;2228;24;80793;1;-5;5;Schaltkreises;100% Maske ... Schaltkreises
+
+;2229;24;80794;1;-5;-4;zerrt;100% zerrt ... Maske
+
+;2230;24;80795;1;2;5;Gegenübers;100% Maske ... Gegenübers
+
+;2231;24;80797;2;-2;-2;Götter;100% Götter ohne Maske
+
+;2232;24;80798;1;-5;-2;Bösel;100% Bösel ... Maske
+
+;2233;24;80799;1;-5;3;Stosszeiten;100% Maske ... Stosszeiten
+
+;2234;24;80801;2;-5;-3;Luxusrestaurant;100% Luxusrestaurant verlässt und dabei keine Maske
+
+;2235;23;80841;40;-3;-3;mich; 55% die Maske [...] mich
+
+;2236;23;80844;3;-2;4;Anubis; 66% Maske des ... Anubis
+
+;2237;23;80858;14;-5;-3;darauf; 50% Maske [... und] darauf
+
+;2238;23;80870;12;-5;5;Manfred; 50% Maske [...] Manfred
+
+;2239;23;80874;4;3;5;darunter; 75% Maske [...] darunter
+
+;2240;23;80875;1;-2;-2;Phallus;100% Maske ... Phallus
+
+;2241;23;80876;1;-4;3;Chaplin;100% Chaplin ... Maske
+
+;2242;23;80878;2;-5;5;Ähnlichkeit; 50% Maske ... Ähnlichkeit
+
+;2243;23;80879;1;-1;2;Flosse;100% Maske ... Flosse
+
+;2244;23;80882;3;-5;-2;Sobald;100% Sobald ... Maske
+
+;2245;23;80883;1;2;3;Marcus;100% Maske ... Marcus
+
+;2246;23;80889;6;-1;-1;falsche;100% die falsche [... in der] Maske
+
+;2247;23;80891;2;1;5;sichtbar;100% sichtbar die Maske
+
+;2248;23;80892;1;-3;-3;Pucks;100% Pucks ... Maske
+
+;2249;23;80893;1;3;3;Cech;100% Maske ... Cech
+
+;2250;23;80895;2;-5;5;Mikro; 50% Maske ... Mikro
+
+;2251;23;80896;1;-1;-1;einzelne;100% einzelne Maske
+
+;2252;23;80898;2;-1;-1;blutige; 50% Maske ... blutige
+
+;2253;23;80899;1;2;3;Doping-Vorwürfe;100% Maske ... Doping-Vorwürfe
+
+;2254;23;80900;1;-5;-2;Beckenbauer;100% Beckenbauer Maske
+
+;2255;23;80901;1;1;5;Time;100% Maske ... Time
+
+;2256;23;80902;1;2;5;Schicksals;100% Maske ... Schicksals
+
+;2257;23;80903;1;-3;-1;Kämpfer;100% Kämpfer ... Maske
+
+;2258;23;80904;1;-1;1;biederer;100% biederer Maske
+
+;2259;23;80906;2;-5;3;Schlapphut;100% Schlapphut und Maske
+
+;2260;23;80907;1;-1;-1;mitgebrachte;100% Maske ... mitgebrachte
+
+;2261;23;80911;4;4;5;Wöllert; 75% Werner Maske zum ... und Brigitte Wöllert
+
+;2262;23;80916;5;-4;-2;Demonstranten;100% Demonstranten ... ohne Maske
+
+;2263;23;80917;1;4;5;XIV;100% XIV ... Maske
+
+;2264;23;80918;1;2;5;Flüeler;100% Maske ... Flüeler
+
+;2265;23;80920;2;-1;-1;traurige; 50% Maske ... traurige
+
+;2266;23;80922;2;-1;-1;humanitäre;100% humanitäre Maske
+
+;2267;23;80923;1;-4;-2;Buffer;100% Buffer ... Maske
+
+;2268;23;80924;1;2;4;Maskes;100% Maske ... Maskes
+
+;2269;23;80926;2;3;3;gebotenen;100% Maske und ... gebotenen
+
+;2270;23;80927;1;-4;3;einatmet;100% einatmet ... Maske
+
+;2271;23;80928;1;3;5;Bügeleisen;100% Bügeleisen ... Maske
+
+;2272;23;80929;1;2;4;Knebel;100% Maske ... Knebel
+
+;2273;23;80932;3;-4;-4;Wichter;100% Rebecca Wichter unterstützt wurden ohne Maske am Start
+
+;2274;23;80934;2;-3;3;Stachowitz; 50% Maske ... Stachowitz
+
+;2275;23;80936;2;-2;-2;Jockeys;100% Jockeys mit Maske
+
+;2276;23;80937;1;4;5;Aerosolen;100% Aerosolen ... Maske
+
+;2277;23;80938;1;-2;-2;Mannheims;100% Mannheims ... Maske
+
+;2278;23;80941;3;3;4;asozial;100% Bahn keine Maske trägt handelt asozial
+
+;2279;22;80942;1;-1;-1;bunten;100% bunten ... Maske
+
+;2280;22;80950;8;-4;-2;setzen; 75% setzen keine die Maske auf
+
+;2281;22;80952;2;2;4;doppelten; 50% Maske ... doppelten
+
+;2282;22;80953;1;-4;-3;Rücktritt;100% Maske ... Rücktritt ... Rücktritt
+
+;2283;22;80954;1;-4;1;besorgte;100% besorgte ... Maske
+
+;2284;22;80957;3;1;1;angepasst;100% Maske [... den ...] angepasst
+
+;2285;22;80959;2;3;5;hässlich; 50% Maske ... hässlich
+
+;2286;22;80965;6;-5;-5;rein; 50% Maske [tragen ...] rein
+
+;2287;22;80969;4;3;5;Studio; 50% Maske ... im Studio
+
+;2288;22;80982;13;3;5;Saal; 84% Abstand und Maske - außer im Saal
+
+;2289;22;80984;2;-3;-2;Colt;100% Colt und Maske
+
+;2290;22;80987;3;-3;-3;Magier;100% Magier mit der Maske
+
+;2291;22;80991;4;-5;-3;Manche;100% Manche ... mit keine Maske
+
+;2292;22;80995;4;2;2;Steuer;100% Maske ans Steuer
+
+;2293;22;81000;5;-5;2;empfiehlt; 60% empfiehlt [...] Maske
+
+;2294;22;81001;1;-5;2;thront;100% Maske thront
+
+;2295;22;81008;7;-3;-3;morgens; 85% morgens ... in der Maske
+
+;2296;22;81010;2;1;5;Sparring;100% Maske [... Taxi ...] Sparring
+
+;2297;22;81011;1;1;1;dauerte;100% dauerte ... der ... Maske
+
+;2298;22;81013;2;-2;3;Tatwaffe;100% Tatwaffe und Maske
+
+;2299;22;81014;1;2;4;Unrath;100% Maske ... Unrath
+
+;2300;22;81015;1;-5;5;rotem;100% rotem ... Maske
+
+;2301;22;81016;1;-3;-3;Kater;100% Kater ... Maske
+
+;2302;22;81017;1;-3;-1;Stohr;100% Stohr ... Maske
+
+;2303;22;81018;1;-4;5;Bildschnitt;100% Maske ... Bildschnitt
+
+;2304;22;81019;1;2;5;unverhüllt;100% Maske ... unverhüllt
+
+;2305;22;81020;1;-5;2;Marionette;100% Maske ... Marionette
+
+;2306;22;81021;1;-5;5;Versteck;100% Maske ... Versteck
+
+;2307;22;81022;1;1;1;verhindert;100% Maske ... verhindert
+
+;2308;22;81024;2;-1;-1;soziale;100% soziale Maske
+
+;2309;22;81026;2;2;2;Aggression;100% Maske der Aggression
+
+;2310;22;81028;2;2;3;Philip; 50% Maske ... Philip
+
+;2311;22;81029;1;-2;4;Abbild;100% Abbild ... Maske
+
+;2312;22;81030;1;-3;-2;Selbstporträt;100% Selbstporträt ... Maske
+
+;2313;22;81031;1;1;4;zugeführt;100% Maske zugeführt
+
+;2314;22;81032;1;2;4;Dogon;100% Maske ... Dogon
+
+;2315;22;81034;2;-2;4;Schutzwirkung;100% Schutzwirkung der Maske
+
+;2316;22;81035;1;-3;2;Clownsnase;100% Maske ... Clownsnase
+
+;2317;22;81036;1;-4;-4;gealterten;100% Maske ... gealterten
+
+;2318;22;81038;2;-5;-5;Schutzmaske;100% Schutzmaske kaum zu identifizieren mit Maske
+
+;2319;22;81039;1;3;4;Drosten;100% Drosten ... Maske
+
+;2320;22;81043;4;1;1;eskaliert;100% Streit um Maske eskaliert
+
+;2321;22;81045;2;-5;-5;Ersatzspieler;100% Ersatzspieler ... Maske
+
+;2322;22;81046;1;1;3;weglassen;100% Maske weglassen
+
+;2323;22;81047;1;-4;-3;Museumsbesuch;100% Museumsbesuch ... Maske
+
+;2324;22;81051;4;-5;-2;Grundschüler; 50% Maske ... Grundschüler
+
+;2325;22;81052;1;-5;-2;Corona-Auflagen;100% Corona-Auflagen ... Maske
+
+;2326;22;81054;2;-2;2;Gummizug;100% Gummizug der Maske
+
+;2327;21;81057;3;1;1;gegriffen; 66% gegriffen hat um Mitternacht die Maske
+
+;2328;21;81064;7;-5;-2;Sandra; 57% Maske Tatjana Orth und Sandra
+
+;2329;21;81065;1;-3;5;präpariert;100% Maske ... präpariert
+
+;2330;21;81068;3;4;4;bewusst;100% bewusst als ... Maske
+
+;2331;21;81075;7;1;1;stammt; 85% die ... Maske stammt
+
+;2332;21;81077;2;-5;4;Shampoo; 50% Maske ... Shampoo
+
+;2333;21;81079;2;2;5;hinderlich;100% Maske dagegen ... hinderlich
+
+;2334;21;81083;4;2;5;Objekt;100% die Maske als ... Objekt der ...
+
+;2335;21;81089;6;-5;-2;vorher; 66% vorher [in keine|die] Maske
+
+;2336;21;81091;2;1;5;Miriam; 50% Maske ... Miriam
+
+;2337;21;81094;3;3;4;warm; 66% Maske [...] warm
+
+;2338;21;81095;1;1;1;vorgehalten;100% Maske ... vorgehalten
+
+;2339;21;81122;27;-5;-2;Bild; 62% Bild ... mit der Maske
+
+;2340;21;81133;11;-2;-2;teilweise; 63% Abstand und teilweise ohne Maske
+
+;2341;21;81141;8;1;1;genannt; 62% Maske [...] genannt
+
+;2342;21;81143;2;2;3;Jedermanns;100% Maske war Jedermanns
+
+;2343;21;81144;1;1;4;verkommen;100% Maske ... verkommen
+
+;2344;21;81155;11;-2;-2;Mitarbeiter; 72% Mitarbeiter aus der die und Maske
+
+;2345;21;81156;1;-1;-1;Käthe;100% Käthe Maske
+
+;2346;21;81161;5;1;1;fürs; 80% Maske [...] fürs
+
+;2347;21;81164;3;-5;3;Inneren;100% Inneren der Maske
+
+;2348;21;81168;4;-3;4;origineller;100% origineller [...] Maske
+
+;2349;21;81169;1;-5;-5;Panik;100% Panik ... Maske
+
+;2350;21;81170;1;2;3;lauwarmem;100% Maske ... lauwarmem
+
+;2351;21;81173;3;-3;-3;angefangen; 66% angefangen von der Maske
+
+;2352;21;81174;1;2;4;Schicht;100% Schicht ... Maske
+
+;2353;21;81180;6;-5;-3;Endlich;100% Endlich [fällt Armstrongs] Maske
+
+;2354;21;81183;3;-4;-3;gedrängt; 66% gedrängt und ohne Maske
+
+;2355;21;81189;6;-4;-2;nehme; 66% mit ... Maske [...] nehme
+
+;2356;21;81190;1;-5;-3;Komiker;100% Komiker ... Maske
+
+;2357;21;81204;14;-3;-2;Kind; 92% ein das Kind ohne die|mit|der ... Maske
+
+;2358;21;81205;1;-1;2;unmaskiert;100% Maske ... unmaskiert
+
+;2359;21;81206;1;-1;-1;lästige;100% lästige Maske
+
+;2360;21;81207;1;2;5;Anonymus;100% Maske ... Anonymus
+
+;2361;21;81210;3;3;4;Socken; 66% Maske und Socken
+
+;2362;21;81212;2;-5;4;Pucknat;100% Maske ... Pucknat
+
+;2363;21;81213;1;-3;-2;nachahmen;100% Maske nachahmen
+
+;2364;21;81215;2;4;5;Gesten; 50% Maske ... Gesten
+
+;2365;21;81216;1;-1;1;jovialer;100% jovialer Maske
+
+;2366;21;81217;1;1;1;weint;100% Maske weint
+
+;2367;21;81218;1;2;2;Mitgefühls;100% Maske ... Mitgefühls
+
+;2368;21;81219;1;-2;3;Maskierung;100% Maske ... Maskierung
+
+;2369;21;81220;1;-3;4;Hackergruppe;100% Hackergruppe ... Maske
+
+;2370;21;81224;4;1;5;abgebildet; 75% Maske [...] abgebildet
+
+;2371;21;81226;2;2;2;dicker;100% Maske aber doppellagig und damit dicker
+
+;2372;21;81228;2;-3;-3;Parodie;100% Parodie ... Maske
+
+;2373;21;81229;1;-5;4;soufflierte;100% soufflierte ... Maske
+
+;2374;21;81232;3;-5;-4;Verkäuferin; 66% Verkäuferin Michelle Bingel der Maske
+
+;2375;21;81233;1;-4;4;ähnelte;100% ähnelte ... Maske
+
+;2376;21;81234;1;2;4;Verkleidungen;100% Maske ... Verkleidungen
+
+;2377;21;81236;2;1;1;getwittert;100% Maske getwittert
+
+;2378;21;81237;1;-1;-1;gebenden;100% gebenden Maske
+
+;2379;21;81238;1;-3;-3;Berühmtheit;100% Maske ... Berühmtheit
+
+;2380;21;81239;1;-4;5;Serienmörder;100% Serienmörder ... Maske
+
+;2381;21;81241;2;-3;5;Mephistopheles;100% Maske des Mephistopheles
+
+;2382;21;81246;5;-3;-3;Schlange; 60% Maske ... in der Schlange
+
+;2383;21;81247;1;-5;2;Plante;100% Maske ... Plante
+
+;2384;21;81248;1;2;5;falsches;100% Maske ... falsches
+
+;2385;21;81249;1;-5;-2;Lewandowski;100% Lewandowski ... Maske
+
+;2386;21;81251;2;-2;-2;Abzug;100% Abzug und Maske
+
+;2387;21;81252;1;-1;-1;archaischer;100% archaischer Maske
+
+;2388;21;81253;1;1;1;einsteigt;100% einsteigt ... Maske
+
+;2389;21;81255;2;-2;2;Sportunterricht; 50% Maske Sportunterricht
+
+;2390;21;81256;1;-5;-4;Impfpass;100% Maske ... Impfpass
+
+;2391;21;81258;2;-4;-2;Mitreisender;100% Mitreisender fotografierte sie ohne Maske
+
+;2392;21;81259;1;1;4;anlassen;100% Maske anlassen
+
+;2393;21;81263;4;3;5;Eingangsportal;100% nein mit Maske ohne Maske das enge Eingangsportal
+
+;2394;20;81524;261;1;1;an; 53% an [der die] Maske
+
+;2395;20;81525;1;1;1;gastierte;100% Maske ... gastierte
+
+;2396;20;81575;50;-3;-3;doch; 62% doch ... die|mit Maske
+
+;2397;20;81582;7;3;3;20; 71% die Maske ... 20
+
+;2398;20;81583;1;2;3;BJP;100% BJP ... als ... Maske
+
+;2399;20;81584;1;-5;4;Zuschauerraum;100% Zuschauerraum ... Maske
+
+;2400;20;81586;2;1;1;verstehen;100% verstehen ... Maske
+
+;2401;20;81587;1;2;2;Faschismus;100% Maske ... Faschismus
+
+;2402;20;81588;1;-5;-2;manch;100% manch ... Maske
+
+;2403;20;81591;3;-5;-2;Pflegepersonal;100% Pflegepersonal ... Maske
+
+;2404;20;81593;2;-5;-2;Oberfläche;100% Oberfläche ... Maske
+
+;2405;20;81596;3;1;1;verbringen;100% Maske [...] verbringen
+
+;2406;20;81598;2;-3;-2;Unbekannten;100% Maske des Unbekannten
+
+;2407;20;81599;1;2;3;31;100% Maske ... 31.
+
+;2408;20;81600;1;2;5;gestylt;100% Maske ... gestylt
+
+;2409;20;81605;5;-5;-2;Junge;100% ein ... Junge mit|muss keine Maske
+
+;2410;20;81615;10;-5;5;Brigitte; 60% für die Maske bei|Tanja der|Nick und|MönchengladbacherKünstlerin Brigitte
+
+;2411;20;81619;4;-4;4;Gottschalk; 75% Maske [...] Gottschalk
+
+;2412;20;81621;2;1;3;bröckeln;100% Maske zu bröckeln
+
+;2413;20;81622;1;-3;4;versteigerte;100% Maske ... versteigerte
+
+;2414;20;81625;3;1;4;einsteigen;100% Maske [...] einsteigen
+
+;2415;20;81630;5;2;3;Einlass; 80% Einlass ohne mit Maske
+
+;2416;20;81636;6;-2;-2;jederzeit;100% Dank der Maske [kann ich einfach] jederzeit aussteigen
+
+;2417;20;81640;4;-5;2;Anja; 75% Anja [...] Maske
+
+;2418;20;81645;5;-5;-4;Petra; 80% Petra ... der Maske
+
+;2419;20;81647;2;1;1;verteidigt; 50% Maske ... verteidigt
+
+;2420;20;81648;1;-4;1;partout;100% partout ... Maske
+
+;2421;20;81649;1;-4;-4;Tappert;100% Tappert ... Maske
+
+;2422;20;81656;7;-3;-2;Vorstellung;100% der Vorstellung die|in der und Maske
+
+;2423;20;81658;2;-3;-2;Abgang; 50% Maske ... Abgang
+
+;2424;20;81659;1;1;1;tönt;100% Maske tönt
+
+;2425;20;81660;1;-3;4;Entlarvung;100% Entlarvung ... Maske
+
+;2426;20;81662;2;1;1;versehen; 50% Maske ... versehen
+
+;2427;20;81663;1;-4;-2;Trick;100% Trick ... Maske
+
+;2428;20;81668;5;4;4;restaurieren; 80% über die Maske - um zu restaurieren was
