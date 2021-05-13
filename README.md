@@ -16,6 +16,7 @@ Anwendung:
 - Es hat sich nun ein neues Fenster geöffnet, in dem das Script ausgeführt werden kann.
 - Ganz unten im Script die Argumente anpassen.
 - In der Befehlszeile oben auf "Run" klicken: Das Script wird ausgeführt. Falls es ein Problem gibt, wird eine Fehlermeldung angezeigt.
+- Im Browser Menü "File" -> "Close and Halt" wählen.
 - Im vorherigen Fenster steht nun die erzeugte Datei zum Download zur Verfügung.
 
 ## Links
