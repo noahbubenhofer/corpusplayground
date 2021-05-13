@@ -18,6 +18,7 @@ Anwendung:
 - In der Befehlszeile oben auf "Run" klicken: Das Script wird ausgeführt. Falls es ein Problem gibt, wird eine Fehlermeldung angezeigt.
 - Im Browser Menü "File" -> "Close and Halt" wählen.
 - Im vorherigen Fenster steht nun die erzeugte Datei zum Download zur Verfügung.
+- Nach dem Download oben rechts auf "Quit" klicken.
 
 ## Links
 [Introduction to Binder](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md)
