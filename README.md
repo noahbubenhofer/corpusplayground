@@ -2,7 +2,7 @@
 
 Sammlung verschiedener Scripte im Bereich der Korpuslinguistik, die direkt im Browser ausgeführt werden können. Dafür das Repository mit folgender Schaltfläche in Binder öffnen:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pleyad/jupyter-tests/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/noahbubenhofer/corpusplayground.git/main)
 
 ## dereko_cooc2json
 
