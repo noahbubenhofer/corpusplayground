@@ -11,7 +11,7 @@ Konvertiert Kollokations-/Kookkurrenzprofile aus DeReKo/COSMAS II in JSON-Dateie
 Anwendung:
 
 - Dieses Repo in Binder öffnen (siehe Schaltfläche oben) – dauert etwas, bitte warten
-- Eigene csv-Datei der Kookurrenzen (kopiert aus COSMAS II) hochladen.
+- Eigene csv-Datei der Kookurrenzen (kopiert aus COSMAS II) hochladen: Im Browserfenster oben rechts "upload" wählen.
 - dereko_cooc2json öffnen; falls eine Fehlermeldung wegen eines falschen Kernels erscheint, vorausgewählten Kernel Python 3 wählen ("set kernel")
 - Es hat sich nun ein neues Fenster geöffnet, in dem das Script ausgeführt werden kann.
 - Ganz unten im Script die Argumente anpassen.
